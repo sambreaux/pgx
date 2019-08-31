@@ -1,0 +1,73 @@
+gene,allele,RS_code,population_level,allele_function,notes
+CYP2D6,*1,NA,37.40%,Normal,
+CYP2D6,*2,"rs16947(A) 
+rs1135840(C)",21.20%,Normal,
+CYP2D6,*3,rs35742686(-),1.60%,Inactive,
+CYP2D6,*4,rs3892097(A),17.80%,Inactive,
+CYP2D6,*5,deletion,2.90%,Inactive,
+CYP2D6,*6,rs5030655,0.70%,Inactive,
+CYP2D6,*7,rs5030867,< 0.1%,Inactive,
+CYP2D6,*8,rs5030865,< 0.1%,Inactive,
+CYP2D6,*9,rs5030656,2.30%,Reduced,
+CYP2D6,*10,rs1065852,3.30%,Reduced,
+CYP2D6,*14A,"rs1065852
+rs1135840
+rs16947
+rs5030865
+",< 0.1%,Inactive,
+CYP2D6,*14B,"rs1135840
+rs16947
+rs5030865
+",0.10%,Reduced,
+CYP2D6,*17,"rs28371706(T)
+ rs16947(A)",0.20%,Reduced,
+CYP2D6,*29,"rs61736512(T) 
+rs1058164(C) 
+rs16947(A) 
+rs59421388(T) 
+rs1135840(C)",1.40%,Reduced,https://doi.org/10.3389/fphar.2018.00305
+CYP2D6,*36,"rs1065852
+rs1135840
+rs2267447
+",0.10%,Inactive,https://doi.org/10.3389/fphar.2018.00305
+CYP2D6,*39,rs1135840,< 0.1%,Normal,
+CYP2D6,*41,rs28371725,10.20%,Reduced,
+CYP2D6,*1XN,NA,0.80%,Increased,
+CYP2D6,*2XN,"rs16947(A) 
+rs1135840(C)",(1.0%,Increased,
+CYP2D6,*3XN,rs35742686(-),< 0.1%,Inactive,
+CYP2D6,*4XN,rs3892097(A),0.30%,Inactive,
+CYP2D6,*9XN,rs5030656,< 0.1%,Reduced,
+CYP2D6,*10XN,rs1065852,0.10%,Reduced,
+CYP2D6,*14AXN,"rs1065852
+rs1135840
+rs16947
+rs5030865
+",< 0.1%,Inactive,
+CYP2D6,*14BXN,"rs1135840
+rs16947
+rs5030865
+",,,
+CYP2D6,*41XN,rs28371725,0.10%,Reduced,
+,,,,,
+CYP2C19,*1,NA,63.10%,Normal,
+CYP2C19,*2,rs4244285,16.40%,Inactive,
+CYP2C19,*3,"rs4986893
+or
+rs57081121",0.20%,Inactive,
+CYP2C19,*17,rs12248560,20.20%,Reduced,
+CYP2C9,*1,NA,80.30%,Normal,
+CYP2C9,*2,rs1799853,12.80%,Reduced,
+CYP2C9,*3,rs1057910,6.90%,Reduced,
+VKORC1,G,rs9923231,59.70%,Normal,
+VKORC1,A,rs9923231,40.30%,Increased,
+CYP1A2,*1F,rs762551,0.67148,Increased,CYP1A2*1F allele is defined as having -163A.
+CYP1A2,*1A,rs762551,0.32852,Normal,
+CYP3A4,*1,NA,0.96816,Normal,
+CYP3A4,*22,rs35599367,0.03184,Reduced,
+CYP3A5,*1,NA,0.2637,Normal,
+CYP3A5,*3,rs776746,0.7363,Inactive,
+SLCO1B1,C,rs4149056,0.13288,Reduced,
+SLCO1B1,T,rs4149056,0.86712,Normal,
+OPRM1,A, rs1799971,0.8777,Normal,
+OPRM1,G, rs1799971,0.1223,Reduced,

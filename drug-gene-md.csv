@@ -1,114 +1,114 @@
-Gene,Drug,Guideline,CPIC Level,PharmGKB Level of Evidence,PGx on FDA Label,CPIC Publications (PMID)
-CYP2C19,amitriptyline,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,A,1A,,23486447;27997040
-CYP2C19,citalopram,https://cpicpgx.org/guidelines/guideline-for-selective-serotonin-reuptake-inhibitors-and-cyp2d6-and-cyp2c19/,A,1A,Actionable PGx,25974703
-CYP2C19,clopidogrel,https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/,A,1A,Actionable PGx,21716271;23698643
-CYP2C19,escitalopram,https://cpicpgx.org/guidelines/guideline-for-selective-serotonin-reuptake-inhibitors-and-cyp2d6-and-cyp2c19/,A,1A,Actionable PGx,25974703
-CYP2C19,voriconazole,https://cpicpgx.org/guidelines/guideline-for-voriconazole-and-cyp2c19/,A,1A,Actionable PGx,27981572
-CYP2C19,clomipramine,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,2A,,23486447;27997040
-CYP2C19,dexlansoprazole,,B,,Actionable PGx,
-CYP2C19,doxepin,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,3,Actionable PGx,23486447;27997040
-CYP2C19,esomeprazole,,B,3,Actionable PGx,
-CYP2C19,imipramine,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,2A,,23486447;27997040
-CYP2C19,lansoprazole,,B,2A,Informative PGx,
-CYP2C19,omeprazole,,B,2A,Actionable PGx,
-CYP2C19,pantoprazole,,B,3,Actionable PGx,
-CYP2C19,rabeprazole,,B,2A,Actionable PGx,
-CYP2C19,sertraline,https://cpicpgx.org/guidelines/guideline-for-selective-serotonin-reuptake-inhibitors-and-cyp2d6-and-cyp2c19/,B,1A,,25974703
-CYP2C19,trimipramine,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,2A,,23486447;27997040
-CYP2C19,brivaracetam,,B/C,4,Actionable PGx,
-CYP2C19,carisoprodol,,B/C,3,Actionable PGx,
-CYP2C19,clobazam,,C,2A,Actionable PGx,
-CYP2C19,diazepam,,C,3,Actionable PGx,
-CYP2C19,flibanserin,,C,,Actionable PGx,
-CYP2C9,phenytoin,https://cpicpgx.org/guidelines/guideline-for-phenytoin-and-cyp2c9-and-hla-b/,A,1A,Actionable PGx,25099164
-CYP2C9,warfarin,https://cpicpgx.org/guidelines/guideline-for-warfarin-and-cyp2c9-and-vkorc1/,A,1A,Actionable PGx,21900891;28198005
-CYP2C9,acenocoumarol,,B,2A,,
-CYP2C9,celecoxib,,B,2A,Actionable PGx,
-CYP2C9,flurbiprofen,,B/C,3,Actionable PGx,
-CYP2C9,diclofenac,,C,2A,,
-CYP2C9,flibanserin,,C,,Actionable PGx,
-CYP2C9,lesinurad,,C,,Actionable PGx,
-CYP2D6,amitriptyline,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,A,1A,Actionable PGx,23486447;27997040
-CYP2D6,atomoxetine,https://cpicpgx.org/cpic-guideline-for-atomoxetine-based-on-cyp2d6-genotype/,A,1A,Actionable PGx,30801677
-CYP2D6,codeine,https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/,A,1A,Actionable PGx,22205192;24458010
-CYP2D6,fluvoxamine,https://cpicpgx.org/guidelines/guideline-for-selective-serotonin-reuptake-inhibitors-and-cyp2d6-and-cyp2c19/,A,1A,Actionable PGx,25974703
-CYP2D6,nortriptyline,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,A,1A,Actionable PGx,23486447;27997040
-CYP2D6,ondansetron,https://cpicpgx.org/guidelines/guideline-for-ondansetron-and-tropisetron-and-cyp2d6-genotype/,A,1A,Informative PGx,28002639
-CYP2D6,oxycodone,,A,2A,,
-CYP2D6,paroxetine,https://cpicpgx.org/guidelines/guideline-for-selective-serotonin-reuptake-inhibitors-and-cyp2d6-and-cyp2c19/,A,1A,Informative PGx,25974703
-CYP2D6,tamoxifen,https://cpicpgx.org/guidelines/cpic-guideline-for-tamoxifen-based-on-cyp2d6-genotype/,A,1A,Actionable PGx,29385237
-CYP2D6,tramadol,,A,1B,Actionable PGx,
-CYP2D6,tropisetron,https://cpicpgx.org/guidelines/guideline-for-ondansetron-and-tropisetron-and-cyp2d6-genotype/,A,,,28002639
-CYP2D6,aripiprazole,,B,3,Actionable PGx,
-CYP2D6,brexpiprazole,,B,,Actionable PGx,
-CYP2D6,clomipramine,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,Actionable PGx,23486447;27997040
-CYP2D6,desipramine,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,Actionable PGx,23486447;27997040
-CYP2D6,dextromethorphan,,B,3,,
-CYP2D6,doxepin,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,Actionable PGx,23486447;27997040
-CYP2D6,eliglustat,,B,,Testing required,
-CYP2D6,imipramine,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,Actionable PGx,23486447;27997040
-CYP2D6,methylphenidate,,B,4,,
-CYP2D6,mirtazapine,,B,2A,,
-CYP2D6,pimozide,,B,4,Testing required,
-CYP2D6,protriptyline,,B,,Actionable PGx,
-CYP2D6,quinidine,,B,,Informative PGx,
-CYP2D6,risperidone,,B,2A,Informative PGx,
-CYP2D6,sertraline,,B,3,,
-CYP2D6,trimipramine,https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/,B,1A,Actionable PGx,23486447;27997040
-CYP2D6,venlafaxine,,B,2A,Actionable PGx,
-CYP2D6,vortioxetine,,B,3,Actionable PGx,
-CYP2D6,donepezil,,B/C,3,Actionable PGx,
-CYP2D6,iloperidone,,B/C,3,Actionable PGx,
-CYP2D6,perphenazine,,B/C,,Actionable PGx,
-CYP2D6,carvedilol,,C,3,Actionable PGx,
-CYP2D6,cevimeline,,C,,Actionable PGx,
-CYP2D6,clozapine,,C,,Actionable PGx,
-CYP2D6,darifenacin,,C,,Actionable PGx,
-CYP2D6,dolasetron,,C,3,,
-CYP2D6,duloxetine,,C,,Actionable PGx,
-CYP2D6,fesoterodine,,C,,Actionable PGx,
-CYP2D6,flecainide,,C,2A,,
-CYP2D6,flibanserin,,C,,Actionable PGx,
-CYP2D6,fluoxetine,,C,3,Informative PGx,
-CYP2D6,haloperidol,,C,3,,
-CYP2D6,metoprolol,,C,2A,Informative PGx,
-CYP2D6,modafinil,,C,,Actionable PGx,
-CYP2D6,olanzapine,,C,3,,
-CYP2D6,palonosetron,,C,,Informative PGx,
-CYP2D6,propafenone,,C,2A,Actionable PGx,
-CYP2D6,propranolol,,C,4,Informative PGx,
-CYP2D6,quinine,,C,,Actionable PGx,
-CYP2D6,tamsulosin,,C,,Actionable PGx,
-CYP2D6,terbinafine,,C,,Informative PGx,
-CYP2D6,tetrabenazine,,C,,Testing required,
-CYP2D6,thioridazine,,C,3,Actionable PGx,
-CYP2D6,timolol,,C,3,,
-CYP2D6,tiotropium,,C,,Informative PGx,
-CYP2D6,tolterodine,,C,2A,Actionable PGx,
-CYP2D6,zuclopenthixol,,C,3,,
-CYP2D6,galantamine,,D,3,Informative PGx,
-CYP3A4,tacrolimus,,C,2A,,
-CYP3A5,tacrolimus,https://cpicpgx.org/guidelines/guideline-for-tacrolimus-and-cyp3a5/,A,1A,,25801146
-CYP3A5,atazanavir,,C,3,,
-CYP3A5,cyclosporine,,C,2B,,
-CYP3A5,midazolam,,C,3,,
-CYP3A5,sirolimus,,C,2A,,
-OPRM1,alfentanil,,C/D,2B,,
-OPRM1,ethanol,,C/D,2B,,
-OPRM1,fentanyl,,C/D,2B,,
-OPRM1,methadone,,C/D,3,,
-OPRM1,morphine,,C/D,2B,,
-OPRM1,naloxone,,C/D,2B,,
-OPRM1,naltrexone,,C/D,3,,
-OPRM1,tramadol,,C/D,2B,,
-SLCO1B1,simvastatin,https://cpicpgx.org/guidelines/guideline-for-simvastatin-and-slco1b1/,A,1A,Informative PGx,22617227;24918167
-SLCO1B1,cerivastatin,,B,2A,,
-SLCO1B1,methotrexate,,C,2A,,
-SLCO1B1,pravastatin,,C,2A,,
-SLCO1B1,rosuvastatin,,C,2A,Actionable PGx,
-VKORC1,warfarin,https://cpicpgx.org/guidelines/guideline-for-warfarin-and-cyp2c9-and-vkorc1/,A,1A,Actionable PGx,21900891;28198005
-CYP1A2,Caffeine,,,,,PMC3346273
-CYP1A2,Clozapine ,,,,,PMC3346273
-CYP1A2,clopidogrel. ,,,,,PMC3346273
-CYP1A2,benzopyrene,,,,,PMC3346273
-CYP1A2,aflatoxin b1,,,,,PMC3346273
+Gene,Drug,CPIC Publications (PMID)
+CYP2C19,amitriptyline,23486447;27997040
+CYP2C19,citalopram,25974703
+CYP2C19,clopidogrel,21716271;23698643
+CYP2C19,escitalopram,25974703
+CYP2C19,voriconazole,27981572
+CYP2C19,clomipramine,23486447;27997040
+CYP2C19,dexlansoprazole,
+CYP2C19,doxepin,23486447;27997040
+CYP2C19,esomeprazole,
+CYP2C19,imipramine,23486447;27997040
+CYP2C19,lansoprazole,
+CYP2C19,omeprazole,
+CYP2C19,pantoprazole,
+CYP2C19,rabeprazole,
+CYP2C19,sertraline,25974703
+CYP2C19,trimipramine,23486447;27997040
+CYP2C19,brivaracetam,
+CYP2C19,carisoprodol,
+CYP2C19,clobazam,
+CYP2C19,diazepam,
+CYP2C19,flibanserin,
+CYP2C9,phenytoin,25099164
+CYP2C9,warfarin,21900891;28198005
+CYP2C9,acenocoumarol,
+CYP2C9,celecoxib,
+CYP2C9,flurbiprofen,
+CYP2C9,diclofenac,
+CYP2C9,flibanserin,
+CYP2C9,lesinurad,
+CYP2D6,amitriptyline,23486447;27997040
+CYP2D6,atomoxetine,30801677
+CYP2D6,codeine,22205192;24458010
+CYP2D6,fluvoxamine,25974703
+CYP2D6,nortriptyline,23486447;27997040
+CYP2D6,ondansetron,28002639
+CYP2D6,oxycodone,
+CYP2D6,paroxetine,25974703
+CYP2D6,tamoxifen,29385237
+CYP2D6,tramadol,
+CYP2D6,tropisetron,28002639
+CYP2D6,aripiprazole,
+CYP2D6,brexpiprazole,
+CYP2D6,clomipramine,23486447;27997040
+CYP2D6,desipramine,23486447;27997040
+CYP2D6,dextromethorphan,
+CYP2D6,doxepin,23486447;27997040
+CYP2D6,eliglustat,
+CYP2D6,imipramine,23486447;27997040
+CYP2D6,methylphenidate,
+CYP2D6,mirtazapine,
+CYP2D6,pimozide,
+CYP2D6,protriptyline,
+CYP2D6,quinidine,
+CYP2D6,risperidone,
+CYP2D6,sertraline,
+CYP2D6,trimipramine,23486447;27997040
+CYP2D6,venlafaxine,
+CYP2D6,vortioxetine,
+CYP2D6,donepezil,
+CYP2D6,iloperidone,
+CYP2D6,perphenazine,
+CYP2D6,carvedilol,
+CYP2D6,cevimeline,
+CYP2D6,clozapine,
+CYP2D6,darifenacin,
+CYP2D6,dolasetron,
+CYP2D6,duloxetine,
+CYP2D6,fesoterodine,
+CYP2D6,flecainide,
+CYP2D6,flibanserin,
+CYP2D6,fluoxetine,
+CYP2D6,haloperidol,
+CYP2D6,metoprolol,
+CYP2D6,modafinil,
+CYP2D6,olanzapine,
+CYP2D6,palonosetron,
+CYP2D6,propafenone,
+CYP2D6,propranolol,
+CYP2D6,quinine,
+CYP2D6,tamsulosin,
+CYP2D6,terbinafine,
+CYP2D6,tetrabenazine,
+CYP2D6,thioridazine,
+CYP2D6,timolol,
+CYP2D6,tiotropium,
+CYP2D6,tolterodine,
+CYP2D6,zuclopenthixol,
+CYP2D6,galantamine,
+CYP3A4,tacrolimus,
+CYP3A5,tacrolimus,25801146
+CYP3A5,atazanavir,
+CYP3A5,cyclosporine,
+CYP3A5,midazolam,
+CYP3A5,sirolimus,
+OPRM1,alfentanil,
+OPRM1,ethanol,
+OPRM1,fentanyl,
+OPRM1,methadone,
+OPRM1,morphine,
+OPRM1,naloxone,
+OPRM1,naltrexone,
+OPRM1,tramadol,
+SLCO1B1,simvastatin,22617227;24918167
+SLCO1B1,cerivastatin,
+SLCO1B1,methotrexate,
+SLCO1B1,pravastatin,
+SLCO1B1,rosuvastatin,
+VKORC1,warfarin,21900891;28198005
+CYP1A2,Caffeine,PMC3346273
+CYP1A2,Clozapine ,PMC3346273
+CYP1A2,clopidogrel. ,PMC3346273
+CYP1A2,benzopyrene,PMC3346273
+CYP1A2,aflatoxin b1,PMC3346273

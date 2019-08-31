@@ -1,0 +1,744 @@
+ID,ABCB1,ABCG2,ADRA2A,ADRB1,AGT,CACNA1C,CES1,CFTR,COMT,CYP1A2,CYP2C19,CYP2C9,CYP2D6,CYP3A4,CYP3A5,DPYD,DRD1,DRD2,DRD3,EDN1,F2,F5,GNB3,GRIK4,HTR1A,HTR2A,HTR2C,IFNL3,KCNIP1,LDLR,MTHFR,NR1H3,OPRM1,RYR1,SLC6A2,SLCO1B1,TPMT,VKORC1
+BCP-013,rs1045642:A/A Wild,rs2231142:G/G Wild,rs1800544:C/C Hom,rs1801252:A/A Wild,rs5051:T/T Hom,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild,rs4680:G/G Wild,rs2069526:T/T Wild,CYP2C19 *1/*17,CYP2C9 *1/*1,CYP2D6 *2/*41,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*5,rs4532:C/C Wild,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/T Wild,rs10042486:C/T Het,rs7997012:G/G Hom,rs7997012:G/G Hom,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:T/T Hom,rs1801133:G/G Wild,rs11039149:A/G Het,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/C Het,TPMT *1/*1,rs9923231:C/T Het
+BCP-013,rs2032582:A/A Wild,,,,rs699:G/G Hom,,,rs193922525:G/G Wild,,rs2470890:C/C Wild,rs4244285:G/G Wild,rs1799853:C/C Wild,rs16947:A/A Wild,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/T Het,,,,rs5443:C/T Het,,rs6295:C/G Het ,rs9316233:C/C Wild,rs9316233:C/C Wild,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild,rs1142345:T/T Wild,rs9934438:G/A Het
+BCP-013,rs1128503:A/A Wild,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/G Wild,,,,,,,rs6313:G/G Wild,rs6313:G/G Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/A Het
+BCP-013,rs2235015:C/C Wild,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:A/A Hom,,,,,,,,rs6311:C/C Wild,rs6311:C/C Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/G Het
+BCP-013,,,,,,,,rs121908755:G/G Wild,,rs762551:C/C Wild,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/C Het,,,,,,,,,,,,,,,,,,rs118192175:C/C Wild,,rs4149081:G/A Het,rs1800462:C/C Wild,rs7294:C/C Wild
+BCP-013,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+BCP-013,,,,,,,,rs121908757:A/A Wild,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+BCP-013,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+BCP-013,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+BCP-013,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+BCP-013,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+BCP-013,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+BCP-013,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+BCP-013,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+BCP-013,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+BCP-013,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+BCP-013,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+BCP-013,,,,,,,,,,,,,rs28371725:C/T Het,,,,,,,,,,,,,,,,,,,,,,,,,
+BCP-013,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+BCP-013,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+BCP-019,rs1045642:A/A Wild ,rs2231142:G/G Wild ,rs1800544:C/C Hom,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:A/A Hom ,rs71647871:C/T Het,rs267606723:G/G Wild ,rs4680:A/A Hom ,rs2069526:T/T Wild ,CYP2C19 *1/*1,CYP2C9 *2/*2,CYP2D6 *1/*2 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/T Wild,rs10042486:C/C Wild ,rs7997012:A/G Het,rs1414334:G/G Hom,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/C Wild,rs1801133:G/G Wild,rs11039149:A/G Het,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:T/T Hom 
+BCP-019,rs2032582:A/A Wild,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:T/T Hom,rs4244285:G/G Wild,rs1799853:T/T Hom,rs16947:A/G Het ,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:T/TG Het,rs6280:T/T Hom,,,,rs5443:C/T Het,,rs6295:C/C Wild,rs9316233:C/G Hom,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild ,rs1142345:T/T Wild,rs9934438:A/A Hom 
+BCP-019,rs1128503:A/A Wild,,,,,,,rs199826652:TCT/TCT Wild ,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs3813929:C/C Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/A Wild,rs1800584:C/C Wild,rs17708472:G/G Wild
+BCP-019,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/C Wild,rs518147:G/G Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/A Wild 
+BCP-019,,,,,,,,rs121908755:G/G Wild,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/C Wild
+BCP-019,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:G/G Hom
+BCP-019,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+BCP-019,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+BCP-019,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+BCP-019,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+BCP-019,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+BCP-019,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+BCP-019,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+BCP-019,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+BCP-019,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+BCP-019,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+BCP-019,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+BCP-019,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+BCP-019,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+BCP-019,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-151,rs1045642:A/A Wild ,rs2231142:G/G Wild ,rs1800544:G/C Het ,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:G/G Wild ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het,rs2069526:T/T Wild ,CYP2C19 *1/*1,CYP2C9 *1/*1 ,CYP2D6 *2/*2 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/T Wild,rs10042486:T/T Hom ,rs7997012:G/G Hom,rs1414334:G/G Hom,rs12979860:C/C Wild,rs11739136:C/T Het ,rs688:C/C Wild,rs1801133:G/A Het,rs11039149:G/G Hom ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:T/T Hom 
+K76-151,rs2032582:A/A Wild,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:T/T Hom,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:A/A Wild,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/C Wild,,,,rs5443:C/T Het,,rs6295:G/G Hom,rs9316233:C/C Wild,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/A Het,rs1142345:T/T Wild,rs9934438:A/A Hom 
+K76-151,rs1128503:A/A Wild,,,,,,,rs199826652:TCT/TCT Wild ,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/G Wild,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:G/G Hom,rs1800584:C/C Wild,rs17708472:G/G Wild
+K76-151,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/T Het ,rs518147:G/G Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/A Wild 
+K76-151,,,,,,,,rs121908755:G/G Wild,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/C Wild
+K76-151,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:G/G Hom
+K76-151,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+K76-151,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+K76-151,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+K76-151,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+K76-151,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+K76-151,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+K76-151,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+K76-151,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+K76-151,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-151,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-151,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-151,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-151,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-151,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-154,rs1045642:A/G Het,rs2231142:G/G Wild ,rs1800544:G/C Het ,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het,rs2069526:T/T Wild ,CYP2C19 *1/*1,CYP2C9 *1/*1 ,CYP2D6 *2/*10,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:C/C Hom,rs10042486:C/T Het,rs7997012:A/G Het,rs1414334:G/G Hom ,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:C/C Wild,rs1801133:A/A Hom ,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/C Het,TPMT *1/*1,rs9923231:T/T Hom 
+K76-154,rs2032582:C/C Hom,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:T/T Hom,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:A/G Het,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:T/TG Het,rs6280:T/T Hom,,,,rs5443:C/T Het,,rs6295:C/G Het ,rs9316233:C/C Wild,rs3813928:A/A Hom ,rs8099917:T/G Het,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild,rs1142345:T/T Wild,rs9934438:A/A Hom 
+K76-154,rs1128503:G/G Hom,,,,,,,rs199826652:TCT/TCT Wild ,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs3813929:T/T Hom ,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/G Wild
+K76-154,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/C Wild,rs518147:C/C Hom ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/A Wild 
+K76-154,,,,,,,,rs121908755:G/G Wild,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/C Het,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/A Het,rs1800462:C/C Wild,rs7294:C/C Wild
+K76-154,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/A Het,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:G/G Hom
+K76-154,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+K76-154,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+K76-154,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+K76-154,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+K76-154,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+K76-154,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+K76-154,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+K76-154,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+K76-154,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-154,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-154,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-154,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-154,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-154,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-159,rs1045642:A/A Wild ,rs2231142:G/T Het,rs1800544:G/C Het ,rs1801252:A/A Wild ,rs5051:C/C Wild ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/G Wild,rs2069526:T/T Wild ,CYP2C19 *1/*2,CYP2C9 *1/*1 ,CYP2D6 *2/*5,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:C/T Het ,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:A/A Wild,rs1414334:G/G Hom ,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:T/T Hom,rs1801133:A/A Hom ,rs11039149:A/G Het ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*3A,rs9923231:C/C Wild
+K76-159,rs2032582:A/A Wild,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/A Het ,rs1799853:C/C Wild ,rs16947:A/A Wild,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/T Het,,,,rs5443:C/C Wild,,rs6295:C/G Het ,rs9316233:C/C Wild,rs3813928:G/A Het ,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild ,rs1142345:T/C Het,rs9934438:G/G Wild
+K76-159,rs1128503:A/A Wild,,,,,,,rs199826652:TCT/TCT Wild ,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/A Het,rs3813929:C/T Het ,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/A Het
+K76-159,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:A/A Hom,,,,,,,,rs6311:C/T Het ,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/T Het,rs2359612:G/G Hom
+K76-159,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+K76-159,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/A Het,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+K76-159,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+K76-159,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+K76-159,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+K76-159,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+K76-159,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+K76-159,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+K76-159,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+K76-159,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+K76-159,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-159,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-159,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-159,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-159,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-159,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+K76-159,,,,,,,,,,,,,Allele Deletion ,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-293,rs1045642:A/A Wild ,rs2231142:G/G Wild ,rs1800544:C/C Hom,rs1801252:A/A Wild ,rs5051:C/C Wild ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:A/A Hom ,rs2069526:T/T Wild ,CYP2C19 *1/*1,CYP2C9 *1/*2 ,CYP2D6 *4/*4 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/C Het,rs10042486:C/C Wild ,rs7997012:A/G Het,rs1414334:G/G Hom ,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/G Wild,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*3A,rs9923231:C/T Het
+L65-293,rs2032582:A/A Wild,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/T Het,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:T/T Hom,,,,rs5443:C/C Wild,,rs6295:C/C Wild,rs9316233:C/G Het,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/A Het ,rs1142345:T/C Het,rs9934438:G/A Het
+L65-293,rs1128503:A/A Wild,,,,,,,rs199826652:TCT/TCT Wild ,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/G Wild
+L65-293,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/T Het ,rs518147:G/G Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/T Het,rs2359612:A/G Het
+L65-293,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+L65-293,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:A/A Hom,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+L65-293,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:T/T Hom,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+L65-293,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+L65-293,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+L65-293,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+L65-293,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+L65-293,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+L65-293,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+L65-293,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+L65-293,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-293,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-293,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-293,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-293,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-293,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-294,rs1045642:G/G Hom,rs2231142:G/G Wild ,rs1800544:G/G Wild,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:G/G Wild ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het,rs2069526:T/T Wild ,CYP2C19 *1/*2,CYP2C9 *1/*1 ,CYP2D6 *4/*41,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *5/*5,rs4532:C/T Het ,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/T Wild,rs10042486:C/T Het,rs7997012:G/G Hom ,rs1414334:G/G Hom ,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:A/A Hom ,rs11039149:A/G Het ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/T Het
+L65-294,rs2032582:A/A Wild,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:T/T Hom,rs4244285:G/A Het ,rs1799853:C/C Wild ,rs16947:A/G Het,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:T/TG Het,rs6280:T/T Hom,,,,rs5443:C/C Wild,,rs6295:C/G Het ,rs9316233:C/C Wild,rs3813928:G/A Het ,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild ,rs1142345:T/T Wild,rs9934438:G/A Het
+L65-294,rs1128503:A/A Wild,,,,,,,rs199826652:TCT/TCT Wild ,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:A/A Hom ,,,,,,,rs6313:G/A Het,rs3813929:C/T Het ,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/A Wild,rs1800584:C/C Wild,rs17708472:G/G Wild
+L65-294,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/T Het ,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/G Het
+L65-294,,,,,,,,rs121908755:G/G Wild,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/C Het,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+L65-294,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/A Het,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+L65-294,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/T Het,rs67784355:G/G Wild,,rs1801159:C/C Hom,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+L65-294,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+L65-294,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+L65-294,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+L65-294,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+L65-294,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+L65-294,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+L65-294,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+L65-294,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-294,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-294,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-294,,,,,,,,,,,,,rs28371725:C/T Het,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-294,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-294,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-295,rs1045642:A/G Het ,rs2231142:G/T Het,rs1800544:G/G Wild,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:A/A Hom ,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*2 ,CYP2D6 *2/*2 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*5,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:A/G Het,rs1414334:C/G Het ,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/A Het ,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:T/T Hom,rs4149056:T/T Wild ,TPMT *1/*3C,rs9923231:C/T Het
+L65-295,rs2032582:A/C Het,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/T Het,rs16947:A/A Wild,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/C Wild,,,,rs5443:C/C Wild,,rs6295:C/G Het ,rs9316233:C/G Het,rs3813928:G/G Wild,rs8099917:T/G Het,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild ,rs1142345:T/C Het,rs9934438:G/A Het
+L65-295,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild ,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/G Wild,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/A Wild,rs1800584:C/C Wild,rs17708472:G/G Wild
+L65-295,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:A/A Hom,,,,,,,,rs6311:C/T Het ,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/G Het
+L65-295,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/C Het ,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+L65-295,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+L65-295,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+L65-295,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+L65-295,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+L65-295,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+L65-295,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+L65-295,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+L65-295,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+L65-295,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+L65-295,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-295,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-295,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-295,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-295,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+L65-295,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-002 ,rs1045642:A/A Wild,rs2231142:G/G Wild ,rs1800544:G/C Het ,rs1801252:A/G Het ,rs5051:C/C Wild ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/G Wild,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*1 ,CYP2D6 *1/*4 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*5,rs4532:C/T Het ,rs1079598:A/G Het,rs167771:G/A Het,rs5370:G/T Het,rs1799963:G/A Het ,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:G/G Hom ,rs1414334:G/G Hom ,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/C Wild ,rs1801133:G/A Het ,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/T Het
+N24-002 ,rs2032582:A/C Het,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/T Het,,,,rs5443:C/C Wild,,rs6295:C/G Het ,rs9316233:C/G Het,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/T Het ,rs121918592:G/G Wild,rs12708954:A/A Hom,rs11045819:C/C Wild ,rs1142345:T/T Wild,rs9934438:G/A Het
+N24-002,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild ,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs3813929:C/C Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/A Wild,rs1800584:C/C Wild,rs17708472:G/G Wild
+N24-002,rs2235015:C/C Wild,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/C Wild,rs518147:G/G Wild ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/G Het
+N24-002,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+N24-002,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/A Het,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+N24-002,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/T Het,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+N24-002,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+N24-002,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+N24-002,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+N24-002,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+N24-002,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+N24-002,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+N24-002,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+N24-002,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-002,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-002,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-002,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-002,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-002,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-003 ,rs1045642:A/A Wild ,rs2231142:G/G Wild ,rs1800544:G/C Het ,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:G/G Wild ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:A/A Hom ,rs2069526:T/T Wild ,CYP2C19 *2/*17,CYP2C9 *1/*1 ,CYP2D6 *1/*2 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:C/T Het ,rs1079598:G/G Hom ,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/T Wild,rs10042486:C/C Wild ,rs7997012:A/A Wild,rs1414334:G/G Hom ,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:C/C Wild ,rs1801133:G/A Het ,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/C Wild
+N24-003 ,rs2032582:A/A Wild,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/A Het ,rs1799853:C/C Wild ,rs16947:A/G Het ,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:T/TG Het,rs6280:T/T Hom,,,,rs5443:C/C Wild,,rs6295:C/C Wild,rs9316233:C/C Wild,rs3813928:G/A Het ,rs8099917:T/G Het,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild ,rs1142345:T/T Wild,rs9934438:G/G Wild
+N24-003,rs1128503:A/A Wild,,,,,,,rs199826652:TCT/TCT Wild ,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs3813929:C/T Het ,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/A Het
+N24-003,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/G Wild ,,,,,,,,rs6311:C/C Wild,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:G/G Hom
+N24-003,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+N24-003,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+N24-003,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+N24-003,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+N24-003,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+N24-003,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+N24-003,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+N24-003,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+N24-003,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+N24-003,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+N24-003,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-003,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-003,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-003,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-003,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-003,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-006,rs1045642:A/A Wild,rs2231142:G/G Wild ,rs1800544:C/C Hom ,rs1801252:A/G Het ,rs5051:C/T Het ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/G Wild,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*3,CYP2D6 *1/*1 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*5,rs4532:C/T Het ,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:C/C Hom,rs10042486:T/T Hom ,rs7997012:A/G Het,rs1414334:G/G Hom ,rs12979860:C/T Het ,rs11739136:C/T Het ,rs688:C/C Wild ,rs1801133:G/G Wild,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/C Het,TPMT *1/*1,rs9923231:C/T Het
+N24-006,rs2032582:A/C Het,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:T/T Hom,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:T/TG Het,rs6280:C/T Het,,,,rs5443:C/T Het,,rs6295:G/G Hom,rs9316233:C/C Wild,rs3813928:G/G Wild,rs8099917:T/G Het,,,rs1801131:T/G Het ,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/A Het,rs1142345:T/T Wild,rs9934438:G/A Het
+N24-006,rs1128503:A/G Het,,,,,,,rs199826652:TCT/- Het,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/C Het,rs1135840:C/C Hom ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:G/G Hom ,rs1800584:C/C Wild,rs17708472:G/G Wild
+N24-006,rs2235015:C/C Wild,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/T Het ,rs518147:G/G Wild ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/G Het
+N24-006,,,,,,,,rs121908755:G/G Wild,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/A Het,rs1800462:C/C Wild,rs7294:C/T Het
+N24-006,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild ,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+N24-006,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild ,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+N24-006,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+N24-006,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+N24-006,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+N24-006,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+N24-006,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+N24-006,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+N24-006,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+N24-006,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-006,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-006,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-006,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-006,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-006,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-010,rs1045642:A/G Het ,rs2231142:G/G Wild ,rs1800544:C/C Hom ,rs1801252:A/A Wild ,rs5051:T/T Hom ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*1 ,CYP2D6 *1/*1 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom ,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/T Wild,rs10042486:C/C Wild ,rs7997012:A/G Het,rs1414334:G/G Hom ,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/A Het ,rs11039149:G/G Hom ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:T/T Hom ,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/C Wild
+N24-010,rs2032582:A/C Het,,,,rs699:G/G Hom ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:T/T Hom,,,,rs5443:C/T Het,,rs6295:C/C Wild,rs9316233:C/C Wild,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/G Het ,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild ,rs1142345:T/T Wild,rs9934438:G/G Wild
+N24-010,rs1128503:A/G Het,,,,,,,rs199826652:TCT/- Het,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:C/C Hom ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/A Wild,rs1800584:C/C Wild,rs17708472:G/A Het
+N24-010,rs2235015:C/C Wild,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:A/A Hom,,,,,,,,rs6311:C/C Wild,rs518147:G/G Wild ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:G/G Hom
+N24-010,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+N24-010,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild ,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+N24-010,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild ,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+N24-010,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+N24-010,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+N24-010,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+N24-010,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+N24-010,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+N24-010,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+N24-010,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+N24-010,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-010,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-010,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-010,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-010,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N24-010,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-037 ,rs1045642:A/A Wild,rs2231142:G/G Wild ,rs1800544:C/C Hom ,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/G Wild,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*1 ,CYP2D6 *4/*4 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*5,rs4532:T/T Hom ,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:A/A Hom ,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:A/A Wild,rs1414334:G/G Hom ,rs12979860:C/C Wild,rs11739136:C/T Het ,rs688:C/C Wild ,rs1801133:G/A Het ,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/T Het
+N43-037 ,rs2032582:A/C Het,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/C Wild,,,,rs5443:T/T Hom ,,rs6295:C/G Het ,rs9316233:G/G Hom ,rs3813928:G/A Het ,rs8099917:T/T Wild,,,rs1801131:T/G Het ,,rs510769:C/T Het ,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild ,rs1142345:T/T Wild,rs9934438:G/A Het
+N43-037,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/G Wild,,,,,,,rs6313:G/A Het,rs3813929:C/T Het ,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het ,rs1800584:C/C Wild,rs17708472:G/A Het
+N43-037,rs2235015:C/C Wild,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/T Het ,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/A Het ,rs1800460:C/C Wild,rs2359612:A/G Het
+N43-037,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/C Het,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/C Wild
+N43-037,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:A/A Hom,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+N43-037,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:T/T Hom,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+N43-037,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+N43-037,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+N43-037,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+N43-037,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+N43-037,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+N43-037,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+N43-037,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+N43-037,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-037,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-037,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-037,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-037,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-037,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-039 ,rs1045642:A/G Het ,rs2231142:G/G Wild ,rs1800544:G/C Het ,rs1801252:A/G Het ,rs5051:C/C Wild ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *2/*2,CYP2C9 *1/*1 ,CYP2D6 *1/*3 ,CYP3A4 *1/*22,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/T Wild,rs10042486:T/T Hom ,rs7997012:A/G Het,rs1414334:C/G Het ,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/A Het ,rs11039149:A/G Het ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:T/T Hom 
+N43-039 ,rs2032582:A/C Het,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:A/A Hom,rs1799853:C/C Wild ,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:T/TG Het,rs6280:C/T Het,,,,rs5443:C/C Wild,,rs6295:G/G Hom,rs9316233:C/G Het ,rs3813928:G/A Het ,rs8099917:T/T Wild,,,rs1801131:T/G Het ,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild ,rs1142345:T/T Wild,rs9934438:A/A Hom 
+N43-039,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:C/C Hom ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/A Het,rs3813929:C/T Het ,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:G/G Hom ,rs1800584:C/C Wild,rs17708472:G/G Wild
+N43-039,rs2235015:C/A Het,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/- Het,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/G Wild ,,,,,,,,rs6311:C/T Het ,rs518147:C/C Hom,,,,,,,rs118192172:C/C Wild,,rs4149015:A/A Hom ,rs1800460:C/C Wild,rs2359612:A/A Wild 
+N43-039,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/C Het ,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/C Wild
+N43-039,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild ,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:G/G Hom
+N43-039,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild ,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+N43-039,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+N43-039,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/A Het,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+N43-039,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+N43-039,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+N43-039,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+N43-039,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+N43-039,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+N43-039,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-039,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-039,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-039,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-039,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-039,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-040 ,rs1045642:A/G Het,rs2231142:G/G Wild ,rs1800544:G/C Het ,rs1801252:A/A Wild ,rs5051:C/C Wild ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *1/*2,CYP2C9 *1/*2 ,CYP2D6 *1/*41,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:C/T Het ,rs1079598:A/G Het ,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/A Het ,rs6025:T/C Het ,rs2301339:G/G Wild,rs1954787:C/C Hom,rs10042486:C/C Wild ,rs7997012:G/G Hom,rs1414334:G/G Hom ,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/A Het ,rs11039149:A/G Het ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/T Het ,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:T/T Hom 
+N43-040 ,rs2032582:C/C Hom,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:T/T Hom,rs4244285:G/A Het ,rs1799853:C/T Het,rs16947:A/G Het,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom ,rs6280:T/T Hom,,,,rs5443:C/C Wild,,rs6295:C/C Wild,rs9316233:C/G Het ,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/A Het ,rs1142345:T/T Wild,rs9934438:A/A Hom 
+N43-040,rs1128503:G/G Hom,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/G Wild
+N43-040,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/T Het ,rs518147:G/G Wild ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/A Wild 
+N43-040,,,,,,,,rs121908755:G/G Wild,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/C Het ,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/C Wild
+N43-040,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild ,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:G/G Hom
+N43-040,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild ,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+N43-040,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+N43-040,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+N43-040,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+N43-040,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+N43-040,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+N43-040,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+N43-040,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+N43-040,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-040,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-040,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-040,,,,,,,,,,,,,rs28371725:C/T Het,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-040,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N43-040,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N83-074 ,rs1045642:A/G Het,rs2231142:G/G Wild ,rs1800544:G/C Het ,rs1801252:A/G Het ,rs5051:C/C Wild ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *17/*17,CYP2C9 *1/*1 ,CYP2D6 *2/*6 ,CYP3A4 *1/*22,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/T Wild,rs10042486:T/T Hom ,rs7997012:A/G Het,rs1414334:G/G Hom ,rs12979860:C/C Wild,rs11739136:C/T Het ,rs688:C/T Het ,rs1801133:G/G Wild,rs11039149:A/A Wild,rs2281617:C/T Het ,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/C Wild
+N83-074 ,rs2032582:C/C Hom,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:A/G Het ,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:T/T Hom,,,,rs5443:C/T Het,,rs6295:G/G Hom,rs9316233:C/C Wild ,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/G Het ,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/A Het ,rs1142345:T/T Wild,rs9934438:G/G Wild
+N83-074,rs1128503:G/G Hom,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/G Wild 
+N83-074,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/T Het ,rs518147:G/G Wild ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:G/G Hom
+N83-074,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+N83-074,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+N83-074,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+N83-074,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/- Het ,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+N83-074,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/A Het,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+N83-074,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+N83-074,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+N83-074,,,,,,,,,,,rs12248560:T/T Hom,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+N83-074,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+N83-074,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+N83-074,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N83-074,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N83-074,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N83-074,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N83-074,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+N83-074,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-182,rs1045642:A/G Het ,rs2231142:G/T Het,rs1800544:C/C Hom ,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*1 ,CYP2D6 *35/*5,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:C/T Het ,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:A/A Wild,rs1414334:G/G Hom ,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:T/T Hom,rs1801133:A/A Hom ,rs11039149:A/G Het ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*3A,rs9923231:C/C Wild
+S73-182,rs2032582:A/C Het,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:T/T Hom,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:A/A Wild ,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/T Het,,,,rs5443:C/C Wild,,rs6295:C/G Het ,rs9316233:C/C Wild ,rs3813928:G/A Het ,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild ,rs1142345:T/C Het,rs9934438:G/G Wild
+S73-182,rs1128503:G/G Hom ,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/A Het,rs3813929:C/T Het ,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/A Het
+S73-182,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:A/A Hom ,,,,,,,,rs6311:C/T Het ,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/T Het,rs2359612:G/G Hom
+S73-182,,,,,,,,rs121908755:G/G Wild,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+S73-182,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild ,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+S73-182,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+S73-182,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+S73-182,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+S73-182,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+S73-182,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+S73-182,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+S73-182,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+S73-182,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+S73-182,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-182,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-182,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-182,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-182,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-182,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-182,,,,,,,,,,,,,Allele Deletion,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-183,rs1045642:A/G Het ,rs2231142:G/T Het,rs1800544:C/C Hom ,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:A/A Hom ,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*2 ,CYP2D6 *1/*2 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:A/G Het,rs1414334:G/G Hom ,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/G Wild,rs11039149:G/G Hom ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/T Het ,rs4149056:T/C Het,TPMT *1/*1,rs9923231:T/T Hom 
+S73-183,rs2032582:A/A Wild,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/T Het,rs16947:A/G Het ,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/T Het,,,,rs5443:C/T Het,,rs6295:C/G Het ,rs9316233:C/C Wild,rs3813928:G/A Het ,rs8099917:T/T Wild,,,rs1801131:T/G Het ,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild,rs1142345:T/T Wild,rs9934438:A/A Hom 
+S73-183,rs1128503:A/A Wild,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs3813929:C/T Het ,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/G Wild
+S73-183,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:A/A Hom ,,,,,,,,rs6311:C/C Wild,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/A Wild 
+S73-183,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/C Het ,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/A Het,rs1800462:C/C Wild,rs7294:C/C Wild
+S73-183,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:G/G Hom
+S73-183,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+S73-183,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+S73-183,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+S73-183,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+S73-183,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+S73-183,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+S73-183,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+S73-183,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+S73-183,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-183,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-183,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-183,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-183,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-183,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-186 ,rs1045642:A/G Het ,rs2231142:G/G Wild ,rs1800544:G/C Het ,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/G Wild ,rs2069526:T/T Wild,CYP2C19 *1/*1,CYP2C9 *1/*3,CYP2D6 *1/*2 ,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-186 ,rs2032582:A/C Het,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:C/C Wild,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:A/G Het ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*5,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:C/C Hom,rs10042486:C/C Wild ,rs7997012:A/G Het,rs1414334:G/G Hom ,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/A Het ,rs11039149:A/A Wild,rs2281617:C/T Het ,rs118192161:C/C Wild,rs3785143:C/T Het ,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/T Het
+S73-186,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/C Het,rs1135840:G/C Het ,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/T Het,,,,rs5443:C/C Wild,,rs6295:C/C Wild,rs9316233:C/G Het ,rs3813928:G/A Het ,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild ,rs1142345:T/T Wild,rs9934438:G/A Het
+S73-186,rs2235015:C/A Het,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/G Wild ,,,,,,,rs6313:G/A Het,rs3813929:C/T Het ,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/G Wild
+S73-186,,,,,,,,rs121908755:G/G Wild,,rs762551:C/C Wild,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/G Wild ,,,,,,,,rs6311:C/T Het ,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/G Het
+S73-186,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/A Het,,rs7294:C/T Het
+S73-186,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+S73-186,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+S73-186,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+S73-186,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+S73-186,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+S73-186,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+S73-186,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+S73-186,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+S73-186,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+S73-186,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-186,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-186,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-186,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-186,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-190 ,rs1045642:A/G Het,rs2231142:G/G Wild,rs1800544:G/G Wild ,rs1801252:A/A Wild,rs5051:T/T Hom,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/G Wild ,rs2069526:T/T Wild ,CYP2C19 *2/*17,CYP2C9 *1/*1 ,CYP2D6 *1/*9,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *4/*5,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:A/G Het,rs1414334:G/G Hom ,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:T/T Hom,rs1801133:G/G Wild,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/C Wild
+S73-190 ,rs2032582:C/C Hom,,,,rs699:G/G Hom,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/A Het ,rs1799853:C/C Wild ,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:T/T Hom,,,,rs5443:C/T Het,,rs6295:C/G Het ,rs9316233:C/C Wild,rs3813928:G/G Wild,rs8099917:T/G Het,,,rs1801131:T/G Het ,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/A Het ,rs1142345:T/T Wild,rs9934438:G/G Wild
+S73-190,rs1128503:G/G Hom,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:C/C Hom ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:A/A Hom ,,,,,,,rs6313:G/G Wild,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:G/G Hom,rs1800584:C/C Wild,rs17708472:G/G Wild 
+S73-190,rs2235015:C/A Het,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/C Wild,rs518147:G/G Wild ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:G/G Hom
+S73-190,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,,rs7294:T/T Hom
+S73-190,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild ,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+S73-190,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild ,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+S73-190,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/T Het ,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+S73-190,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+S73-190,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+S73-190,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/- Het ,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+S73-190,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+S73-190,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+S73-190,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+S73-190,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-190,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-190,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-190,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-190,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+S73-190,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-061,rs1045642:A/G Het ,rs2231142:G/T Het,rs1800544:G/G Wild ,rs1801252:A/A Wild,rs5051:C/C Wild ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:A/A Hom ,rs2069526:T/T Wild ,CYP2C19 *1/*1,CYP2C9 *1/*1 ,CYP2D6 *4/*4 ,CYP3A4 *1/*22,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:G/G Hom ,rs1414334:C/G Het ,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/C Wild ,rs1801133:G/A Het ,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/T Het
+T37-061,rs2032582:A/C Het,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/T Het,,,,rs5443:C/C Wild,,rs6295:C/G Het ,rs9316233:C/C Wild ,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/G Het ,,rs510769:C/T Het ,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild ,rs1142345:T/T Wild,rs9934438:G/A Het
+T37-061,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/G Wild ,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het ,rs1800584:C/C Wild,rs17708472:G/G Wild
+T37-061,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/T Het ,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild ,rs1800460:C/C Wild,rs2359612:A/G Het
+T37-061,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/C Het ,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+T37-061,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:A/A Hom,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+T37-061,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:T/T Hom,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+T37-061,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+T37-061,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/A Het ,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+T37-061,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+T37-061,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+T37-061,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+T37-061,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+T37-061,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+T37-061,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-061,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-061,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-061,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-061,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-061,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-065 ,rs1045642:A/G Het ,rs2231142:G/T Het,rs1800544:C/C Hom ,rs1801252:A/G Het ,rs5051:C/C Wild ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:A/A Hom ,rs2069526:T/T Wild ,CYP2C19 *1/*1,CYP2C9 *1/*3,CYP2D6 *2/*2 ,CYP3A4 *1/*8,CYP3A5 *3/*3,DPYD *1/*5,rs4532:C/T Het ,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/T Wild,rs10042486:C/T Het,rs7997012:A/G Het,rs1414334:G/G Hom ,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:T/T Hom,rs1801133:G/G Wild,rs11039149:A/G Het ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/C Wild
+T37-065 ,rs2032582:A/C Het,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:T/T Hom,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:A/A Wild,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/T Het,,,,rs5443:C/C Wild,,rs6295:C/G Het ,rs9316233:C/C Wild,rs3813928:G/A Het ,rs8099917:T/G Het,,,rs1801131:T/G Het ,,rs510769:C/T Het ,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/A Het ,rs1142345:T/T Wild,rs9934438:G/G Wild
+T37-065,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/C Het,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/G Wild ,,,,,,,rs6313:A/A Hom ,rs3813929:C/C Wild ,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het ,rs1800584:C/C Wild,rs17708472:G/G Wild 
+T37-065,rs2235015:C/C Wild ,,,,,,,rs75527207 Unreportable,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:A/A Hom ,,,,,,,,rs6311:T/T Hom,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild ,rs1800460:C/C Wild,rs2359612:G/G Hom
+T37-065,,,,,,,,rs121908755 Unreportable,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:T/T Hom
+T37-065,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/T Het ,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+T37-065,,,,,,,,rs121908757 Unreportable,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+T37-065,,,,,,,,rs121909005 Unreportable,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+T37-065,,,,,,,,rs121909013 Unreportable,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+T37-065,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+T37-065,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+T37-065,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+T37-065,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+T37-065,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+T37-065,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-065,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-065,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-065,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-065,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-065,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-068 ,rs1045642:G/G Hom,rs2231142:G/G Wild,rs1800544:G/C Het ,rs1801252:A/A Wild ,rs5051:C/C Wild ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:A/A Hom ,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*1 ,CYP2D6 *1/*1 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*5,rs4532:C/C Wild,rs1079598:A/G Het ,rs167771:A/A Hom ,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:C/C Hom,rs10042486:C/C Wild ,rs7997012:A/A Wild,rs1414334:C/G Het ,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:T/T Hom,rs1801133:G/G Wild,rs11039149:A/G Het ,rs2281617:T/T Hom ,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/C Het,TPMT *1/*1,rs9923231:C/T Het
+T37-068 ,rs2032582:C/C Hom,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom ,rs6280:C/T Het,,,,rs5443:C/T Het,,rs6295:C/C Wild,rs9316233:C/C Wild,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:T/T Hom ,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild,rs1142345:T/T Wild,rs9934438:G/A Het
+T37-068,rs1128503:G/G Hom,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:C/C Hom ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs3813929:C/C Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/G Wild
+T37-068,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/G Wild ,,,,,,,,rs6311:C/C Wild,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/A Het,rs1800460:C/C Wild,rs2359612:A/G Het
+T37-068,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/C Het ,,,,,,,rs118192175:C/C Wild,,rs4149081:G/A Het,rs1800462:C/C Wild,rs7294:C/T Het
+T37-068,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild ,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+T37-068,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild ,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+T37-068,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+T37-068,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+T37-068,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+T37-068,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+T37-068,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+T37-068,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+T37-068,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+T37-068,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-068,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-068,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-068,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-068,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-068,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-070,rs1045642:A/A Wild,rs2231142:G/G Wild,rs1800544 Unreportable,rs1801252:A/G Het ,rs5051:T/T Hom,rs1051375:G/A Het ,rs1051375:G/A Het ,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *XX/*XX ,CYP2C9 *1/*1 ,CYP2D6 *1/*4 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*5,rs4532:C/C Wild,rs1079598:A/G Het ,rs167771:A/A Hom ,rs5370:T/T Hom ,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/T Wild,rs10042486:C/T Het,rs7997012:G/G Hom ,rs1414334:G/G Hom ,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/G Wild,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/C Wild
+T37-070,rs2032582:C/C Hom,,,,rs699:G/G Hom,,,rs193922525:G/G Wild,,rs2470890:T/T Hom,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom ,rs6280:T/T Hom,,,,rs5443:C/T Het,,rs6295:C/G Het ,rs9316233:C/G Het,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/G Het ,,rs510769:C/T Het ,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild ,rs1142345:T/T Wild,rs9934438:G/G Wild
+T37-070,rs1128503:G/G Hom,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:A/A Hom ,,,,,,,rs6313:A/A Hom ,rs3813929:C/C Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het ,rs1800584:C/C Wild,rs17708472:G/G Wild 
+T37-070,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het ,,,,,,,,rs6311:T/T Hom,rs518147:G/G Wild ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/A Het ,rs1800460:C/C Wild,rs2359612:G/G Hom
+T37-070,,,,,,,,rs121908755:G/G Wild,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:T/T Hom
+T37-070,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/A Het,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+T37-070,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/T Het,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+T37-070,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+T37-070,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+T37-070,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+T37-070,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+T37-070,,,,,,,,,,,rs12248560 Unreportable,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+T37-070,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+T37-070,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+T37-070,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-070,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-070,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-070,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-070,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T37-070,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-163 ,rs1045642:A/G Het ,rs2231142:G/G Wild ,rs1800544:C/C Hom ,rs1801252:A/A Wild ,rs5051:C/C Wild ,rs1051375:G/A Het ,rs1051375:G/A Het ,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*2 ,CYP2D6 *1/*5,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/C Het,rs10042486:T/T Hom ,rs7997012:G/G Hom ,rs1414334:C/G Het ,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:C/C Wild ,rs1801133:G/G Wild,rs11039149:A/A Wild,rs2281617:C/T Het ,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/C Het,TPMT *1/*1,rs9923231:T/T Hom 
+T60-163 ,rs2032582:A/C Het,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:T/T Hom,rs4244285:G/G Wild,rs1799853:C/T Het,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:T/T Hom,,,,rs5443:C/C Wild,,rs6295:G/G Hom,rs9316233:C/G Het,rs3813928:G/G Wild,rs8099917:T/G Het,,,rs1801131:T/G Het ,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild,rs1142345:T/T Wild,rs9934438:A/A Hom 
+T60-163,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:C/C Hom ,rs2242480:C/T Het,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:A/A Hom ,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/G Wild
+T60-163,rs2235015:C/A Het,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:A/A Hom ,,,,,,,,rs6311:C/T Het ,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/A Wild 
+T60-163,,,,,,,,rs121908755:G/G Wild,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/C Het ,,,,,,,rs118192175:C/C Wild,,rs4149081:G/A Het,rs1800462:C/C Wild,rs7294:C/C Wild
+T60-163,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/A Het,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:G/G Hom
+T60-163,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+T60-163,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+T60-163,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+T60-163,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+T60-163,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+T60-163,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+T60-163,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+T60-163,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+T60-163,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-163,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-163,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-163,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-163,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-163,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-163,,,,,,,,,,,,,Allele Deletion ,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-167 ,rs1045642:A/A Wild,rs2231142:G/G Wild ,rs1800544:C/C Hom ,rs1801252:A/A Wild ,rs5051:T/T Hom,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:A/A Hom ,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*2 ,CYP2D6 *1/*41,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:G/G Hom ,rs1414334:G/G Hom ,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/A Het ,rs11039149:A/G Het ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/C Wild
+T60-167 ,rs2032582:A/C Het,,,,rs699:G/G Hom,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/T Het,rs16947:A/G Het,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:T/TG Het,rs6280:C/T Het,,,,rs5443:C/C Wild,,rs6295:C/G Het ,rs9316233:C/G Het,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/G Het ,,rs510769:T/T Hom ,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:A/A Hom,rs1142345:T/T Wild,rs9934438:G/G Wild
+T60-167,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/G Wild ,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:G/G Hom,rs1800584:C/C Wild,rs17708472:G/A Het
+T60-167,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/T Het ,rs518147:G/G Wild ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:G/G Hom
+T60-167,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+T60-167,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild ,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+T60-167,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild ,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+T60-167,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+T60-167,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+T60-167,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+T60-167,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+T60-167,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+T60-167,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+T60-167,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+T60-167,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-167,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-167,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-167,,,,,,,,,,,,,rs28371725:C/T Het,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-167,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-167,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-169 ,rs1045642:A/G Het ,rs2231142:G/G Wild,rs1800544:G/C Het ,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *1/*1,CYP2C9 *1/*1 ,CYP2D6 *2/*4,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:C/T Het ,rs1079598:A/G Het ,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/C Het,rs10042486:C/C Wild ,rs7997012:A/G Het,rs1414334:G/G Hom ,rs12979860:T/T Hom ,rs11739136:C/C Wild ,rs688:C/C Wild ,rs1801133:G/A Het ,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/C Wild
+T60-169 ,rs2032582:A/C Het,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:A/G Het,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom ,rs6280:T/T Hom,,,,rs5443:C/T Het,,rs6295:C/C Wild,rs9316233:C/C Wild,rs3813928:G/G Wild,rs8099917:T/G Het,,,rs1801131:T/G Het ,,rs510769:C/C Wild ,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild,rs1142345:T/T Wild,rs9934438:G/G Wild
+T60-169,rs1128503:G/G Hom,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/C Het ,rs963468:G/A Het ,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:C/C Hom ,,,,,,rs118192162:A/A Wild,,rs2306283:A/A Wild,rs1800584:C/C Wild,rs17708472:G/A Het
+T60-169,rs2235015:C/A Het,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het ,,,,,,,,rs6311:C/T Het ,rs518147:G/G Wild ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:G/G Hom
+T60-169,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/C Het ,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+T60-169,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/A Het,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+T60-169,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/T Het,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+T60-169,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+T60-169,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+T60-169,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+T60-169,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+T60-169,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+T60-169,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+T60-169,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+T60-169,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-169,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-169,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-169,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-169,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-169,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-170 ,rs1045642:A/A Wild ,rs2231142:G/T Het,rs1800544:G/G Wild ,rs1801252:A/A Wild,rs5051:C/C Wild ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:A/A Hom ,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*1 ,CYP2D6 *1/*2 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*5,rs4532:C/T Het ,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:T/C Het,rs10042486:T/T Hom ,rs7997012:G/G Hom,rs7997012:G/G Hom,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/A Het ,rs11039149:A/G Het ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/C Het,TPMT *1/*1,rs9923231:C/T Het
+T60-170 ,rs2032582:A/A Wild,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:T/T Hom,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:A/G Het ,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:T/T Hom,,,,rs5443:C/C Wild,,rs6295:G/G Hom,rs9316233:C/C Wild,rs9316233:C/C Wild,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/C Wild ,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild,rs1142345:T/T Wild,rs9934438:G/A Het
+T60-170,rs1128503:A/A Wild,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs6313:G/G Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/A Het
+T60-170,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:A/A Hom ,,,,,,,,rs6311:C/C Wild,rs6311:C/C Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/G Het
+T60-170,,,,,,,,rs121908755:G/G Wild,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild ,,,,,,,rs118192175:C/C Wild,,rs4149081:G/A Het,rs1800462:C/C Wild,rs7294:C/C Wild
+T60-170,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+T60-170,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+T60-170,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+T60-170,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+T60-170,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+T60-170,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+T60-170,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+T60-170,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+T60-170,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+T60-170,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-170,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-170,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-170,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-170,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+T60-170,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-111 ,rs1045642:A/G Het ,rs2231142:G/G Wild,rs1800544:G/C Het ,rs1801252:A/A Wild ,rs5051:C/C Wild ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:A/A Hom ,rs2069526:T/T Wild ,CYP2C19 *1/*1,CYP2C9 *2/*3 ,CYP2D6 *1/*2 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:C/T Het ,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/T Wild,rs10042486:C/C Wild ,rs7997012:G/G Hom,rs7997012:G/G Hom,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:C/C Wild ,rs1801133:G/A Het ,rs11039149:A/G Het ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/C Het,TPMT *1/*1,rs9923231:T/T Hom 
+W19-111 ,rs2032582:A/C Het,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/T Het ,rs16947:A/G Het ,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/C Wild,,,,rs5443:C/T Het,,rs6295:C/C Wild,rs9316233:C/C Wild,rs9316233:C/C Wild,rs8099917:T/T Wild,,,rs1801131:T/G Het ,,rs510769:C/C Wild ,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild,rs1142345:T/T Wild,rs9934438:A/A Hom 
+W19-111,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/C Het ,rs1135840:G/C Het ,rs2242480:C/T Het,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/G Wild,,,,,,,rs6313:G/A Het,rs6313:G/G Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/G Wild
+W19-111,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het ,,,,,,,,rs6311:C/T Het ,rs6311:C/C Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/A Wild 
+W19-111,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild ,,,,,,,rs118192175:C/C Wild,,rs4149081:G/A Het,rs1800462:C/C Wild,rs7294:C/C Wild
+W19-111,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:G/G Hom
+W19-111,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+W19-111,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+W19-111,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+W19-111,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+W19-111,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+W19-111,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+W19-111,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+W19-111,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+W19-111,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-111,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-111,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-111,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-111,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-111,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-114 ,rs1045642:A/G Het ,rs2231142:G/G Wild,rs1800544:G/C Het ,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *1/*1,CYP2C9 *1/*1 ,CYP2D6 *4/*41,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *5/*5,rs4532:T/T Hom,rs1079598:A/G Het ,rs167771:A/A Hom ,rs5370:G/T Het,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:C/C Hom,rs10042486:C/C Wild ,rs7997012:A/A Wild,rs7997012:G/G Hom,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/G Wild,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/C Wild
+W19-114 ,rs2032582:A/C Het,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:A/G Het,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom ,rs6280:T/T Hom,,,,rs5443:C/C Wild,,rs6295:C/C Wild,rs9316233:C/C Wild,rs9316233:C/C Wild,rs8099917:T/T Wild,,,rs1801131:T/G Het ,,rs510769:C/T Het ,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/A Het ,rs1142345:T/T Wild,rs9934438:G/G Wild
+W19-114,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:A/A Hom ,,,,,,,rs6313:G/A Het,rs6313:G/G Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het ,rs1800584:C/C Wild,rs17708472:G/G Wild 
+W19-114,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/G Wild ,,,,,,,,rs6311:C/T Het ,rs518147:C/C Hom ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild ,rs1800460:C/C Wild,rs2359612:G/G Hom
+W19-114,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:C/C Hom ,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:T/T Hom
+W19-114,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/A Het,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+W19-114,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/T Het,rs67784355:G/G Wild,,rs1801159:C/C Hom,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+W19-114,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+W19-114,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+W19-114,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+W19-114,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+W19-114,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+W19-114,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+W19-114,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+W19-114,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-114,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-114,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-114,,,,,,,,,,,,,rs28371725:C/T Het,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-114,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-114,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-115 ,rs1045642:A/G Het ,rs2231142:G/G Wild,rs1800544:G/C Het ,rs1801252:A/G Het ,rs5051:C/C Wild ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *2/*17,CYP2C9 *1/*1 ,CYP2D6 *1/*2 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/G Wild,rs1954787:C/C Hom,rs10042486:C/T Het,rs7997012:A/G Het,rs1414334:G/G Hom,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:T/T Hom,rs1801133:G/G Wild,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/C Het,TPMT *1/*1,rs9923231:C/C Wild
+W19-115 ,rs2032582:A/C Het,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/A Het ,rs1799853:C/C Wild ,rs16947:A/G Het ,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/T Het,,,,rs5443:C/C Wild,,rs6295:C/G Het ,rs9316233:C/G Het ,rs3813928:G/G Wild,rs8099917:T/G Het,,,rs1801131:T/G Het ,,rs510769:C/C Wild ,rs121918592:G/G Wild,rs12708954:A/A Hom,rs11045819:C/A Het,rs1142345:T/T Wild,rs9934438:G/G Wild
+W19-115,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het ,rs2242480:C/T Het,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/G Wild ,,,,,,,rs6313:G/G Wild,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:G/G Hom ,rs1800584:C/C Wild,rs17708472:G/G Wild 
+W19-115,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:A/A Hom ,,,,,,,,rs6311:C/C Wild,rs518147:G/G Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:G/G Hom
+W19-115,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/A Het,rs1800462:C/C Wild,rs7294:T/T Hom
+W19-115,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/G Het ,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+W19-115,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+W19-115,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+W19-115,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+W19-115,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+W19-115,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+W19-115,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+W19-115,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+W19-115,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+W19-115,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-115,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-115,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-115,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-115,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-115,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-117 ,rs1045642:A/G Het ,rs2231142:G/G Wild,rs1800544:C/C Hom ,rs1801252:A/G Het ,rs5051:C/C Wild ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/G Het ,CYP2C19 *1/*2,CYP2C9 *1/*2 ,CYP2D6 *4/*35A,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *5/*5,rs4532:C/T Het ,rs1079598:A/G Het ,rs167771:G/A Het,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:A/G Het,rs1414334:C/G Het ,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:T/T Hom,rs1801133:G/A Het ,rs11039149:A/G Het ,rs2281617:C/T Het ,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/C Het,TPMT *1/*1,rs9923231:T/T Hom 
+W19-117 ,rs2032582:A/C Het,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/C Wild ,rs4244285:G/A Het ,rs1799853:C/T Het,rs16947:A/G Het,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom ,rs6280:C/T Het,,,,rs5443:C/T Het,,rs6295:C/G Het ,rs9316233:C/G Het ,rs3813928:G/G Wild,rs8099917:T/G Het,,,rs1801131:T/G Het ,,rs510769:C/C Wild,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild,rs1142345:T/T Wild,rs9934438:A/A Hom 
+W19-117,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/T Het,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/G Wild ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het,rs1800584:C/C Wild,rs17708472:G/G Wild
+W19-117,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/C Het ,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/G Wild ,,,,,,,,rs6311:C/T Het ,rs518147:G/C Het ,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:A/A Wild 
+W19-117,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/C Het ,,,,,,,rs118192175:C/C Wild,,rs4149081:G/A Het,rs1800462:C/C Wild,rs7294:C/C Wild
+W19-117,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/A Het,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:G/G Hom
+W19-117,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/T Het,rs67784355:G/G Wild,,rs1801159:C/C Hom,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+W19-117,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+W19-117,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+W19-117,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/GT Het ,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+W19-117,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+W19-117,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+W19-117,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+W19-117,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+W19-117,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-117,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-117,,,,,,,,,,,,,rs769258:C/T Het ,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-117,,,,,,,,,,,,,rs28371725:C/C Wild ,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-117,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-117,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-119 ,rs1045642:A/G Het ,rs2231142:G/G Wild ,rs1800544:C/C Hom ,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/G Wild ,rs2069526:T/G Het ,CYP2C19 *1/*2,CYP2C9 *1/*3,CYP2D6 *1/*1 ,CYP3A4 *1/*1,CYP3A5 *1/*3,DPYD *1/*1 ,rs4532:C/T Het ,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/T Wild,rs10042486:C/C Wild ,rs7997012:A/G Het,rs1414334:G/G Hom,rs12979860:C/T Het ,rs11739136:C/T Het ,rs688:C/C Wild ,rs1801133:G/G Wild,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:T/T Hom ,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/T Het
+W19-119 ,rs2032582:C/C Hom ,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:C/C Wild ,rs4244285:G/A Het ,rs1799853:C/C Wild ,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/T Het ,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:C/T Het,,,,rs5443:C/T Het,,rs6295:C/C Wild,rs9316233:C/G Het ,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:C/T Het ,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild ,rs1142345:T/T Wild,rs9934438:G/A Het
+W19-119,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/T Het,rs4986893:G/G Wild,rs1057910:A/C Het,rs1135840:C/C Hom ,rs2242480:C/T Het,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:G/G Hom ,rs1800584:C/C Wild,rs17708472:G/G Wild
+W19-119,rs2235015:C/A Het,,,,,,,rs75527207:G/G Wild,,rs4646427:T/C Het ,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het ,,,,,,,,rs6311:C/C Wild,rs518147:G/G Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/A Het,rs1800460:C/C Wild,rs2359612:A/G Het
+W19-119,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+W19-119,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild ,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+W19-119,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild ,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+W19-119,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+W19-119,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+W19-119,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/GT Het ,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+W19-119,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+W19-119,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+W19-119,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+W19-119,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+W19-119,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-119,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-119,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-119,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-119,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+W19-119,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-142 ,rs1045642:G/G Hom,rs2231142:G/G Wild,rs1800544:C/C Hom ,rs1801252:A/A Wild ,rs5051:C/C Wild ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/G Wild ,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*1 ,CYP2D6 *1/*2 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:C/T Het ,rs1079598:A/G Het ,rs167771:A/A Hom ,rs5370:G/G Wild,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:A/A Wild,rs1414334:G/G Hom,rs12979860:C/C Wild,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/G Wild,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/T Het
+X73-142 ,rs2032582:C/C Hom,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:A/G Het ,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom ,rs6280:T/T Hom,,,,rs5443:C/T Het,,rs6295:C/G Het ,rs9316233:C/C Wild,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:T/T Hom ,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/A Het ,rs1142345:T/T Wild,rs9934438:G/A Het
+X73-142,rs1128503:G/G Hom,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs3813929:C/C Wild,rs8103142:T/T Wild,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het ,rs1800584:C/C Wild,rs17708472:G/A Het
+X73-142,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het ,,,,,,,,rs6311:C/C Wild,rs518147:G/G Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild ,rs1800460:C/C Wild,rs2359612:A/G Het
+X73-142,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/C Wild
+X73-142,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/G Het
+X73-142,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+X73-142,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+X73-142,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+X73-142,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+X73-142,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+X73-142,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+X73-142,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+X73-142,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+X73-142,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-142,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-142,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-142,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-142,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-142,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-145 ,rs1045642:A/G Het ,rs2231142:G/G Wild,rs1800544:G/C Het ,rs1801252:A/G Het ,rs5051:C/T Het ,rs1051375:G/A Het ,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *1/*2,CYP2C9 *1/*2 ,CYP2D6 *1/*2 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:C/T Het ,rs1079598:A/A Wild,rs167771:G/A Het,rs5370:G/T Het ,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:A/A Hom ,rs1954787:C/C Hom,rs10042486:C/T Het,rs7997012:G/G Hom ,rs1414334:G/G Hom,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:C/T Het ,rs1801133:G/A Het ,rs11039149:A/G Het ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/T Het ,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/C Wild
+X73-145 ,rs2032582:A/C Het,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/A Het ,rs1799853:C/T Het,rs16947:A/G Het ,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:T/TG Het,rs6280:C/T Het,,,,rs5443:T/T Hom ,,rs6295:C/G Het ,rs9316233:C/G Het ,rs3813928:G/G Wild,rs8099917:T/G Het,,,rs1801131:T/T Wild,,rs510769:C/C Wild ,rs121918592:G/G Wild,rs12708954:C/C Wild,rs11045819:C/C Wild,rs1142345:T/T Wild,rs9934438:G/G Wild
+X73-145,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het ,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/A Wild,rs1800584:C/C Wild,rs17708472:G/G Wild 
+X73-145,rs2235015:C/C Wild ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het,,,,,,,,rs6311:C/C Wild,rs518147:G/G Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/C Wild,rs2359612:G/G Hom
+X73-145,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:T/T Hom
+X73-145,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+X73-145,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+X73-145,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+X73-145,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+X73-145,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+X73-145,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+X73-145,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+X73-145,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+X73-145,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+X73-145,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-145,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-145,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-145,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-145,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-145,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-147 ,rs1045642:A/G Het ,rs2231142:G/T Het,rs1800544:C/C Hom ,rs1801252:A/A Wild ,rs5051:C/T Het ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/G Het ,CYP2C19 *1/*2,CYP2C9 *1/*1 ,CYP2D6 *1/*4 ,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*5,rs4532:T/T Hom,rs1079598:A/A Wild,rs167771:A/A Hom ,rs5370:G/T Het ,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:G/A Het,rs1954787:T/C Het,rs10042486:C/C Wild ,rs7997012:A/G Het,rs1414334:G/G Hom,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:C/C Wild ,rs1801133:G/G Wild,rs11039149:A/G Het ,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/C Wild,rs4149056:T/T Wild ,TPMT *1/*1,rs9923231:C/C Wild
+X73-147 ,rs2032582:C/C Hom ,,,,rs699:A/G Het,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/A Het ,rs1799853:C/C Wild ,rs16947:G/G Hom,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom,rs6280:T/T Hom,,,,rs5443:C/T Het,,rs6295:C/C Wild,rs9316233:C/C Wild,rs3813928:G/G Wild,rs8099917:T/G Het,,,rs1801131:T/G Het ,,rs510769:C/T Het ,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/A Het ,rs1142345:T/T Wild,rs9934438:G/G Wild
+X73-147,rs1128503:G/G Hom ,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/T Het,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het ,rs2242480:C/T Het,,rs3918290:C/C Wild,,rs1799978:T/C Het ,rs963468:G/A Het ,,,,,,,rs6313:G/G Wild,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/G Het ,rs1800584:C/C Wild,rs17708472:G/A Het
+X73-147,rs2235015:C/A Het,,,,,,,rs75527207:G/G Wild,,rs4646427:T/C Het ,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het ,,,,,,,,rs6311:C/C Wild,rs518147:G/G Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild ,rs1800460:C/C Wild,rs2359612:G/G Hom
+X73-147,,,,,,,,rs121908755:G/G Wild,,rs762551:A/A Hom,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/T Het
+X73-147,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/A Het,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+X73-147,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/T Het,rs67784355:G/G Wild,,rs1801159:T/C Het,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+X73-147,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+X73-147,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+X73-147,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/GT Het ,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+X73-147,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/CTT Wild,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+X73-147,,,,,,,,,,,rs12248560:C/C Wild ,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+X73-147,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+X73-147,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+X73-147,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-147,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-147,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-147,,,,,,,,,,,,,rs28371725:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-147,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-147,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-148 ,rs1045642:A/A Wild,rs2231142:G/G Wild ,rs1800544:C/C Hom ,rs1801252:A/G Het ,rs5051:C/C Wild ,rs1051375:A/A Hom,rs71647871:C/C Wild,rs267606723:G/G Wild ,rs4680:G/A Het ,rs2069526:T/T Wild ,CYP2C19 *1/*17,CYP2C9 *1/*1 ,CYP2D6 *9/*41,CYP3A4 *1/*1,CYP3A5 *3/*3,DPYD *1/*1 ,rs4532:C/T Het ,rs1079598:A/G Het ,rs167771:A/A Hom ,rs5370:G/T Het ,rs1799963:G/G Wild,rs6025:C/C Hom,rs2301339:A/A Hom ,rs1954787:T/C Het,rs10042486:C/T Het,rs7997012:A/G Het,rs1414334:G/G Hom,rs12979860:C/T Het ,rs11739136:C/C Wild ,rs688:C/C Wild ,rs1801133:G/A Het ,rs11039149:A/A Wild,rs2281617:C/C Wild,rs118192161:C/C Wild,rs3785143:C/T Het ,rs4149056:T/T Wild ,TPMT *1/*3A,rs9923231:C/C Wild
+X73-148 ,rs2032582:A/C Het,,,,rs699:A/A Wild ,,,rs193922525:G/G Wild,,rs2470890:C/T Het,rs4244285:G/G Wild,rs1799853:C/C Wild ,rs16947:A/G Het,rs12721627:G/G Wild,rs776746:C/C Wild,rs67376798:T/T Wild,,rs1799732:TG/TG Hom ,rs6280:C/C Wild,,,,rs5443:T/T Hom ,,rs6295:C/G Het ,rs9316233:C/G Het ,rs3813928:G/G Wild,rs8099917:T/T Wild,,,rs1801131:T/T Wild,,rs510769:T/T Hom ,rs121918592:G/G Wild,rs12708954:C/A Het,rs11045819:C/C Wild,rs1142345:T/C Het,rs9934438:G/G Wild
+X73-148,rs1128503:A/G Het,,,,,,,rs199826652:TCT/TCT Wild,,rs4646425:C/C Wild,rs4986893:G/G Wild,rs1057910:A/A Wild,rs1135840:G/C Het,rs2242480:C/C Wild,,rs3918290:C/C Wild,,rs1799978:T/T Wild,rs963468:G/G Wild,,,,,,,rs6313:G/A Het,rs3813929:C/C Wild,rs8103142:T/C Het ,,,,,,rs118192162:A/A Wild,,rs2306283:A/A Wild,rs1800584:C/C Wild,rs17708472:A/A Hom 
+X73-148,rs2235015:C/A Het ,,,,,,,rs75527207:G/G Wild,,rs4646427:T/T Wild,rs28399504:A/A Wild,rs28371686:C/C Wild,rs35742686:T/T Wild,rs12721629:G/G Wild,,rs55886062:A/A Wild,,rs6277:G/A Het ,,,,,,,,rs6311:C/T Het ,rs518147:G/G Wild,,,,,,,rs118192172:C/C Wild,,rs4149015:G/G Wild,rs1800460:C/T Het,rs2359612:G/G Hom
+X73-148,,,,,,,,rs121908755:G/G Wild,,rs762551:C/A Het,rs56337013:C/C Wild,rs9332131:A/A Wild,rs1135824:T/T Wild,rs4987161:A/A Wild,,rs2297595:T/T Wild,,,,,,,,,,,rs6318:G/G Wild,,,,,,,rs118192175:C/C Wild,,rs4149081:G/G Wild,rs1800462:C/C Wild,rs7294:C/C Wild 
+X73-148,,,,,,,,rs80282562:G/G Wild,,,rs72552267:G/G Wild,rs7900194:G/G Wild,rs1065852:G/G Wild ,rs72552799:C/C Wild,,rs17376848:A/A Wild,,,,,,,,,,,,,,,,,,rs118192163:G/G Wild,,,,rs8050894:C/C Wild 
+X73-148,,,,,,,,rs121908757:A/A Wild ,,,rs72558186:T/T Wild,rs28371685:C/C Wild,rs3892097:C/C Wild ,rs67784355:G/G Wild,,rs1801159:T/T Wild,,,,,,,,,,,,,,,,,,rs118192176:G/G Wild,,,,
+X73-148,,,,,,,,rs121909005:T/T Wild,,,rs41291556:T/T Wild,rs56165452:T/T Wild,rs5030655:A/A Wild,rs4986909:G/G Wild,,rs1801158:C/C Wild,,,,,,,,,,,,,,,,,,rs118192177:C/C Wild,,,,
+X73-148,,,,,,,,rs121909013:G/G Wild,,,rs17884712:G/G Wild,,rs5030867:T/T Wild,rs35599367:G/G Wild,,rs115232898:T/T Wild,,,,,,,,,,,,,,,,,,rs121918593:G/G Wild,,,,
+X73-148,,,,,,,,rs74503330:G/G Wild,,,rs6413438:C/C Wild,,rs5030865:C/C Wild,rs67666821:G/G Wild,,,,,,,,,,,,,,,,,,,,rs28933397:C/C Wild,,,,
+X73-148,,,,,,,,rs121909041:T/T Wild,,,rs55640102:A/A Wild,,rs5030656:CTT/- Het ,,,,,,,,,,,,,,,,,,,,,rs121918594:G/G Wild,,,,
+X73-148,,,,,,,,,,,rs12248560:C/T Het,,rs5030863:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192167:A/A Wild,,,,
+X73-148,,,,,,,,,,,,,rs5030862:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs121918595:C/C Wild,,,,
+X73-148,,,,,,,,,,,,,rs72549357:C/C Wild,,,,,,,,,,,,,,,,,,,,,rs118192170:T/T Wild ,,,,
+X73-148,,,,,,,,,,,,,rs28371706:G/G Wild,,,,,,,,,,,,,,,,,,,,,,,,,0
+X73-148,,,,,,,,,,,,,rs59421388:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-148,,,,,,,,,,,,,rs769258:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-148,,,,,,,,,,,,,rs28371725:C/T Het,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-148,,,,,,,,,,,,,rs28371696:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,
+X73-148,,,,,,,,,,,,,rs28371717:C/C Wild,,,,,,,,,,,,,,,,,,,,,,,,,

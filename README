@@ -1,1 +1,10 @@
 PGx data
+
+mydna snps -sheet1.csv = myDNA snp frequency and information 
+mydna folder = cleaned and tidy myDNA genotype data
+mydna csv folder = raw extractd myDNA genotype data
+ALL PATIENTS.csv = kailos genotype data
+myfreq.csv = frequency odf the myDNA genotypes compared with our samples (per_freq)
+mygenotypes.csv = frequency and gene function status of mydna genotypes
+all_myDNA.csv = combined myDNA genotype data
+drug-gene-md.csv = drug's whose metabolism is impacted by gene based off of CPIC pgx guidlines
