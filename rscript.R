@@ -1,6 +1,7 @@
 library(data.table)
 library(tidyverse)
 library(plyr)
+library(reshape2)
 library(compare)
 setwd("mydna")
 
@@ -55,3 +56,21 @@ frequencies<-merge(mydata, data_Freq, by = c("GENE","GENOTYPE"))
 frequencies<- format(frequencies, digits = 2)
 
 write_csv (frequencies, "C:/Users/Sam/Documents/pgx/myfreq.csv")
+
+kdata<-read.csv("C:/Users/Sam/Desktop/pgx/allkailos3.csv")
+
+kd<-kdata %>% mutate_if(is.factor, as.character)%>%
+  mutate_if(is.character, str_trim)
+
+
+m<-melt(kd, id.vars = "ID", measure.vars = 2:39)%>%
+  mutate_all(~replace(., . == "", NA)) %>%
+  na.omit()%>%
+  rename(c('variable' = 'GENE', 'value'='kailos_call'))
+
+lol<-table(m$kailos_call)%>%
+  as.data.frame()%>%
+  rename(c('Var1' = 'kailos_call'))%>%
+  mutate(per_freq = Freq/37*100)%>%
+  merge(m, by = 'kailos_call')
+
