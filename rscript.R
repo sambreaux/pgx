@@ -4,9 +4,9 @@ library(plyr)
 library(reshape2)
 library(compare)
 setwd("mydna")
+getwd()
 
-
-mydata<-read.csv("C:/Users/Sam/Documents/pgx/mygenotypes.csv")%>%
+mydata<-read.csv("C:/Users/SamBr/Documents/pgx/mygenotypes.csv")%>%
   select(-X)%>%
   rename(c('gene' = 'GENE', 'genotype' = 'GENOTYPE'))
   
@@ -14,11 +14,13 @@ mydata<-read.csv("C:/Users/Sam/Documents/pgx/mygenotypes.csv")%>%
 
 files <- list.files()
 temp <- lapply(files, fread, sep=",")
-data <- rbindlist(temp)
-x<-unique(data$GENOTYPE)
-view(x)
+data <- rbindlist(temp)%>%
+  mutate_if(is.character, str_trim)
 
-write_csv (data, "C:/Users/Sam/Documents/pgx/all_mydna.csv")
+
+
+
+write_csv (data, "C:/Users/SamBr/Documents/pgx/all_mydna.csv")
 
 xx<-split(data, data$GENE, drop = F)
 #names(xx)
@@ -55,9 +57,9 @@ frequencies<-merge(mydata, data_Freq, by = c("GENE","GENOTYPE"))
 
 frequencies<- format(frequencies, digits = 2)
 
-write_csv (frequencies, "C:/Users/Sam/Documents/pgx/myfreq.csv")
+write_csv (frequencies, "C:/Users/SamBr/Documents/pgx/myfreq.csv")
 
-kdata<-read.csv("C:/Users/Sam/Desktop/pgx/allkailos3.csv")
+kdata<-read.csv("C:/Users/SamBr/Documents/pgx/allkailos3.csv")
 
 kd<-kdata %>% mutate_if(is.factor, as.character)%>%
   mutate_if(is.character, str_trim)
@@ -71,6 +73,14 @@ m<-melt(kd, id.vars = "ID", measure.vars = 2:39)%>%
 lol<-table(m$kailos_call)%>%
   as.data.frame()%>%
   rename(c('Var1' = 'kailos_call'))%>%
-  mutate(per_freq = Freq/37*100)%>%
-  merge(m, by = 'kailos_call')
+  mutate(k_per_freq = Freq/37*100)%>%
+  rename(c('Freq' = 'k_Freq'))%>%
+  merge(m, by = 'kailos_call')%>%
+  select(-ID)%>%
+  unique()%>%
+  format(digits = 2)
 
+mykailos<-merge(frequencies, lol, by = "kailos_call")
+mykailos<-join(frequencies, lol, by = "kailos_call", match = "all")
+
+POP<-unique(lol)

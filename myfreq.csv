@@ -14,11 +14,11 @@ CYP2C9,*1/*3,CYP2C9 *1/*3,10.60%,Intermediate metaboliser, 15,10.00
 CYP2C9,*2/*2,CYP2C9 *2/*2,1.65%,Poor metaboliser,  4, 2.67
 CYP2C9,*2/*3,CYP2C9 *2/*3,1.87%,Poor metaboliser,  3, 2.00
 CYP2C9,*3/*3,CYP2C9 *3/*3,0.67%,Poor metaboliser,  1, 0.67
-CYP2D6,*1/*1,CYP2D6 *1/1,14.37%,Normal metaboliser, 23,15.33
+CYP2D6,*1/*1,CYP2D6 *1/*1,14.37%,Normal metaboliser, 23,15.33
 CYP2D6,*1/*10,CYP2D6 *1/*10,2.02%,Normal metaboliser,  3, 2.00
-CYP2D6,*1/*1X2,CYP2D6 *1XN/*1,0.54%,Ultrarapid metaboliser,  1, 0.67
+CYP2D6,*1/*1X2,CYP2D6 *1/*1X2,0.54%,Ultrarapid metaboliser,  1, 0.67
 CYP2D6,*1/*2,CYP2D6 *1/*2,14.76%,Normal metaboliser, 32,21.33
-CYP2D6,*1/*2x3,CYP2D6 *1/2XN,0.89%,Ultrarapid metaboliser,  1, 0.67
+CYP2D6,*1/*2x3,CYP2D6 *1/*2x3,0.89%,Ultrarapid metaboliser,  1, 0.67
 CYP2D6,*1/*3,CYP2D6 *1/*3,1.24%,Low normal metaboliser,  2, 1.33
 CYP2D6,*1/*36,CYP2D6 *1/*36,0,Low normal metaboliser,  1, 0.67
 CYP2D6,*1/*4,CYP2D6 *1/*4,13.79%,Low normal metaboliser, 17,11.33
@@ -29,7 +29,7 @@ CYP2D6,*1/*9,CYP2D6 *1/*9,1.70%,Normal metaboliser,  1, 0.67
 CYP2D6,*10/*10,CYP2D6 *10/*10,0.92%,Intermediate metaboliser,  1, 0.67
 CYP2D6,*2/*10,CYP2D6 *2/*10,0.91%,Normal metaboliser,  2, 1.33
 CYP2D6,*2/*2,CYP2D6 *2/*2,5.09%,Normal metaboliser,  9, 6.00
-CYP2D6,*2/*2X2,CYP2D6 *2/*2x2,0.02%,Ultrarapid metaboliser,  1, 0.67
+CYP2D6,*2/*2X2,CYP2D6 *2/*2X2,0.02%,Ultrarapid metaboliser,  1, 0.67
 CYP2D6,*2/*3,CYP2D6 *2/*3,0.67%,Low normal metaboliser,  1, 0.67
 CYP2D6,*2/*4,CYP2D6 *2/*4,7.23%,Low normal metaboliser, 11, 7.33
 CYP2D6,*2/*41,CYP2D6 *2/*41,4.46%,Normal metaboliser,  5, 3.33
@@ -53,7 +53,7 @@ OPRM1,AG,"NA",21.40%,Low normal metaboliser, 35,23.33
 OPRM1,GG,"NA",1.50%,Reduced metaboliser,  8, 5.33
 SLCO1B1,CC,rs4149056:C/C Hom,1.80%,Reduced metaboliser,  3, 2.00
 SLCO1B1,TC,rs4149056:T/C Het,23.10%,Low normal metaboliser, 37,24.67
-SLCO1B1,TT,rs4149056:T/T Wild ,75.20%,Normal metaboliser,110,73.33
-VKORC1,AA,rs9923231:T/T Hom ,16.30%,High warfarin sensitivity, 34,22.67
-VKORC1,AG,rs9923231:C/T Het ,47.90%,Increased warfarin sensitivity, 59,39.33
+SLCO1B1,TT,rs4149056:T/T Wild,75.20%,Normal metaboliser,110,73.33
+VKORC1,AA,rs9923231:T/T Hom,16.30%,High warfarin sensitivity, 34,22.67
+VKORC1,AG,rs9923231:C/T Het,47.90%,Increased warfarin sensitivity, 59,39.33
 VKORC1,GG,rs9923231:C/C Wild,35.80%,Normal warfarin sensitivity, 57,38.00
