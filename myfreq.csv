@@ -47,7 +47,7 @@ CYP2D6,*9/*41,CYP2D6 *9/*41,0.50%,Intermediate metaboliser,  2, 1.33
 CYP3A4,*1/*1,CYP3A4 *1/*1,93.70%,Normal metaboliser,141,94.00
 CYP3A4,*1/*22,CYP3A4 *1/*22,6.20%,Normal metaboliser,  8, 5.33
 CYP3A5,*1/*3,CYP3A5 *1/*3,38.80%,Low normal metaboliser, 14, 9.33
-CYP3A5,*3/*3,CYP3A6 *3/*3,54.30%,Poor metaboliser,136,90.67
+CYP3A5,*3/*3,CYP3A5 *3/*3,54.30%,Poor metaboliser,136,90.67
 OPRM1,AA,"NA",77.10%,Normal metaboliser,107,71.33
 OPRM1,AG,"NA",21.40%,Low normal metaboliser, 35,23.33
 OPRM1,GG,"NA",1.50%,Reduced metaboliser,  8, 5.33

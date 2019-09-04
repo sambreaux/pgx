@@ -70,6 +70,8 @@ m<-melt(kd, id.vars = "ID", measure.vars = 2:39)%>%
   na.omit()%>%
   rename(c('variable' = 'GENE', 'value'='kailos_call'))
 
+kg<-split(m, m$ID, drop =FALSE)
+
 lol<-table(m$kailos_call)%>%
   as.data.frame()%>%
   rename(c('Var1' = 'kailos_call'))%>%
@@ -80,7 +82,32 @@ lol<-table(m$kailos_call)%>%
   unique()%>%
   format(digits = 2)
 
-mykailos<-merge(frequencies, lol, by = "kailos_call")
+
+ff<-split(m, m$GENE, drop =FALSE)
+md<-mydata$GENE
+mkg<-ff[c('CYP2D6', 'CYP2C19', 'CYP3A4', 'CYP3A5', 'CYP2C9')]
+remove_rs<-function(x){x[!grepl("rs", x$kailos_call),]}
+rs_rem_genes<-lapply(mkg, remove_rs)
+
+k_call_only<-function(x){filter(x, grepl(paste(toMatch, collapse="|"), kailos_call))}
+
+toMatch<-c('rs9923231', 'rs762551', 'rs4149056','CYP2D6', 'CYP2C19', 'CYP3A4', 'CYP3A5', 'CYP2C9')
+k_calls_only<-filter(m, grepl(paste(toMatch, collapse="|"), kailos_call))
+
+kailosco_freq <-table(k_calls_only$kailos_call)%>%
+  as.data.frame()%>%
+  rename(c('Var1' = 'kailos_call'))%>%
+  mutate(k_per_freq = Freq/37*100)%>%
+  rename(c('Freq' = 'k_Freq'))%>%
+  merge(m, by = 'kailos_call')%>%
+  select(-ID)%>%
+  unique()%>%
+  format(digits = 2) 
+
+
+
+
+mykailos<-merge(frequencies, kailosco_freq , by = "kailos_call", all = T)
 mykailos<-join(frequencies, lol, by = "kailos_call", match = "all")
 
 POP<-unique(lol)
