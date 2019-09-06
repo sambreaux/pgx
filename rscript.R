@@ -3,6 +3,8 @@ library(tidyverse)
 library(plyr)
 library(reshape2)
 library(compare)
+
+
 setwd("mydna")
 getwd()
 
@@ -93,7 +95,7 @@ k_call_only<-function(x){filter(x, grepl(paste(toMatch, collapse="|"), kailos_ca
 
 toMatch<-c('rs9923231', 'rs762551', 'rs4149056','CYP2D6', 'CYP2C19', 'CYP3A4', 'CYP3A5', 'CYP2C9')
 k_calls_only<-filter(m, grepl(paste(toMatch, collapse="|"), kailos_call))
-
+my_v_k
 kailosco_freq <-table(k_calls_only$kailos_call)%>%
   as.data.frame()%>%
   rename(c('Var1' = 'kailos_call'))%>%
@@ -104,6 +106,14 @@ kailosco_freq <-table(k_calls_only$kailos_call)%>%
   unique()%>%
   format(digits = 2) 
 
+mydata_geno<-merge(mydata, data, by = c("GENE","GENOTYPE"))
+my_v_k<-merge( k_calls_only,mydata_geno, by = c("GENE","ID"), all = T) 
+
+my_v_k$kailos_call<-na.omit(my_v_k$kailos_call.x, drop= T)
+
+
+#merge in other kailos_call column 
+mmm<-my_v_k[!is.na(my_v_k$kailos_call.x),]
 
 
 
