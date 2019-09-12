@@ -54,6 +54,6 @@ OPRM1,GG,"NA",1.50%,Reduced metaboliser,  8, 5.33
 SLCO1B1,CC,rs4149056:C/C Hom,1.80%,Reduced metaboliser,  3, 2.00
 SLCO1B1,TC,rs4149056:T/C Het,23.10%,Low normal metaboliser, 37,24.67
 SLCO1B1,TT,rs4149056:T/T Wild,75.20%,Normal metaboliser,110,73.33
-VKORC1,AA,rs9923231:T/T Hom,16.30%,High warfarin sensitivity, 34,22.67
-VKORC1,AG,rs9923231:C/T Het,47.90%,Increased warfarin sensitivity, 59,39.33
-VKORC1,GG,rs9923231:C/C Wild,35.80%,Normal warfarin sensitivity, 57,38.00
+VKORC1,AA,rs9923231:T/T Hom,16.30%,Poor metaboliser, 34,22.67
+VKORC1,AG,rs9923231:C/T Het,47.90%,Reduced metaboliser, 59,39.33
+VKORC1,GG,rs9923231:C/C Wild,35.80%,Normal metaboliser, 57,38.00

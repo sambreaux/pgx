@@ -1,254 +1,227 @@
-gene,genotype,kailos_call ,population level,phenotype,
-CYP2D6,*1/*2,CYP2D6 *1/*2,14.76%,Normal metaboliser, 
-CYP2D6,*1/*3,CYP2D6 *1/*3,1.24%,Low normal metaboliser, 
-CYP2D6,*1/*4,CYP2D6 *1/*4,13.79%,Low normal metaboliser, 
-CYP2D6,*1/*5,CYP2D6 *1/*5,2.22%,Low normal metaboliser, 
-CYP2D6,*1/*6,CYP2D6 *1/*6,0.46%,Low normal metaboliser, 
-CYP2D6,*1/*7,CYP2D6 *1/*7,0.02%,Low normal metaboliser, 
-CYP2D6,*1/*8,CYP2D6 *1/*8,0,Low normal metaboliser, 
-CYP2D6,*1/*9,CYP2D6 *1/*9,1.70%,Normal metaboliser, 
-CYP2D6,*1/*10,CYP2D6 *1/*10,2.02%,Normal metaboliser, 
-CYP2D6,*1/*14A,CYP2D6 *1/*14A,0.02%,Low normal metaboliser, 
-CYP2D6,*1/*14B,CYP2D6 *1/*14B,0.04%,Normal metaboliser, 
-CYP2D6,*1/*17,CYP2D6 *1/*17,0.11%,Normal metaboliser, 
-CYP2D6,*1/*29,CYP2D6 *1/*29,0,Normal metaboliser, 
-CYP2D6,*1/*36,CYP2D6 *1/*36,0,Low normal metaboliser, 
-CYP2D6,*1/*39,CYP2D6 *1/*39,0.04%,Normal metaboliser, 
-CYP2D6,*1/*41,CYP2D6 *1/*41,7.93%,Normal metaboliser, 
-CYP2D6,*1/*1,CYP2D6 *1/*1,14.37%,Normal metaboliser, 
-CYP2D6,*1/*2x3,CYP2D6 *1/*2x3,0.89%,Ultrarapid metaboliser, 
-CYP2D6,*1XN/*41,CYP2D6 *1XN/*41,0.20%,Ultrarapid metaboliser, 
-CYP2D6, *1/*4XN,CYP2D6  *1/*4XN,0.20%,Low normal metaboliser, 
-CYP2D6,*1XN/*4,CYP2D6 *1XN/*4,0.18%,Normal metaboliser, 
-CYP2D6,*1XN/*6 ,CYP2D6 *1XN/*6 ,0.04%,Normal metaboliser, 
-CYP2D6,*1XN/*10,CYP2D6 *1XN/*10,0.04%,Ultrarapid metaboliser, 
-CYP2D6,*1/*2X2,CYP2D6 *1/*2X2,0.02%,Ultrarapid metaboliser, 
-CYP2D6,*1XN/*5,CYP2D6 *1XN/*5,0.02%,Normal metaboliser, 
-CYP2D6,*1/*6XN,CYP2D6 *1/*6XN,0.02%,Low normal metaboliser, 
-CYP2D6,*1XN/*2XN ,CYP2D6 *1XN/*2XN ,0.02%,Ultrarapid metaboliser, 
-CYP2D6,*1/*10XN,CYP2D6 *1/*10XN,0.02%,Normal metaboliser, 
-CYP2D6,*1/*1X2,CYP2D6 *1/*1X2,0.54%,Ultrarapid metaboliser, 
-CYP2D6,*1XN/*2XN ,CYP2D6 *1XN/*2XN ,0.43%,Ultrarapid metaboliser, 
-CYP2D6,*1XN/*3,CYP2D6 *1XN/*3,0.02%,Normal metaboliser, 
-CYP2D6,*1XN/*9,CYP2D6 *1XN/*9,0.04%,Ultrarapid metaboliser, 
-CYP2D6,*1/*9XN ,CYP2D6 *1/*9XN ,0.04%,Normal metaboliser, 
-CYP2D6,*1/41XN,CYP2D6 *1/41XN,0.04%,Normal metaboliser, 
-CYP2D6,*2/*2,CYP2D6 *2/*2,5.09%,Normal metaboliser, 
-CYP2D6,*2/*3,CYP2D6 *2/*3,0.67%,Low normal metaboliser, 
-CYP2D6,*2/*4,CYP2D6 *2/*4,7.23%,Low normal metaboliser, 
-CYP2D6,*2/*5,CYP2D6 *2/*5,1.24%,Low normal metaboliser, 
-CYP2D6,*2/*6,CYP2D6 *2/*6,0.41%,Low normal metaboliser, 
-CYP2D6,*2/*7,CYP2D6 *2/*7,0.02%,Low normal metaboliser, 
-CYP2D6,*2/*8,CYP2D6 *2/*8,0,Low normal metaboliser, 
-CYP2D6,*2/*9,CYP2D6 *2/*9,1.05%,Normal metaboliser, 
-CYP2D6,*2/*10,CYP2D6 *2/*10,0.91%,Normal metaboliser, 
-CYP2D6,*2/*14A,CYP2D6 *2/*14A,0,Low normal metaboliser, 
-CYP2D6,*2/*14B,CYP2D6 *2/*14B,0.02%,Low normal metaboliser, 
-CYP2D6,*2/*17,CYP2D6 *2/*17,0.13%,Normal metaboliser, 
-CYP2D6,*2/*29,CYP2D6 *2/*29,0,Normal metaboliser, 
-CYP2D6,*2/*36,CYP2D6 *2/*36,0,Low normal metaboliser, 
-CYP2D6,*2/*39,CYP2D6 *2/*39,0,Normal metaboliser, 
-CYP2D6,*2/*41,CYP2D6 *2/*41,4.46%,Normal metaboliser, 
-CYP2D6,*2XN/*4,CYP2D6 *2XN/*4,0.28%,Normal metaboliser, 
-CYP2D6,*2/*4XN ,CYP2D6 *2/*4XN ,0.20%,Low normal metaboliser, 
-CYP2D6,*2XN/*41,CYP2D6 *2XN/*41,0.17%,Ultrarapid metaboliser, 
-CYP2D6,*2/*10XN,CYP2D6 *2/*10XN,0.07%,Normal metaboliser, 
-CYP2D6,*2/*41XN,CYP2D6 *2/*41XN,0.07%,Normal metaboliser, 
-CYP2D6,*2/*3XN,CYP2D6 *2/*3XN,0.04%,Low normal metaboliser, 
-CYP2D6,*2/*2X2,CYP2D6 *2/*2X2,0.02%,Ultrarapid metaboliser, 
-CYP2D6,*2XN/*10,CYP2D6 *2XN/*10,0.02%,Ultrarapid metaboliser, 
-CYP2D6,*2/6XN,CYP2D6 *2/6XN,0.02%,Low normal metaboliser, 
-CYP2D6,*2XN/*2XN,CYP2D6 *2XN/*2XN,0.04%,Ultrarapid metaboliser, 
-CYP2D6,*2XN/*5,CYP2D6 *2XN/*5,0.04%,Normal metaboliser, 
-CYP2D6,*2XN/*3XN,CYP2D6 *2XN/*3XN,0.04%,Normal metaboliser, 
-CYP2D6,*2XN/*4XN,CYP2D6 *2XN/*4XN,0.04%,Normal metaboliser, 
-CYP2D6,*2XN/*6,CYP2D6 *2XN/*6,0.02%,Normal metaboliser, 
-CYP2D6,*3/*3,CYP2D6 *3/*3,0.02%,Poor metaboliser, 
-CYP2D6,*3/*4,CYP2D6 *3/*4,0.68%,Poor metaboliser, 
-CYP2D6,*3/*5,CYP2D6 *3/*5,0.06%,Poor metaboliser, 
-CYP2D6,*3/*6,CYP2D6 *3/*6,0.02%,Poor metaboliser, 
-CYP2D6,*3/*7,CYP2D6 *3/*7,0,Poor metaboliser, 
-CYP2D6,*3/*8,CYP2D6 *3/*8,0,Poor metaboliser, 
-CYP2D6,*3/*9,CYP2D6 *3/*9,0.06%,Intermediate metaboliser, 
-CYP2D6,*3/*10,CYP2D6 *3/*10,0.06%,Intermediate metaboliser, 
-CYP2D6,*3/*14A,CYP2D6 *3/*14A,0,Poor metaboliser, 
-CYP2D6,*3/*14B,CYP2D6 *3/*14B,0,Intermediate metaboliser, 
-CYP2D6,*3/*17,CYP2D6 *3/*17,0,Intermediate metaboliser, 
-CYP2D6,*3/*29,CYP2D6 *3/*29,0,Intermediate metaboliser, 
-CYP2D6,*3/*36,CYP2D6 *3/*36,0,Poor metaboliser, 
-CYP2D6,*3/*39,CYP2D6 *3/*39,0,Low normal metaboliser, 
-CYP2D6,*3/*41,CYP2D6 *3/*41,0.33%,Intermediate metaboliser, 
-CYP2D6,*3XN/*3,CYP2D6 *3XN/*3,0.02%,Poor metaboliser, 
-CYP2D6,*4/*4,CYP2D6 *4/*4,3.42%,Poor metaboliser, 
-CYP2D6,*4/*5,CYP2D6 *4/*5,0.98%,Poor metaboliser, 
-CYP2D6,*4/*6,CYP2D6 *4/*6,0.28%,Poor metaboliser, 
-CYP2D6,*4/*7,CYP2D6 *4/*7,0,Poor metaboliser, 
-CYP2D6,*4/*8,CYP2D6 *4/*8,0,Poor metaboliser, 
-CYP2D6,*4/*9,CYP2D6 *4/*9,0.76%,Intermediate metaboliser, 
-CYP2D6,*4/*10,CYP2D6 *4/*10,0.70%,Intermediate metaboliser, 
-CYP2D6,*4/*14A,CYP2D6 *4/*14A,0,Poor metaboliser, 
-CYP2D6,*4/*14B,CYP2D6 *4/*14B,0.02%,Intermediate metaboliser, 
-CYP2D6,*4/*17,CYP2D6 *4/*17,0.07%,Intermediate metaboliser, 
-CYP2D6,*4/*29,CYP2D6 *4/*29,0,Intermediate metaboliser, 
-CYP2D6,*4/*36,CYP2D6 *4/*36,0,Poor metaboliser, 
-CYP2D6,*4/*39,CYP2D6 *4/*39,0,Low normal metaboliser, 
-CYP2D6,*4/*41,CYP2D6 *4/*41,3.59%,Intermediate metaboliser, 
-CYP2D6,*4/*4XN,CYP2D6 *4/*4XN,0.15%,Poor metaboliser, 
-CYP2D6,*4XN/*41,CYP2D6 *4XN/*41,0.06%,Intermediate metaboliser, 
-CYP2D6,*4X14AXN,CYP2D6 *4X14AXN,0.02%,Poor metaboliser, 
-CYP2D6,*4/*41XN,CYP2D6 *4/*41XN,0.02%,Intermediate metaboliser, 
-CYP2D6,*5/*5,CYP2D6 *5/*5,0.04%,Poor metaboliser, 
-CYP2D6,*5/*6,CYP2D6 *5/*6,0.07%,Poor metaboliser, 
-CYP2D6,*5/*7,CYP2D6 *5/*7,0,Poor metaboliser, 
-CYP2D6,*5/*8,CYP2D6 *5/*8,0,Poor metaboliser, 
-CYP2D6,*5/*9,CYP2D6 *5/*9,0.15%,Intermediate metaboliser, 
-CYP2D6,*5/*10,CYP2D6 *5/*10,0.35%,Intermediate metaboliser, 
-CYP2D6,*5/*14A,CYP2D6 *5/*14A,0,Poor metaboliser, 
-CYP2D6,*5/*14B,CYP2D6 *5/*14B,0,Intermediate metaboliser, 
-CYP2D6,*5/*17,CYP2D6 *5/*17,0.02%,Intermediate metaboliser, 
-CYP2D6,*5/*29,CYP2D6 *5/*29,0,Intermediate metaboliser, 
-CYP2D6,*5/*36,CYP2D6 *5/*36,0,Poor metaboliser, 
-CYP2D6,*5/*39,CYP2D6 *5/*39,0,Low normal metaboliser, 
-CYP2D6,*5/*41,CYP2D6 *5/*41,0.48%,Intermediate metaboliser, 
-CYP2D6,*6/*6,CYP2D6 *6/*6,0,Poor metaboliser, 
-CYP2D6,*6/*7,CYP2D6 *6/*7,0,Poor metaboliser, 
-CYP2D6,*6/*8,CYP2D6 *6/*8,0,Poor metaboliser, 
-CYP2D6,*6/*9,CYP2D6 *6/*9,0.04%,Low normal metaboliser, 
-CYP2D6,*6/*10,CYP2D6 *6/*10,0,Intermediate metaboliser, 
-CYP2D6,*6/*14A,CYP2D6 *6/*14A,0,Poor metaboliser, 
-CYP2D6,*6/*14B,CYP2D6 *6/*14B,0,Intermediate metaboliser, 
-CYP2D6,*6/*17,CYP2D6 *6/*17,0,Intermediate metaboliser, 
-CYP2D6,*6/*29,CYP2D6 *6/*29,0,Intermediate metaboliser, 
-CYP2D6,*6/*36,CYP2D6 *6/*36,0,Poor metaboliser, 
-CYP2D6,*6/*39,CYP2D6 *6/*39,0,Low normal metaboliser, 
-CYP2D6,*6/*41,CYP2D6 *6/*41,0.15%,Intermediate metaboliser, 
-CYP2D6,*7/*7,CYP2D6 *7/*7,0,Poor metaboliser, 
-CYP2D6,*7/*8,CYP2D6 *7/*8,0,Poor metaboliser, 
-CYP2D6,*7/*9,CYP2D6 *7/*9,0,Intermediate metaboliser, 
-CYP2D6,*7/*10,CYP2D6 *7/*10,0,Intermediate metaboliser, 
-CYP2D6,*7/*14A,CYP2D6 *7/*14A,0,Poor metaboliser, 
-CYP2D6,*7/*14B,CYP2D6 *7/*14B,0,Intermediate metaboliser, 
-CYP2D6,*7/*17,CYP2D6 *7/*17,0,Intermediate metaboliser, 
-CYP2D6,*7/*29,CYP2D6 *7/*29,0,Intermediate metaboliser, 
-CYP2D6,*7/*36,CYP2D6 *7/*36,0,Poor metaboliser, 
-CYP2D6,*7/*39,CYP2D6 *7/*39,0,Low normal metaboliser, 
-CYP2D6,*7/*41,CYP2D6 *7/*41,0,Intermediate metaboliser, 
-CYP2D6,*8/*8,CYP2D6 *8/*8,0,Poor metaboliser, 
-CYP2D6,*8/*9,CYP2D6 *8/*9,0,Intermediate metaboliser, 
-CYP2D6,*8/*10,CYP2D6 *8/*10,0,Intermediate metaboliser, 
-CYP2D6,*8/*14A,CYP2D6 *8/*14A,0,Poor metaboliser, 
-CYP2D6,*8/*14B,CYP2D6 *8/*14B,0,Intermediate metaboliser, 
-CYP2D6,*8/*17,CYP2D6 *8/*17,0,Intermediate metaboliser, 
-CYP2D6,*8/*29,CYP2D6 *8/*29,0,Intermediate metaboliser, 
-CYP2D6,*8/*36,CYP2D6 *8/*36,0,Poor metaboliser, 
-CYP2D6,*8/*39,CYP2D6 *8/*39,0,Low normal metaboliser, 
-CYP2D6,*8/*41,CYP2D6 *8/*41,0,Intermediate metaboliser, 
-CYP2D6,*9/*9,CYP2D6 *9/*9,0.09%,Intermediate metaboliser, 
-CYP2D6,*9/*10,CYP2D6 *9/*10,0.07%,Intermediate metaboliser, 
-CYP2D6,*9/*14A,CYP2D6 *9/*14A,0,Intermediate metaboliser, 
-CYP2D6,*9/*14B,CYP2D6 *9/*14B,0,Intermediate metaboliser, 
-CYP2D6,*9/*17,CYP2D6 *9/*17,0.04%,Intermediate metaboliser, 
-CYP2D6,*9/*29,CYP2D6 *9/*29,0,Intermediate metaboliser, 
-CYP2D6,*9/*36,CYP2D6 *9/*36,0,Intermediate metaboliser, 
-CYP2D6,*9/*39,CYP2D6 *9/*39,0.02%,Normal metaboliser, 
-CYP2D6,*9/*41,CYP2D6 *9/*41,0.50%,Intermediate metaboliser, 
-CYP2D6,*10/*10,CYP2D6 *10/*10,0.92%,Intermediate metaboliser, 
-CYP2D6,*10/*14A,CYP2D6 *10/*14A,0,Intermediate metaboliser, 
-CYP2D6,*10/*14B,CYP2D6 *10/*14B,0.02%,Intermediate metaboliser, 
-CYP2D6,*10/*17,CYP2D6 *10/*17,0.02%,Intermediate metaboliser, 
-CYP2D6,*10/*29,CYP2D6 *10/*29,0,Intermediate metaboliser, 
-CYP2D6,*10/*36,CYP2D6 *10/*36,0.53%,Intermediate metaboliser, 
-CYP2D6,*10/*39,CYP2D6 *10/*39,0.02%,Normal metaboliser, 
-CYP2D6,*10/*41,CYP2D6 *10/*41,0.46%,Intermediate metaboliser, 
-CYP2D6,*10XN/*10,CYP2D6 *10XN/*10,0.04%,Normal metaboliser, 
-CYP2D6,*14A/*14A,CYP2D6 *14A/*14A,0,Poor metaboliser, 
-CYP2D6,*14A/*14B,CYP2D6 *14A/*14B,0,Intermediate metaboliser, 
-CYP2D6,*14A/*17,CYP2D6 *14A/*17,0,Intermediate metaboliser, 
-CYP2D6,*14A/*29,CYP2D6 *14A/*29,,Intermediate metaboliser, 
-CYP2D6,*14A/*36,CYP2D6 *14A/*36,,Poor metaboliser, 
-CYP2D6,*14A/*39,CYP2D6 *14A/*39,0,Low normal metaboliser, 
-CYP2D6,*14A/*41,CYP2D6 *14A/*41,0,Intermediate metaboliser, 
-CYP2D6,*14B/*14B,CYP2D6 *14B/*14B,0,Intermediate metaboliser, 
-CYP2D6,*14B/*17,CYP2D6 *14B/*17,0,Intermediate metaboliser, 
-CYP2D6,*14B/*29,CYP2D6 *14B/*29,0,Intermediate metaboliser, 
-CYP2D6,*14B/*36,CYP2D6 *14B/*36,0,Intermediate metaboliser, 
-CYP2D6,*14B/*39,CYP2D6 *14B/*39,0,Normal metaboliser, 
-CYP2D6,*14B/*41,CYP2D6 *14B/*41,0.02%,Intermediate metaboliser, 
-CYP2D6,*17/*17,CYP2D6 *17/*17,0,Intermediate metaboliser, 
-CYP2D6,*17/*29,CYP2D6 *17/*29,0,Intermediate metaboliser, 
-CYP2D6,*17/*36,CYP2D6 *17/*36,0,Intermediate metaboliser, 
-CYP2D6,*17/*39,CYP2D6 *17/*39,0,Normal metaboliser, 
-CYP2D6,*17/*41,CYP2D6 *17/*41,0.04%,Intermediate metaboliser, 
-CYP2D6,*17/*41XN,CYP2D6 *17/*41XN,0.02%,Normal metaboliser, 
-CYP2D6,*29/*29,CYP2D6 *29/*29,0,Intermediate metaboliser, 
-CYP2D6,*29/*36,CYP2D6 *29/*36,0,Intermediate metaboliser, 
-CYP2D6,*29/*39,CYP2D6 *29/*39,0,Normal metaboliser, 
-CYP2D6,*29/*41,CYP2D6 *29/*41,0,Intermediate metaboliser, 
-CYP2D6,*36/*36,CYP2D6 *36/*36,0,Poor metaboliser, 
-CYP2D6,*36/*39,CYP2D6 *36/*39,0,Low normal metaboliser, 
-CYP2D6,*36/*41,CYP2D6 *36/*41,0,Intermediate metaboliser, 
-CYP2D6,*39/*39,CYP2D6 *39/*39,0,Normal metaboliser, 
-CYP2D6,*39/*41,CYP2D6 *39/*41,0,Normal metaboliser, 
-CYP2D6,*41/*41,CYP2D6 *41/*41,1.00%,Intermediate metaboliser, 
-CYP2D6,*41/*41XN,CYP2D6 *41/*41XN,0.02%,Normal metaboliser, 
-CYP2C19,*1/*2,CYP2C19 *1/*2,20.70%,Intermediate metaboliser, 
-CYP2C19,*1/*3,CYP2C19 *1/*3,0.20%,Intermediate metaboliser, 
-CYP2C19,*1/*17,CYP2C19 *1/*17,25.80%,Rapid metaboliser, 
-CYP2C19,*1/*1,CYP2C19 *1/*1,39.7,Normal metaboliser, 
-CYP2C19,*2/*2,CYP2C19 *2/*2,2.90%,Poor metaboliser, 
-CYP2C19,*2/*3,CYP2C19 *2/*3,0.10%,Poor metaboliser, 
-CYP2C19,*2/*17,CYP2C19 *2/*17,6.20%, High intermediate metaboliser, 
-CYP2C19,*3/3,CYP2C19 *3/3,< 0.1%,Poor metaboliser, 
-CYP2C19,*3/*17,CYP2C19 *3/*17,0.10%,Intermediate metaboliser, 
-CYP2C19,*17/*17,CYP2C19 *17/*17,0,Ultrarapid metaboliser, 
-CYP2C9,*1/*2,CYP2C9 *1/*2,20.38%,High intermediate metaboliser, 
-CYP2C9,*1/*3,CYP2C9 *1/*3,10.60%,Intermediate metaboliser, 
-CYP2C9,*1/*1,CYP2C9 *1/*1,64.84%,Normal metaboliser, 
-CYP2C9,*2/*2,CYP2C9 *2/*2,1.65%,Poor metaboliser, 
-CYP2C9,*3/*3,CYP2C9 *3/*3,0.67%,Poor metaboliser, 
-CYP2C9,*2/*3,CYP2C9 *2/*3,1.87%,Poor metaboliser, 
-VKORC1,GG,rs9923231:C/C Wild,35.80%,Normal warfarin sensitivity, 
-VKORC1,AA,rs9923231:T/T Hom,16.30%,High warfarin sensitivity, 
-VKORC1,AG,rs9923231:C/T Het,47.90%,Increased warfarin sensitivity, 
-CYP1A2,*1F/*1F,rs762551:A/A Hom,45%,Rapid metaboliser, 
-CYP1A2,*1A/*1A,rs762551:C/C Wild,10.80%,Normal metaboliser, 
-CYP1A2,*1A/*1F,rs762551:C/A Het,44.20%,Normal metaboliser, 
-CYP3A4,*1/*22,CYP3A4 *1/*22,6.20%,Normal metaboliser, 
-CYP3A4,*1/*1,CYP3A4 *1/*1,93.70%,Normal metaboliser, 
-CYP3A4,*22/*22,CYP3A4 *22/*22,0.10%,Reduced metaboliser, 
-CYP3A5,*1/*3,CYP3A5 *1/*3,38.80%,Low normal metaboliser, 
-CYP3A5,*1/*1,CYP3A5 *1/*1,6.90%,Normal metaboliser, 
-CYP3A5,*3/*3,CYP3A5 *3/*3,54.30%,Poor metaboliser, 
-SLCO1B1,CC,rs4149056:C/C Hom,1.80%,Reduced metaboliser, 
-SLCO1B1,TT,rs4149056:T/T Wild,75.20%,Normal metaboliser, 
-SLCO1B1,TC,rs4149056:T/C Het,23.10%,Low normal metaboliser, 
-OPRM1,AA,NA,77.10%,Normal metaboliser, 
-OPRM1,GG,NA,1.50%,Reduced metaboliser, 
-OPRM1,AG,NA,21.40%,Low normal metaboliser, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
-,,,,, 
+gene,genotype,kailos_call ,population level,phenotype
+CYP2D6,*1/*2,CYP2D6 *1/*2,14.76%,Normal metaboliser
+CYP2D6,*1/*3,CYP2D6 *1/*3,1.24%,Low normal metaboliser
+CYP2D6,*1/*4,CYP2D6 *1/*4,13.79%,Low normal metaboliser
+CYP2D6,*1/*5,CYP2D6 *1/*5,2.22%,Low normal metaboliser
+CYP2D6,*1/*6,CYP2D6 *1/*6,0.46%,Low normal metaboliser
+CYP2D6,*1/*7,CYP2D6 *1/*7,0.02%,Low normal metaboliser
+CYP2D6,*1/*8,CYP2D6 *1/*8,0,Low normal metaboliser
+CYP2D6,*1/*9,CYP2D6 *1/*9,1.70%,Normal metaboliser
+CYP2D6,*1/*10,CYP2D6 *1/*10,2.02%,Normal metaboliser
+CYP2D6,*1/*14A,CYP2D6 *1/*14A,0.02%,Low normal metaboliser
+CYP2D6,*1/*14B,CYP2D6 *1/*14B,0.04%,Normal metaboliser
+CYP2D6,*1/*17,CYP2D6 *1/*17,0.11%,Normal metaboliser
+CYP2D6,*1/*29,CYP2D6 *1/*29,0,Normal metaboliser
+CYP2D6,*1/*36,CYP2D6 *1/*36,0,Low normal metaboliser
+CYP2D6,*1/*39,CYP2D6 *1/*39,0.04%,Normal metaboliser
+CYP2D6,*1/*41,CYP2D6 *1/*41,7.93%,Normal metaboliser
+CYP2D6,*1/*1,CYP2D6 *1/*1,14.37%,Normal metaboliser
+CYP2D6,*1/*2x3,CYP2D6 *1/*2x3,0.89%,Ultrarapid metaboliser
+CYP2D6,*1XN/*41,CYP2D6 *1XN/*41,0.20%,Ultrarapid metaboliser
+CYP2D6, *1/*4XN,CYP2D6  *1/*4XN,0.20%,Low normal metaboliser
+CYP2D6,*1XN/*4,CYP2D6 *1XN/*4,0.18%,Normal metaboliser
+CYP2D6,*1XN/*6 ,CYP2D6 *1XN/*6 ,0.04%,Normal metaboliser
+CYP2D6,*1XN/*10,CYP2D6 *1XN/*10,0.04%,Ultrarapid metaboliser
+CYP2D6,*1/*2X2,CYP2D6 *1/*2X2,0.02%,Ultrarapid metaboliser
+CYP2D6,*1XN/*5,CYP2D6 *1XN/*5,0.02%,Normal metaboliser
+CYP2D6,*1/*6XN,CYP2D6 *1/*6XN,0.02%,Low normal metaboliser
+CYP2D6,*1XN/*2XN ,CYP2D6 *1XN/*2XN ,0.02%,Ultrarapid metaboliser
+CYP2D6,*1/*10XN,CYP2D6 *1/*10XN,0.02%,Normal metaboliser
+CYP2D6,*1/*1X2,CYP2D6 *1/*1X2,0.54%,Ultrarapid metaboliser
+CYP2D6,*1XN/*2XN ,CYP2D6 *1XN/*2XN ,0.43%,Ultrarapid metaboliser
+CYP2D6,*1XN/*3,CYP2D6 *1XN/*3,0.02%,Normal metaboliser
+CYP2D6,*1XN/*9,CYP2D6 *1XN/*9,0.04%,Ultrarapid metaboliser
+CYP2D6,*1/*9XN ,CYP2D6 *1/*9XN ,0.04%,Normal metaboliser
+CYP2D6,*1/41XN,CYP2D6 *1/41XN,0.04%,Normal metaboliser
+CYP2D6,*2/*2,CYP2D6 *2/*2,5.09%,Normal metaboliser
+CYP2D6,*2/*3,CYP2D6 *2/*3,0.67%,Low normal metaboliser
+CYP2D6,*2/*4,CYP2D6 *2/*4,7.23%,Low normal metaboliser
+CYP2D6,*2/*5,CYP2D6 *2/*5,1.24%,Low normal metaboliser
+CYP2D6,*2/*6,CYP2D6 *2/*6,0.41%,Low normal metaboliser
+CYP2D6,*2/*7,CYP2D6 *2/*7,0.02%,Low normal metaboliser
+CYP2D6,*2/*8,CYP2D6 *2/*8,0,Low normal metaboliser
+CYP2D6,*2/*9,CYP2D6 *2/*9,1.05%,Normal metaboliser
+CYP2D6,*2/*10,CYP2D6 *2/*10,0.91%,Normal metaboliser
+CYP2D6,*2/*14A,CYP2D6 *2/*14A,0,Low normal metaboliser
+CYP2D6,*2/*14B,CYP2D6 *2/*14B,0.02%,Low normal metaboliser
+CYP2D6,*2/*17,CYP2D6 *2/*17,0.13%,Normal metaboliser
+CYP2D6,*2/*29,CYP2D6 *2/*29,0,Normal metaboliser
+CYP2D6,*2/*36,CYP2D6 *2/*36,0,Low normal metaboliser
+CYP2D6,*2/*39,CYP2D6 *2/*39,0,Normal metaboliser
+CYP2D6,*2/*41,CYP2D6 *2/*41,4.46%,Normal metaboliser
+CYP2D6,*2XN/*4,CYP2D6 *2XN/*4,0.28%,Normal metaboliser
+CYP2D6,*2/*4XN ,CYP2D6 *2/*4XN ,0.20%,Low normal metaboliser
+CYP2D6,*2XN/*41,CYP2D6 *2XN/*41,0.17%,Ultrarapid metaboliser
+CYP2D6,*2/*10XN,CYP2D6 *2/*10XN,0.07%,Normal metaboliser
+CYP2D6,*2/*41XN,CYP2D6 *2/*41XN,0.07%,Normal metaboliser
+CYP2D6,*2/*3XN,CYP2D6 *2/*3XN,0.04%,Low normal metaboliser
+CYP2D6,*2/*2X2,CYP2D6 *2/*2X2,0.02%,Ultrarapid metaboliser
+CYP2D6,*2XN/*10,CYP2D6 *2XN/*10,0.02%,Ultrarapid metaboliser
+CYP2D6,*2/6XN,CYP2D6 *2/6XN,0.02%,Low normal metaboliser
+CYP2D6,*2XN/*2XN,CYP2D6 *2XN/*2XN,0.04%,Ultrarapid metaboliser
+CYP2D6,*2XN/*5,CYP2D6 *2XN/*5,0.04%,Normal metaboliser
+CYP2D6,*2XN/*3XN,CYP2D6 *2XN/*3XN,0.04%,Normal metaboliser
+CYP2D6,*2XN/*4XN,CYP2D6 *2XN/*4XN,0.04%,Normal metaboliser
+CYP2D6,*2XN/*6,CYP2D6 *2XN/*6,0.02%,Normal metaboliser
+CYP2D6,*3/*3,CYP2D6 *3/*3,0.02%,Poor metaboliser
+CYP2D6,*3/*4,CYP2D6 *3/*4,0.68%,Poor metaboliser
+CYP2D6,*3/*5,CYP2D6 *3/*5,0.06%,Poor metaboliser
+CYP2D6,*3/*6,CYP2D6 *3/*6,0.02%,Poor metaboliser
+CYP2D6,*3/*7,CYP2D6 *3/*7,0,Poor metaboliser
+CYP2D6,*3/*8,CYP2D6 *3/*8,0,Poor metaboliser
+CYP2D6,*3/*9,CYP2D6 *3/*9,0.06%,Intermediate metaboliser
+CYP2D6,*3/*10,CYP2D6 *3/*10,0.06%,Intermediate metaboliser
+CYP2D6,*3/*14A,CYP2D6 *3/*14A,0,Poor metaboliser
+CYP2D6,*3/*14B,CYP2D6 *3/*14B,0,Intermediate metaboliser
+CYP2D6,*3/*17,CYP2D6 *3/*17,0,Intermediate metaboliser
+CYP2D6,*3/*29,CYP2D6 *3/*29,0,Intermediate metaboliser
+CYP2D6,*3/*36,CYP2D6 *3/*36,0,Poor metaboliser
+CYP2D6,*3/*39,CYP2D6 *3/*39,0,Low normal metaboliser
+CYP2D6,*3/*41,CYP2D6 *3/*41,0.33%,Intermediate metaboliser
+CYP2D6,*3XN/*3,CYP2D6 *3XN/*3,0.02%,Poor metaboliser
+CYP2D6,*4/*4,CYP2D6 *4/*4,3.42%,Poor metaboliser
+CYP2D6,*4/*5,CYP2D6 *4/*5,0.98%,Poor metaboliser
+CYP2D6,*4/*6,CYP2D6 *4/*6,0.28%,Poor metaboliser
+CYP2D6,*4/*7,CYP2D6 *4/*7,0,Poor metaboliser
+CYP2D6,*4/*8,CYP2D6 *4/*8,0,Poor metaboliser
+CYP2D6,*4/*9,CYP2D6 *4/*9,0.76%,Intermediate metaboliser
+CYP2D6,*4/*10,CYP2D6 *4/*10,0.70%,Intermediate metaboliser
+CYP2D6,*4/*14A,CYP2D6 *4/*14A,0,Poor metaboliser
+CYP2D6,*4/*14B,CYP2D6 *4/*14B,0.02%,Intermediate metaboliser
+CYP2D6,*4/*17,CYP2D6 *4/*17,0.07%,Intermediate metaboliser
+CYP2D6,*4/*29,CYP2D6 *4/*29,0,Intermediate metaboliser
+CYP2D6,*4/*36,CYP2D6 *4/*36,0,Poor metaboliser
+CYP2D6,*4/*39,CYP2D6 *4/*39,0,Low normal metaboliser
+CYP2D6,*4/*41,CYP2D6 *4/*41,3.59%,Intermediate metaboliser
+CYP2D6,*4/*4XN,CYP2D6 *4/*4XN,0.15%,Poor metaboliser
+CYP2D6,*4XN/*41,CYP2D6 *4XN/*41,0.06%,Intermediate metaboliser
+CYP2D6,*4X14AXN,CYP2D6 *4X14AXN,0.02%,Poor metaboliser
+CYP2D6,*4/*41XN,CYP2D6 *4/*41XN,0.02%,Intermediate metaboliser
+CYP2D6,*5/*5,CYP2D6 *5/*5,0.04%,Poor metaboliser
+CYP2D6,*5/*6,CYP2D6 *5/*6,0.07%,Poor metaboliser
+CYP2D6,*5/*7,CYP2D6 *5/*7,0,Poor metaboliser
+CYP2D6,*5/*8,CYP2D6 *5/*8,0,Poor metaboliser
+CYP2D6,*5/*9,CYP2D6 *5/*9,0.15%,Intermediate metaboliser
+CYP2D6,*5/*10,CYP2D6 *5/*10,0.35%,Intermediate metaboliser
+CYP2D6,*5/*14A,CYP2D6 *5/*14A,0,Poor metaboliser
+CYP2D6,*5/*14B,CYP2D6 *5/*14B,0,Intermediate metaboliser
+CYP2D6,*5/*17,CYP2D6 *5/*17,0.02%,Intermediate metaboliser
+CYP2D6,*5/*29,CYP2D6 *5/*29,0,Intermediate metaboliser
+CYP2D6,*5/*36,CYP2D6 *5/*36,0,Poor metaboliser
+CYP2D6,*5/*39,CYP2D6 *5/*39,0,Low normal metaboliser
+CYP2D6,*5/*41,CYP2D6 *5/*41,0.48%,Intermediate metaboliser
+CYP2D6,*6/*6,CYP2D6 *6/*6,0,Poor metaboliser
+CYP2D6,*6/*7,CYP2D6 *6/*7,0,Poor metaboliser
+CYP2D6,*6/*8,CYP2D6 *6/*8,0,Poor metaboliser
+CYP2D6,*6/*9,CYP2D6 *6/*9,0.04%,Low normal metaboliser
+CYP2D6,*6/*10,CYP2D6 *6/*10,0,Intermediate metaboliser
+CYP2D6,*6/*14A,CYP2D6 *6/*14A,0,Poor metaboliser
+CYP2D6,*6/*14B,CYP2D6 *6/*14B,0,Intermediate metaboliser
+CYP2D6,*6/*17,CYP2D6 *6/*17,0,Intermediate metaboliser
+CYP2D6,*6/*29,CYP2D6 *6/*29,0,Intermediate metaboliser
+CYP2D6,*6/*36,CYP2D6 *6/*36,0,Poor metaboliser
+CYP2D6,*6/*39,CYP2D6 *6/*39,0,Low normal metaboliser
+CYP2D6,*6/*41,CYP2D6 *6/*41,0.15%,Intermediate metaboliser
+CYP2D6,*7/*7,CYP2D6 *7/*7,0,Poor metaboliser
+CYP2D6,*7/*8,CYP2D6 *7/*8,0,Poor metaboliser
+CYP2D6,*7/*9,CYP2D6 *7/*9,0,Intermediate metaboliser
+CYP2D6,*7/*10,CYP2D6 *7/*10,0,Intermediate metaboliser
+CYP2D6,*7/*14A,CYP2D6 *7/*14A,0,Poor metaboliser
+CYP2D6,*7/*14B,CYP2D6 *7/*14B,0,Intermediate metaboliser
+CYP2D6,*7/*17,CYP2D6 *7/*17,0,Intermediate metaboliser
+CYP2D6,*7/*29,CYP2D6 *7/*29,0,Intermediate metaboliser
+CYP2D6,*7/*36,CYP2D6 *7/*36,0,Poor metaboliser
+CYP2D6,*7/*39,CYP2D6 *7/*39,0,Low normal metaboliser
+CYP2D6,*7/*41,CYP2D6 *7/*41,0,Intermediate metaboliser
+CYP2D6,*8/*8,CYP2D6 *8/*8,0,Poor metaboliser
+CYP2D6,*8/*9,CYP2D6 *8/*9,0,Intermediate metaboliser
+CYP2D6,*8/*10,CYP2D6 *8/*10,0,Intermediate metaboliser
+CYP2D6,*8/*14A,CYP2D6 *8/*14A,0,Poor metaboliser
+CYP2D6,*8/*14B,CYP2D6 *8/*14B,0,Intermediate metaboliser
+CYP2D6,*8/*17,CYP2D6 *8/*17,0,Intermediate metaboliser
+CYP2D6,*8/*29,CYP2D6 *8/*29,0,Intermediate metaboliser
+CYP2D6,*8/*36,CYP2D6 *8/*36,0,Poor metaboliser
+CYP2D6,*8/*39,CYP2D6 *8/*39,0,Low normal metaboliser
+CYP2D6,*8/*41,CYP2D6 *8/*41,0,Intermediate metaboliser
+CYP2D6,*9/*9,CYP2D6 *9/*9,0.09%,Intermediate metaboliser
+CYP2D6,*9/*10,CYP2D6 *9/*10,0.07%,Intermediate metaboliser
+CYP2D6,*9/*14A,CYP2D6 *9/*14A,0,Intermediate metaboliser
+CYP2D6,*9/*14B,CYP2D6 *9/*14B,0,Intermediate metaboliser
+CYP2D6,*9/*17,CYP2D6 *9/*17,0.04%,Intermediate metaboliser
+CYP2D6,*9/*29,CYP2D6 *9/*29,0,Intermediate metaboliser
+CYP2D6,*9/*36,CYP2D6 *9/*36,0,Intermediate metaboliser
+CYP2D6,*9/*39,CYP2D6 *9/*39,0.02%,Normal metaboliser
+CYP2D6,*9/*41,CYP2D6 *9/*41,0.50%,Intermediate metaboliser
+CYP2D6,*10/*10,CYP2D6 *10/*10,0.92%,Intermediate metaboliser
+CYP2D6,*10/*14A,CYP2D6 *10/*14A,0,Intermediate metaboliser
+CYP2D6,*10/*14B,CYP2D6 *10/*14B,0.02%,Intermediate metaboliser
+CYP2D6,*10/*17,CYP2D6 *10/*17,0.02%,Intermediate metaboliser
+CYP2D6,*10/*29,CYP2D6 *10/*29,0,Intermediate metaboliser
+CYP2D6,*10/*36,CYP2D6 *10/*36,0.53%,Intermediate metaboliser
+CYP2D6,*10/*39,CYP2D6 *10/*39,0.02%,Normal metaboliser
+CYP2D6,*10/*41,CYP2D6 *10/*41,0.46%,Intermediate metaboliser
+CYP2D6,*10XN/*10,CYP2D6 *10XN/*10,0.04%,Normal metaboliser
+CYP2D6,*14A/*14A,CYP2D6 *14A/*14A,0,Poor metaboliser
+CYP2D6,*14A/*14B,CYP2D6 *14A/*14B,0,Intermediate metaboliser
+CYP2D6,*14A/*17,CYP2D6 *14A/*17,0,Intermediate metaboliser
+CYP2D6,*14A/*29,CYP2D6 *14A/*29,,Intermediate metaboliser
+CYP2D6,*14A/*36,CYP2D6 *14A/*36,,Poor metaboliser
+CYP2D6,*14A/*39,CYP2D6 *14A/*39,0,Low normal metaboliser
+CYP2D6,*14A/*41,CYP2D6 *14A/*41,0,Intermediate metaboliser
+CYP2D6,*14B/*14B,CYP2D6 *14B/*14B,0,Intermediate metaboliser
+CYP2D6,*14B/*17,CYP2D6 *14B/*17,0,Intermediate metaboliser
+CYP2D6,*14B/*29,CYP2D6 *14B/*29,0,Intermediate metaboliser
+CYP2D6,*14B/*36,CYP2D6 *14B/*36,0,Intermediate metaboliser
+CYP2D6,*14B/*39,CYP2D6 *14B/*39,0,Normal metaboliser
+CYP2D6,*14B/*41,CYP2D6 *14B/*41,0.02%,Intermediate metaboliser
+CYP2D6,*17/*17,CYP2D6 *17/*17,0,Intermediate metaboliser
+CYP2D6,*17/*29,CYP2D6 *17/*29,0,Intermediate metaboliser
+CYP2D6,*17/*36,CYP2D6 *17/*36,0,Intermediate metaboliser
+CYP2D6,*17/*39,CYP2D6 *17/*39,0,Normal metaboliser
+CYP2D6,*17/*41,CYP2D6 *17/*41,0.04%,Intermediate metaboliser
+CYP2D6,*17/*41XN,CYP2D6 *17/*41XN,0.02%,Normal metaboliser
+CYP2D6,*29/*29,CYP2D6 *29/*29,0,Intermediate metaboliser
+CYP2D6,*29/*36,CYP2D6 *29/*36,0,Intermediate metaboliser
+CYP2D6,*29/*39,CYP2D6 *29/*39,0,Normal metaboliser
+CYP2D6,*29/*41,CYP2D6 *29/*41,0,Intermediate metaboliser
+CYP2D6,*36/*36,CYP2D6 *36/*36,0,Poor metaboliser
+CYP2D6,*36/*39,CYP2D6 *36/*39,0,Low normal metaboliser
+CYP2D6,*36/*41,CYP2D6 *36/*41,0,Intermediate metaboliser
+CYP2D6,*39/*39,CYP2D6 *39/*39,0,Normal metaboliser
+CYP2D6,*39/*41,CYP2D6 *39/*41,0,Normal metaboliser
+CYP2D6,*41/*41,CYP2D6 *41/*41,1.00%,Intermediate metaboliser
+CYP2D6,*41/*41XN,CYP2D6 *41/*41XN,0.02%,Normal metaboliser
+CYP2C19,*1/*2,CYP2C19 *1/*2,20.70%,Intermediate metaboliser
+CYP2C19,*1/*3,CYP2C19 *1/*3,0.20%,Intermediate metaboliser
+CYP2C19,*1/*17,CYP2C19 *1/*17,25.80%,Rapid metaboliser
+CYP2C19,*1/*1,CYP2C19 *1/*1,39.7,Normal metaboliser
+CYP2C19,*2/*2,CYP2C19 *2/*2,2.90%,Poor metaboliser
+CYP2C19,*2/*3,CYP2C19 *2/*3,0.10%,Poor metaboliser
+CYP2C19,*2/*17,CYP2C19 *2/*17,6.20%, High intermediate metaboliser
+CYP2C19,*3/3,CYP2C19 *3/3,< 0.1%,Poor metaboliser
+CYP2C19,*3/*17,CYP2C19 *3/*17,0.10%,Intermediate metaboliser
+CYP2C19,*17/*17,CYP2C19 *17/*17,0,Ultrarapid metaboliser
+CYP2C9,*1/*2,CYP2C9 *1/*2,20.38%,High intermediate metaboliser
+CYP2C9,*1/*3,CYP2C9 *1/*3,10.60%,Intermediate metaboliser
+CYP2C9,*1/*1,CYP2C9 *1/*1,64.84%,Normal metaboliser
+CYP2C9,*2/*2,CYP2C9 *2/*2,1.65%,Poor metaboliser
+CYP2C9,*3/*3,CYP2C9 *3/*3,0.67%,Poor metaboliser
+CYP2C9,*2/*3,CYP2C9 *2/*3,1.87%,Poor metaboliser
+VKORC1,GG,rs9923231:C/C Wild,35.80%,Normal metaboliser
+VKORC1,AA,rs9923231:T/T Hom,16.30%,Poor metaboliser
+VKORC1,AG,rs9923231:C/T Het,47.90%,Reduced metaboliser
+CYP1A2,*1F/*1F,rs762551:A/A Hom,45%,Rapid metaboliser
+CYP1A2,*1A/*1A,rs762551:C/C Wild,10.80%,Normal metaboliser
+CYP1A2,*1A/*1F,rs762551:C/A Het,44.20%,Normal metaboliser
+CYP3A4,*1/*22,CYP3A4 *1/*22,6.20%,Normal metaboliser
+CYP3A4,*1/*1,CYP3A4 *1/*1,93.70%,Normal metaboliser
+CYP3A4,*22/*22,CYP3A4 *22/*22,0.10%,Reduced metaboliser
+CYP3A5,*1/*3,CYP3A5 *1/*3,38.80%,Low normal metaboliser
+CYP3A5,*1/*1,CYP3A5 *1/*1,6.90%,Normal metaboliser
+CYP3A5,*3/*3,CYP3A5 *3/*3,54.30%,Poor metaboliser
+SLCO1B1,CC,rs4149056:C/C Hom,1.80%,Reduced metaboliser
+SLCO1B1,TT,rs4149056:T/T Wild,75.20%,Normal metaboliser
+SLCO1B1,TC,rs4149056:T/C Het,23.10%,Low normal metaboliser
+OPRM1,AA,NA,77.10%,Normal metaboliser
+OPRM1,GG,NA,1.50%,Reduced metaboliser
+OPRM1,AG,NA,21.40%,Low normal metaboliser
