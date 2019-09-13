@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+D59-312,major,"Antidepressants -SSRIs",Citalopram,CYP2C19,Reduced / inadequate response,CPIC1
+D59-312,major,"Antidepressants -SSRIs",Escitalopram,CYP2C19,Reduced / inadequate response,CPIC1
+D59-312,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC2
+D59-312,major,"Antidepressants -tricyclicantidepressants",Clomipramine,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC2
+D59-312,major,"Antidepressants -tricyclicantidepressants",Doxepin,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC2
+D59-312,major,"Antidepressants -tricyclicantidepressants",Imipramine,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC2
+D59-312,major,Antiepileptics,Phenytoin,CYP2C9,Adverse effects,CPIC3
+D59-312,major,Antifungals - Azoles,Voriconazole,CYP2C19,Reduced / inadequate response,CPIC4
+D59-312,major,Statins,Simvastatin,"SLCO1B1CYP3A4",Adverse effects,CPIC5
+D59-312,minor,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,-
+D59-312,minor,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"Increased therapeutic and/oradverse effects",-
+D59-312,minor,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG6
+D59-312,minor,Antiarrhythmics,Propafenone,CYP2D6,Adverse effects,DPWG6
+D59-312,minor,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Increased acenocoumarolsensitivity",DPWG
+D59-312,minor,Anticoagulants,Warfarin,"VKORC1CYP2C9",Increased warfarin sensitivity,FDA7
+D59-312,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Altered response,-
+D59-312,minor,"Antidepressants -other",Moclobemide,CYP2C19,Reduced / inadequate response,-
+D59-312,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+D59-312,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,Adverse effects,DPWG6
+D59-312,minor,"Antidepressants -SSRIs",Paroxetine,CYP2D6,Adverse effects,CPIC1
+D59-312,minor,"Antidepressants -SSRIs",Sertraline,CYP2C19,Reduced / inadequate response,CPIC1
+D59-312,minor,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,Adverse effects,CPIC2
+D59-312,minor,"Antidepressants -tricyclicantidepressants",Nortriptyline,CYP2D6,Adverse effects,CPIC2
+D59-312,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+D59-312,minor,Antidiabetics,Glimepiride,CYP2C9,"Increased therapeutic and/oradverse effects",-
+D59-312,minor,Antidiabetics,Glyburide,CYP2C9,"Increased therapeutic and/oradverse effects",-
+D59-312,minor,Antiemetics,Ondansetron,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC8
+D59-312,minor,Antihistamines,Chlorpheniramine,CYP2D6,Adverse effects,-
+D59-312,minor,Antihistamines,Dexchlorpheniramine,CYP2D6,Adverse effects,-
+D59-312,minor,Antiplatelet drugs,Clopidogrel,CYP2C19,Adverse effects,CPIC9
+D59-312,minor,Antipsychotics,Aripiprazole,CYP2D6,Adverse effects,-
+D59-312,minor,Antipsychotics,Brexpiprazole,CYP2D6,Adverse effects,-
+D59-312,minor,Antipsychotics,Clozapine,CYP1A2,Reduced / inadequate response,-
+D59-312,minor,Antipsychotics,Haloperidol,CYP2D6,Adverse effects,-
+D59-312,minor,Antipsychotics,Olanzapine,CYP1A2,Reduced / inadequate response,-
+D59-312,minor,Antipsychotics,Pimozide,CYP2D6,Adverse effects,
+D59-312,minor,Antipsychotics,Risperidone,CYP2D6,Adverse effects,DPWG6
+D59-312,minor,Antipsychotics,Zuclopenthixol,CYP2D6,Adverse effects,DPWG6
+D59-312,minor,Antitussives,Dextromethorphan,CYP2D6,Altered response,-
+D59-312,minor,Benzodiazepines,Clobazam,CYP2C19,Reduced / inadequate response,-
+D59-312,minor,Benzodiazepines,Diazepam,CYP2C19,Reduced / inadequate response,-
+D59-312,minor,Beta blockers,Metoprolol,CYP2D6,Adverse effects,DPWG6
+D59-312,minor,Beta blockers,Propranolol,"CYP2D6CYP1A2",Altered response,-
+D59-312,minor,Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
+D59-312,minor,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,Reduced / inadequate response,CPIC10
+D59-312,minor,Miscellaneous,Cyclophosphamide,CYP2C19,"Increased therapeutic and/oradverse effects",-
+D59-312,minor,Miscellaneous,Eliglustat,CYP2D6,Adverse effects,TGA11
+D59-312,minor,Miscellaneous,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+D59-312,minor,Miscellaneous,Proguanil,CYP2C19,Altered response,-
+D59-312,minor,Neurological drugs,Tetrabenazine,CYP2D6,Adverse effects,FDA12
+D59-312,minor,NSAIDs,Celecoxib,CYP2C9,"Increased therapeutic and/oradverse effects",-
+D59-312,minor,NSAIDs,Flurbiprofen,CYP2C9,Adverse effects,-
+D59-312,minor,NSAIDs,Ibuprofen,CYP2C9,Adverse effects,-
+D59-312,minor,NSAIDs,Meloxicam,CYP2C9,Adverse effects,-
+D59-312,minor,NSAIDs,Piroxicam,CYP2C9,Adverse effects,-
+D59-312,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+D59-312,minor,Proton pump,Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+D59-312,minor,inhibitors,Esomeprazole,CYP2C19,Reduced / inadequate response,-
+D59-312,minor,inhibitors,Lansoprazole,CYP2C19,Reduced / inadequate response,-
+D59-312,minor,inhibitors,Omeprazole,CYP2C19,Reduced / inadequate response,-
+D59-312,minor,inhibitors,Pantoprazole,CYP2C19,Reduced / inadequate response,-
+D59-312,minor,inhibitors,Rabeprazole,CYP2C19,Reduced / inadequate response,-
+D59-312,minor,Statins,Atorvastatin,"SLCO1B1CYP3A4",Adverse effects,-
+D59-312,usual,"Angiotensin receptorblockers",Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+D59-312,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,"Anticholinergics(genitourinary)",Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,"Anticholinergics(genitourinary)",Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,Anticholinesterases,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,"Antidepressants -other",Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9","No altered effect predicted bygenotype",-
+D59-312,usual,"Antidepressants -SSRIs",Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC1
+D59-312,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,Antihistamines,Promethazine,CYP2D6,Adverse effects,-
+D59-312,usual,Antipsychotics,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,Antipsychotics,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+D59-312,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,Beta blockers,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC13
+D59-312,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+D59-312,usual,NSAIDs,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+D59-312,usual,NSAIDs,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+D59-312,usual,NSAIDs,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+D59-312,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with increasedsensitivity to codeine",CPIC14
+D59-312,usual,Opioid Analgesics,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+D59-312,usual,Opioid Analgesics,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",DPWG6
+D59-312,usual,Opioid Analgesics,Tramadol,CYP2D6,"No altered effect predicted bygenotype",DPWG6
+D59-312,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,Psychostimulants,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+D59-312,usual,Statins,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+D59-312,usual,Statins,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+D59-312,usual,Statins,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-

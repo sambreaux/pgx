@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+K76-160,major,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,Altered response,DPWG1
+K76-160,major,"Antidepressants -SSRIs",Fluvoxamine,"CYP2D6CYP1A2",Reduced / inadequate response,CPIC2
+K76-160,major,"Antidepressants -SSRIs",Paroxetine,CYP2D6,Reduced / inadequate response,CPIC2
+K76-160,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Altered response,CPIC3
+K76-160,major,"Antidepressants -tricyclicantidepressants",Clomipramine,"CYP2D6CYP2C19",Altered response,CPIC3
+K76-160,major,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,Reduced / inadequate response,CPIC3
+K76-160,major,"Antidepressants -tricyclicantidepressants",Doxepin,"CYP2D6CYP2C19",Altered response,CPIC3
+K76-160,major,"Antidepressants -tricyclicantidepressants",Imipramine,"CYP2D6CYP2C19",Altered response,CPIC3
+K76-160,major,"Antidepressants -tricyclicantidepressants",Nortriptyline,CYP2D6,Reduced / inadequate response,CPIC3
+K76-160,major,Antiemetics,Ondansetron,CYP2D6,Reduced / inadequate response,CPIC4
+K76-160,major,Beta blockers,Metoprolol,CYP2D6,Reduced / inadequate response,DPWG1
+K76-160,major,Miscellaneous,Eliglustat,CYP2D6,Reduced / inadequate response,TGA5
+K76-160,major,Opioid Analgesics,Codeine,"CYP2D6OPRM1",Adverse effects,CPIC6
+K76-160,major,Opioid Analgesics,Hydrocodone,CYP2D6,Adverse effects,
+K76-160,major,Opioid Analgesics,Oxycodone,CYP2D6,Adverse effects,DPWG1
+K76-160,major,Opioid Analgesics,Tramadol,CYP2D6,Adverse effects,DPWG1
+K76-160,minor,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Antiarrhythmics,Flecainide,CYP2D6,Reduced / inadequate response,DPWG1
+K76-160,minor,Antiarrhythmics,Propafenone,CYP2D6,Reduced / inadequate response,DPWG1
+K76-160,minor,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,"Anticholinergics(genitourinary)",Fesoterodine,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,"Anticholinergics(genitourinary)",Tolterodine,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Anticholinesterases,Donepezil,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Anticholinesterases,Galantamine,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Increased acenocoumarolsensitivity",
+K76-160,minor,Anticoagulants,Warfarin,"VKORC1CYP2C9",Increased warfarin sensitivity,FDA7
+K76-160,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+K76-160,minor,"Antidepressants -other",Vortioxetine,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+K76-160,minor,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9",Altered response,-
+K76-160,minor,Antiemetics,Metoclopramide,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Antihistamines,Chlorpheniramine,CYP2D6,Altered response,-
+K76-160,minor,Antihistamines,Dexchlorpheniramine,CYP2D6,Altered response,-
+K76-160,minor,Antihistamines,Promethazine,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Antipsychotics,Aripiprazole,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Antipsychotics,Brexpiprazole,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Antipsychotics,Chlorpromazine,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Antipsychotics,Haloperidol,CYP2D6,Reduced / inadequate response,DPWG
+K76-160,minor,Antipsychotics,Pimozide,CYP2D6,Reduced / inadequate response,
+K76-160,minor,Antipsychotics,Risperidone,CYP2D6,Altered response,DPWG1
+K76-160,minor,Antipsychotics,Zuclopenthixol,CYP2D6,Reduced / inadequate response,DPWG1
+K76-160,minor,Antitussives,Dextromethorphan,CYP2D6,Altered response,-
+K76-160,minor,Beta blockers,Carvedilol,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Beta blockers,Nebivolol,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC8
+K76-160,minor,Miscellaneous,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+K76-160,minor,Neurological drugs,Tetrabenazine,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+K76-160,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+K76-160,minor,"Proton pumpinhibitors",Esomeprazole,CYP2C19,Reduced / inadequate response,-
+K76-160,minor,"Proton pumpinhibitors",Lansoprazole,CYP2C19,Reduced / inadequate response,-
+K76-160,minor,"Proton pumpinhibitors",Omeprazole,CYP2C19,Reduced / inadequate response,-
+K76-160,minor,"Proton pumpinhibitors",Pantoprazole,CYP2C19,Reduced / inadequate response,-
+K76-160,minor,"Proton pumpinhibitors",Rabeprazole,CYP2C19,Reduced / inadequate response,-
+K76-160,minor,Psychostimulants,Dextroamphetamine,CYP2D6,Reduced / inadequate response,-
+K76-160,minor,Psychostimulants,Lisdexamfetamine,CYP2D6,Reduced / inadequate response,-
+K76-160,usual,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,"Angiotensin receptorblockers",Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,"Antidepressants -other",Moclobemide,CYP2C19,"No altered effect predicted bygenotype",-
+K76-160,usual,"Antidepressants -SSRIs",Citalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC2
+K76-160,usual,"Antidepressants -SSRIs",Escitalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC2
+K76-160,usual,"Antidepressants -SSRIs",Sertraline,CYP2C19,"No altered effect predicted bygenotype",CPIC2
+K76-160,usual,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","No altered effect predicted bygenotype",-
+K76-160,usual,Antidiabetics,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,Antidiabetics,Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC9
+K76-160,usual,Antifungals - Azoles,Voriconazole,CYP2C19,"No altered effect predicted bygenotype",CPIC10
+K76-160,usual,Antiplatelet drugs,Clopidogrel,CYP2C19,"No altered effect predicted bygenotype",CPIC11
+K76-160,usual,Antipsychotics,Clozapine,CYP1A2,"No altered effect predicted bygenotype",-
+K76-160,usual,Antipsychotics,Olanzapine,CYP1A2,"No altered effect predicted bygenotype",-
+K76-160,usual,Antipsychotics,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+K76-160,usual,Benzodiazepines,Clobazam,CYP2C19,"No altered effect predicted bygenotype",-
+K76-160,usual,Benzodiazepines,Diazepam,CYP2C19,"No altered effect predicted bygenotype",-
+K76-160,usual,Beta blockers,Propranolol,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+K76-160,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC12
+K76-160,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+K76-160,usual,Hypnotics,Melatonin,CYP1A2,"No altered effect predicted bygenotype",-
+K76-160,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+K76-160,usual,Miscellaneous,Cyclophosphamide,CYP2C19,"No altered effect predicted bygenotype",-
+K76-160,usual,Miscellaneous,Proguanil,CYP2C19,"No altered effect predicted bygenotype",-
+K76-160,usual,NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,NSAIDs,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,NSAIDs,Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,NSAIDs,Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,NSAIDs,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,NSAIDs,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,NSAIDs,Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,NSAIDs,Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
+K76-160,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+K76-160,usual,Statins,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+K76-160,usual,Statins,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+K76-160,usual,Statins,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+K76-160,usual,Statins,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC13

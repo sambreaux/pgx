@@ -1,0 +1,114 @@
+CURRENT MEDICATIONS OVERVIEW,,
+MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
+"Citalopram",CYP2C19,"Minor – result should be considered as may affect medicationresponse"
+"Mirtazapine","CYP1A2CYP2D6","Minor – result should be considered as may affect medicationresponse"
+"Rosuvastatin",SLCO1B1,Usual prescribing considerations apply
+MEDICATIONS THAT DO NOT HAVE PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,,
+"clonazepam, candesartan (Candesartan), acetaminophen",,
+MEDICATIONS WITH MAJOR PRESCRIBING CONSIDERATIONS,,,,
+DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+Antiplatelet drugs,Clopidogrel,CYP2C19,Reduced / inadequate response,CPIC2
+MEDICATIONS WITH MINOR PRESCRIBING CONSIDERATIONS,,,,
+DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+Moclobemide,CYP2C19,Adverse effects,-,
+MEDICATIONS WITH MINOR PRESCRIBING CONSIDERATIONS,,,,
+DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+"Antidepressants -SSRIs",Citalopram,CYP2C19,Adverse effects,CPIC1
+"",Escitalopram,CYP2C19,Adverse effects,CPIC1
+"",Sertraline,CYP2C19,Adverse effects,CPIC1
+"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Altered response,CPIC3
+"",Clomipramine,"CYP2D6CYP2C19",Altered response,CPIC3
+"",Doxepin,"CYP2D6CYP2C19",Altered response,CPIC3
+"",Imipramine,"CYP2D6CYP2C19",Altered response,CPIC3
+Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+Antifungals - Azoles,Voriconazole,CYP2C19,"Increased therapeutic and/oradverse effects",CPIC4
+Antipsychotics,Clozapine,CYP1A2,Reduced / inadequate response,-
+"",Olanzapine,CYP1A2,Reduced / inadequate response,-
+Benzodiazepines,Clobazam,CYP2C19,Adverse effects,-
+"",Diazepam,CYP2C19,Adverse effects,-
+Beta blockers,Propranolol,"CYP2D6CYP1A2",Altered response,-
+Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
+Miscellaneous,Cyclophosphamide,CYP2C19,Reduced / inadequate response,-
+"",Proguanil,CYP2C19,Reduced / inadequate response,-
+Opioid Analgesics,Morphine,OPRM1,"Associated with reducedresponse to morphine",-
+"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",FDA5
+Esomeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-,
+Lansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-,
+Omeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-,
+Pantoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-,
+Rabeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-,
+MEDICATIONS WITH USUAL PRESCRIBING CONSIDERATIONS,,,,
+DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,"No altered effect predicted bygenotype",-
+"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
+Losartan,CYP2C9,"No altered effect predicted bygenotype",-,
+MEDICATIONS WITH USUAL PRESCRIBING CONSIDERATIONS,,,,
+DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+Antiarrhythmics,Flecainide,CYP2D6,"No altered effect predicted bygenotype",-
+"",Propafenone,CYP2D6,"No altered effect predicted bygenotype",-
+"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+"",Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+"",Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+"",Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+Anticoagulants,Acenocoumarol,"VKORC1CYP2C9",Normal acenocoumarol sensitivity,
+"",Warfarin,"VKORC1CYP2C9",Normal warfarin sensitivity,FDA6
+"Antidepressants -other",Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,"No altered effect predicted bygenotype",DPWG7
+"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9","No altered effect predicted bygenotype",-
+"",Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC1
+"",Paroxetine,CYP2D6,"No altered effect predicted bygenotype",CPIC1
+"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,"No altered effect predicted bygenotype",CPIC3
+"",Nortriptyline,CYP2D6,"No altered effect predicted bygenotype",CPIC3
+Antidiabetics,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
+"",Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
+Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+"",Ondansetron,CYP2D6,"No altered effect predicted bygenotype",CPIC8
+Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC9
+Antihistamines,Chlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+"",Dexchlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+"",Promethazine,CYP2D6,"No altered effect predicted bygenotype",-
+Antipsychotics,Aripiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+Brexpiprazole,CYP2D6,"No altered effect predicted bygenotype",-,
+MEDICATIONS WITH USUAL PRESCRIBING CONSIDERATIONS,,,,
+DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+"",Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+"",Haloperidol,CYP2D6,"No altered effect predicted bygenotype",-
+"",Pimozide,CYP2D6,"No altered effect predicted bygenotype",
+"",Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+"",Risperidone,CYP2D6,"No altered effect predicted bygenotype",-
+"",Zuclopenthixol,CYP2D6,"No altered effect predicted bygenotype",-
+Antitussives,Dextromethorphan,CYP2D6,"No altered effect predicted bygenotype",-
+Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+"",Metoprolol,CYP2D6,"No altered effect predicted bygenotype",-
+"",Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC10
+"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,"No altered effect predicted bygenotype",CPIC11
+Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+"",Eliglustat,CYP2D6,"No altered effect predicted bygenotype",TGA12
+"",Naltrexone,OPRM1,"No altered effect predicted bygenotype for naltrexone",
+Neurological drugs,Tetrabenazine,CYP2D6,"No altered effect predicted bygenotype",FDA13
+NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
+"",Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+"",Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
+"",Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
+"",Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+"",Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+"",Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
+"",Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
+Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with reducedsensitivity to codeine",CPIC14
+Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",,
+MEDICATIONS WITH USUAL PRESCRIBING CONSIDERATIONS,,,,
+DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+"",Oxycodone,CYP2D6,"No altered effect predicted bygenotype",-
+"",Tramadol,CYP2D6,"No altered effect predicted bygenotype",-
+Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+"",Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-,
+Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-,
+Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-,
+Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC15,

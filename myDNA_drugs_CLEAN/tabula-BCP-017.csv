@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+BCP-017,major,"Angiotensin receptorblockers",Losartan,CYP2C9,Reduced / inadequate response,-
+BCP-017,major,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
+BCP-017,major,,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA1
+BCP-017,major,Antidiabetics,Glimepiride,CYP2C9,"Increased therapeutic and/oradverse effects",-
+BCP-017,major,,Glyburide,CYP2C9,"Increased therapeutic and/oradverse effects",-
+BCP-017,major,Antiepileptics,Phenytoin,CYP2C9,Adverse effects,CPIC2
+BCP-017,major,NSAIDs,Celecoxib,CYP2C9,"Increased therapeutic and/oradverse effects",FDA3
+BCP-017,major,,Flurbiprofen,CYP2C9,Adverse effects,"FDA4,5"
+BCP-017,major,,Ibuprofen,CYP2C9,Adverse effects,-
+BCP-017,major,,Meloxicam,CYP2C9,Adverse effects,-
+BCP-017,major,,Piroxicam,CYP2C9,Adverse effects,-
+BCP-017,major,Statins,Fluvastatin,"SLCO1B1CYP2C9","Increased therapeutic and/oradverse effects",-
+BCP-017,minor,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,-
+BCP-017,minor,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"Increased therapeutic and/oradverse effects",-
+BCP-017,minor,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG6
+BCP-017,minor,,Propafenone,CYP2D6,Adverse effects,DPWG6
+BCP-017,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Altered response,-
+BCP-017,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+BCP-017,minor,,Venlafaxine,CYP2D6,Adverse effects,DPWG6
+BCP-017,minor,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9",Altered response,-
+BCP-017,minor,,Paroxetine,CYP2D6,Adverse effects,CPIC7
+BCP-017,minor,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,Adverse effects,CPIC8
+BCP-017,minor,,Nortriptyline,CYP2D6,Adverse effects,CPIC8
+BCP-017,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+BCP-017,minor,Antiemetics,Ondansetron,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC9
+BCP-017,minor,Antihistamines,Chlorpheniramine,CYP2D6,Adverse effects,-
+BCP-017,minor,,Dexchlorpheniramine,CYP2D6,Adverse effects,-
+BCP-017,minor,Antipsychotics,Aripiprazole,CYP2D6,Adverse effects,-
+BCP-017,minor,,Brexpiprazole,CYP2D6,Adverse effects,-
+BCP-017,minor,,Clozapine,CYP1A2,Reduced / inadequate response,-
+BCP-017,minor,,Haloperidol,CYP2D6,Adverse effects,-
+BCP-017,minor,,Olanzapine,CYP1A2,Reduced / inadequate response,-
+BCP-017,minor,,Pimozide,CYP2D6,Adverse effects,
+BCP-017,minor,,Risperidone,CYP2D6,Adverse effects,DPWG6
+BCP-017,minor,,Zuclopenthixol,CYP2D6,Adverse effects,DPWG6
+BCP-017,minor,Antitussives,Dextromethorphan,CYP2D6,Altered response,-
+BCP-017,minor,Beta blockers,Metoprolol,CYP2D6,Adverse effects,DPWG6
+BCP-017,minor,,Propranolol,"CYP2D6CYP1A2",Altered response,-
+BCP-017,minor,Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
+BCP-017,minor,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,Reduced / inadequate response,CPIC10
+BCP-017,minor,Miscellaneous,Eliglustat,CYP2D6,Adverse effects,TGA11
+BCP-017,minor,,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+BCP-017,minor,Neurological drugs,Tetrabenazine,CYP2D6,Adverse effects,FDA12
+BCP-017,minor,NSAIDs,Diclofenac,CYP2C9,Adverse effects,-
+BCP-017,minor,,Indomethacin,CYP2C9,Adverse effects,-
+BCP-017,minor,,Mefenamic Acid,CYP2C9,Adverse effects,-
+BCP-017,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+BCP-017,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+BCP-017,minor,,Esomeprazole,CYP2C19,Reduced / inadequate response,-
+BCP-017,minor,,Lansoprazole,CYP2C19,Reduced / inadequate response,-
+BCP-017,minor,,Omeprazole,CYP2C19,Reduced / inadequate response,-
+BCP-017,minor,,Pantoprazole,CYP2C19,Reduced / inadequate response,-
+BCP-017,minor,,Rabeprazole,CYP2C19,Reduced / inadequate response,-
+BCP-017,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,"Antidepressants -other",Moclobemide,CYP2C19,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,"Antidepressants -SSRIs",Citalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC7
+BCP-017,usual,,Escitalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC7
+BCP-017,usual,,Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC7
+BCP-017,usual,,Sertraline,CYP2C19,"No altered effect predicted bygenotype",CPIC7
+BCP-017,usual,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC8
+BCP-017,usual,,Clomipramine,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC8
+BCP-017,usual,,Doxepin,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC8
+BCP-017,usual,,Imipramine,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC8
+BCP-017,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,Antifungals - Azoles,Voriconazole,CYP2C19,"No altered effect predicted bygenotype",CPIC13
+BCP-017,usual,Antihistamines,Promethazine,CYP2D6,Adverse effects,-
+BCP-017,usual,Antiplatelet drugs,Clopidogrel,CYP2C19,"No altered effect predicted bygenotype",CPIC14
+BCP-017,usual,Antipsychotics,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+BCP-017,usual,Benzodiazepines,Clobazam,CYP2C19,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Diazepam,CYP2C19,"No altered effect predicted bygenotype",-
+BCP-017,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC15
+BCP-017,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Cyclophosphamide,CYP2C19,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Proguanil,CYP2C19,"No altered effect predicted bygenotype",-
+BCP-017,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with increasedsensitivity to codeine",CPIC16
+BCP-017,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+BCP-017,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",DPWG6
+BCP-017,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",DPWG6
+BCP-017,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+BCP-017,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+BCP-017,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+BCP-017,usual,,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC17

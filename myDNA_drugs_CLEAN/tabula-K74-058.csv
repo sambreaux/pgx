@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+K74-058,major,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG2
+K74-058,major,Antiarrhythmics,Propafenone,CYP2D6,Adverse effects,DPWG2
+K74-058,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Adverse effects,CPIC3
+K74-058,major,"Antidepressants -tricyclicantidepressants",Clomipramine,"CYP2D6CYP2C19",Adverse effects,CPIC3
+K74-058,major,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,Adverse effects,CPIC3
+K74-058,major,"Antidepressants -tricyclicantidepressants",Doxepin,"CYP2D6CYP2C19",Adverse effects,CPIC3
+K74-058,major,"Antidepressants -tricyclicantidepressants",Imipramine,"CYP2D6CYP2C19",Adverse effects,CPIC3
+K74-058,major,"Antidepressants -tricyclicantidepressants",Nortriptyline,CYP2D6,Adverse effects,CPIC3
+K74-058,major,Beta blockers,Metoprolol,CYP2D6,Adverse effects,DPWG2
+K74-058,major,Calcineurin inhibitors,Tacrolimus,CYP3A5,Reduced / inadequate response,CPIC4
+K74-058,major,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,Reduced / inadequate response,CPIC5
+K74-058,major,Opioid Analgesics,Codeine,"CYP2D6OPRM1",Reduced / inadequate response,CPIC6
+K74-058,major,Opioid Analgesics,Tramadol,CYP2D6,Reduced / inadequate response,DPWG2
+K74-058,major,Statins,Simvastatin,"SLCO1B1CYP3A4",Adverse effects,CPIC7
+K74-058,minor,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,-
+K74-058,minor,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,Adverse effects,-
+K74-058,minor,"Anticholinergics(genitourinary)",Fesoterodine,CYP2D6,Adverse effects,-
+K74-058,minor,"Anticholinergics(genitourinary)",Tolterodine,CYP2D6,Adverse effects,-
+K74-058,minor,Anticholinesterases,Donepezil,CYP2D6,Adverse effects,-
+K74-058,minor,Anticholinesterases,Galantamine,CYP2D6,Adverse effects,-
+K74-058,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Altered response,-
+K74-058,minor,"Antidepressants -other",Vortioxetine,CYP2D6,Adverse effects,-
+K74-058,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Altered response,-
+K74-058,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,Adverse effects,DPWG2
+K74-058,minor,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9",Altered response,-
+K74-058,minor,"Antidepressants -SSRIs",Fluvoxamine,"CYP2D6CYP1A2",Adverse effects,CPIC1
+K74-058,minor,"Antidepressants -SSRIs",Paroxetine,CYP2D6,Adverse effects,CPIC1
+K74-058,minor,Antiemetics,Metoclopramide,CYP2D6,Adverse effects,-
+K74-058,minor,Antiemetics,Ondansetron,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC8
+K74-058,minor,Antihistamines,Chlorpheniramine,CYP2D6,Adverse effects,-
+K74-058,minor,Antihistamines,Dexchlorpheniramine,CYP2D6,Adverse effects,-
+K74-058,minor,Antihistamines,Promethazine,CYP2D6,Adverse effects,-
+K74-058,minor,Antipsychotics,Aripiprazole,CYP2D6,Adverse effects,-
+K74-058,minor,Antipsychotics,Brexpiprazole,CYP2D6,Adverse effects,-
+K74-058,minor,Antipsychotics,Chlorpromazine,CYP2D6,Adverse effects,-
+K74-058,minor,Antipsychotics,Clozapine,CYP1A2,Reduced / inadequate response,-
+K74-058,minor,Antipsychotics,Haloperidol,CYP2D6,Adverse effects,-
+K74-058,minor,Antipsychotics,Olanzapine,CYP1A2,Reduced / inadequate response,-
+K74-058,minor,Antipsychotics,Pimozide,CYP2D6,Adverse effects,
+K74-058,minor,Antipsychotics,Risperidone,CYP2D6,Adverse effects,DPWG2
+K74-058,minor,Antipsychotics,Zuclopenthixol,CYP2D6,Adverse effects,DPWG2
+K74-058,minor,Antitussives,Dextromethorphan,CYP2D6,Adverse effects,-
+K74-058,minor,Beta blockers,Carvedilol,CYP2D6,Adverse effects,-
+K74-058,minor,Beta blockers,Nebivolol,CYP2D6,Adverse effects,-
+K74-058,minor,Beta blockers,Propranolol,"CYP2D6CYP1A2",Altered response,-
+K74-058,minor,"Glaucoma - ocularpreparations",Timolol,CYP2D6,Adverse effects,-
+K74-058,minor,Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
+K74-058,minor,Miscellaneous,Atazanavir,CYP3A5,Reduced / inadequate response,-
+K74-058,minor,Miscellaneous,Eliglustat,CYP2D6,Adverse effects,TGA9
+K74-058,minor,Miscellaneous,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+K74-058,minor,Neurological drugs,Tetrabenazine,CYP2D6,Adverse effects,FDA10
+K74-058,minor,Opioid Analgesics,Hydrocodone,CYP2D6,Altered response,
+K74-058,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+K74-058,minor,Opioid Analgesics,Oxycodone,CYP2D6,Reduced / inadequate response,DPWG2
+K74-058,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+K74-058,minor,"Proton pumpinhibitors",Esomeprazole,CYP2C19,Reduced / inadequate response,-
+K74-058,minor,"Proton pumpinhibitors",Lansoprazole,CYP2C19,Reduced / inadequate response,-
+K74-058,minor,"Proton pumpinhibitors",Omeprazole,CYP2C19,Reduced / inadequate response,-
+K74-058,minor,"Proton pumpinhibitors",Pantoprazole,CYP2C19,Reduced / inadequate response,-
+K74-058,minor,"Proton pumpinhibitors",Rabeprazole,CYP2C19,Reduced / inadequate response,-
+K74-058,minor,Psychostimulants,Dextroamphetamine,CYP2D6,Adverse effects,-
+K74-058,minor,Psychostimulants,Lisdexamfetamine,CYP2D6,Adverse effects,-
+K74-058,minor,Statins,Atorvastatin,"SLCO1B1CYP3A4",Adverse effects,-
+K74-058,usual,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,"Angiotensin receptorblockers",Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9",Normal acenocoumarol sensitivity,
+K74-058,usual,Anticoagulants,Warfarin,"VKORC1CYP2C9",Normal warfarin sensitivity,FDA11
+K74-058,usual,"Antidepressants -other",Moclobemide,CYP2C19,"No altered effect predicted bygenotype",-
+K74-058,usual,"Antidepressants -SSRIs",Citalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC1
+K74-058,usual,"Antidepressants -SSRIs",Escitalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC1
+K74-058,usual,"Antidepressants -SSRIs",Sertraline,CYP2C19,"No altered effect predicted bygenotype",CPIC1
+K74-058,usual,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","No altered effect predicted bygenotype",-
+K74-058,usual,Antidiabetics,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,Antidiabetics,Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC12
+K74-058,usual,Antifungals - Azoles,Voriconazole,CYP2C19,"No altered effect predicted bygenotype",CPIC13
+K74-058,usual,Antiplatelet drugs,Clopidogrel,CYP2C19,"No altered effect predicted bygenotype",CPIC14
+K74-058,usual,Antipsychotics,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+K74-058,usual,Benzodiazepines,Clobazam,CYP2C19,"No altered effect predicted bygenotype",-
+K74-058,usual,Benzodiazepines,Diazepam,CYP2C19,"No altered effect predicted bygenotype",-
+K74-058,usual,Miscellaneous,Cyclophosphamide,CYP2C19,"No altered effect predicted bygenotype",-
+K74-058,usual,Miscellaneous,Proguanil,CYP2C19,"No altered effect predicted bygenotype",-
+K74-058,usual,NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,NSAIDs,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,NSAIDs,Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,NSAIDs,Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,NSAIDs,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,NSAIDs,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,NSAIDs,Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,NSAIDs,Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
+K74-058,usual,Statins,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+K74-058,usual,Statins,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+K74-058,usual,Statins,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-

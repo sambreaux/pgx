@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+F31-204,major,Antiplatelet drugs,Clopidogrel,CYP2C19,Reduced / inadequate response,CPIC3
+F31-204,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+F31-204,minor,"Antidepressants -other",Moclobemide,CYP2C19,Adverse effects,-
+F31-204,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+F31-204,minor,"Antidepressants -SSRIs",Citalopram,CYP2C19,Adverse effects,CPIC1
+F31-204,minor,"Antidepressants -SSRIs",Escitalopram,CYP2C19,Adverse effects,CPIC1
+F31-204,minor,"Antidepressants -SSRIs",Sertraline,CYP2C19,Adverse effects,CPIC1
+F31-204,minor,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Adverse effects,CPIC4
+F31-204,minor,"Antidepressants -tricyclicantidepressants",Clomipramine,"CYP2D6CYP2C19",Adverse effects,CPIC4
+F31-204,minor,"Antidepressants -tricyclicantidepressants",Doxepin,"CYP2D6CYP2C19",Adverse effects,CPIC4
+F31-204,minor,"Antidepressants -tricyclicantidepressants",Imipramine,"CYP2D6CYP2C19",Adverse effects,CPIC4
+F31-204,minor,Antifungals - Azoles,Voriconazole,CYP2C19,"Increased therapeutic and/oradverse effects",CPIC5
+F31-204,minor,Antipsychotics,Clozapine,CYP1A2,Reduced / inadequate response,-
+F31-204,minor,Antipsychotics,Olanzapine,CYP1A2,Reduced / inadequate response,-
+F31-204,minor,Benzodiazepines,Clobazam,CYP2C19,Adverse effects,-
+F31-204,minor,Benzodiazepines,Diazepam,CYP2C19,Adverse effects,-
+F31-204,minor,Beta blockers,Propranolol,"CYP2D6CYP1A2",Altered response,-
+F31-204,minor,Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
+F31-204,minor,Miscellaneous,Cyclophosphamide,CYP2C19,Reduced / inadequate response,-
+F31-204,minor,Miscellaneous,Proguanil,CYP2C19,Reduced / inadequate response,-
+F31-204,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with reducedresponse to morphine",-
+F31-204,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Altered response,FDA6
+F31-204,minor,"Proton pumpinhibitors",Esomeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+F31-204,minor,"Proton pumpinhibitors",Lansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+F31-204,minor,"Proton pumpinhibitors",Omeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+F31-204,minor,"Proton pumpinhibitors",Pantoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+F31-204,minor,"Proton pumpinhibitors",Rabeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+F31-204,usual,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,"Angiotensin receptorblockers",Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,Antiarrhythmics,Flecainide,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Antiarrhythmics,Propafenone,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,"Anticholinergics(genitourinary)",Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,"Anticholinergics(genitourinary)",Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Anticholinesterases,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9",Normal acenocoumarol sensitivity,
+F31-204,usual,Anticoagulants,Warfarin,"VKORC1CYP2C9",Normal warfarin sensitivity,FDA7
+F31-204,usual,"Antidepressants -other",Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,"No altered effect predicted bygenotype",DPWG8
+F31-204,usual,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9","No altered effect predicted bygenotype",-
+F31-204,usual,"Antidepressants -SSRIs",Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC1
+F31-204,usual,"Antidepressants -SSRIs",Paroxetine,CYP2D6,"No altered effect predicted bygenotype",CPIC1
+F31-204,usual,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,"No altered effect predicted bygenotype",CPIC4
+F31-204,usual,"Antidepressants -tricyclicantidepressants",Nortriptyline,CYP2D6,"No altered effect predicted bygenotype",CPIC4
+F31-204,usual,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","No altered effect predicted bygenotype",-
+F31-204,usual,Antidiabetics,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,Antidiabetics,Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Antiemetics,Ondansetron,CYP2D6,"No altered effect predicted bygenotype",CPIC9
+F31-204,usual,Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC10
+F31-204,usual,Antihistamines,Chlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Antihistamines,Dexchlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Antihistamines,Promethazine,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Antipsychotics,Aripiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Antipsychotics,Brexpiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Antipsychotics,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Antipsychotics,Haloperidol,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Antipsychotics,Pimozide,CYP2D6,"No altered effect predicted bygenotype",
+F31-204,usual,Antipsychotics,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+F31-204,usual,Antipsychotics,Risperidone,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Antipsychotics,Zuclopenthixol,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Antitussives,Dextromethorphan,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Beta blockers,Metoprolol,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Beta blockers,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC11
+F31-204,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,"No altered effect predicted bygenotype",CPIC12
+F31-204,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+F31-204,usual,Miscellaneous,Eliglustat,CYP2D6,"No altered effect predicted bygenotype",TGA13
+F31-204,usual,Miscellaneous,Naltrexone,OPRM1,"No altered effect predicted bygenotype for naltrexone",
+F31-204,usual,Neurological drugs,Tetrabenazine,CYP2D6,"No altered effect predicted bygenotype",FDA14
+F31-204,usual,NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,NSAIDs,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,NSAIDs,Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,NSAIDs,Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,NSAIDs,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,NSAIDs,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,NSAIDs,Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,NSAIDs,Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
+F31-204,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with reducedsensitivity to codeine",CPIC15
+F31-204,usual,Opioid Analgesics,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+F31-204,usual,Opioid Analgesics,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Opioid Analgesics,Tramadol,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Psychostimulants,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+F31-204,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+F31-204,usual,Statins,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+F31-204,usual,Statins,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+F31-204,usual,Statins,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+F31-204,usual,Statins,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC16
