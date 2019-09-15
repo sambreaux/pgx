@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+N43-034,major,Antiplatelet drugs,Clopidogrel,CYP2C19,Reduced / inadequate response,CPIC2
+N43-034,major,Statins,Simvastatin,"SLCO1B1CYP3A4",Adverse effects,CPIC3
+N43-034,minor,"Antidepressants -other",Moclobemide,CYP2C19,Adverse effects,-
+N43-034,minor,"Antidepressants -SSRIs",Citalopram,CYP2C19,Adverse effects,CPIC1
+N43-034,minor,,Escitalopram,CYP2C19,Adverse effects,CPIC1
+N43-034,minor,,Sertraline,CYP2C19,Adverse effects,CPIC1
+N43-034,minor,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Altered response,CPIC4
+N43-034,minor,,Clomipramine,"CYP2D6CYP2C19",Altered response,CPIC4
+N43-034,minor,,Doxepin,"CYP2D6CYP2C19",Altered response,CPIC4
+N43-034,minor,,Imipramine,"CYP2D6CYP2C19",Altered response,CPIC4
+N43-034,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+N43-034,minor,Antifungals - Azoles,Voriconazole,CYP2C19,"Increased therapeutic and/oradverse effects",CPIC5
+N43-034,minor,Benzodiazepines,Clobazam,CYP2C19,Adverse effects,-
+N43-034,minor,,Diazepam,CYP2C19,Adverse effects,-
+N43-034,minor,Miscellaneous,Cyclophosphamide,CYP2C19,Reduced / inadequate response,-
+N43-034,minor,,Proguanil,CYP2C19,Reduced / inadequate response,-
+N43-034,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with reducedresponse to morphine",-
+N43-034,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",FDA6
+N43-034,minor,,Esomeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+N43-034,minor,,Lansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+N43-034,minor,,Omeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+N43-034,minor,,Pantoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+N43-034,minor,,Rabeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+N43-034,minor,Statins,Atorvastatin,"SLCO1B1CYP3A4",Adverse effects,-
+N43-034,usual,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,,Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,Antiarrhythmics,Flecainide,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Propafenone,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9",Normal acenocoumarol sensitivity,
+N43-034,usual,,Warfarin,"VKORC1CYP2C9",Normal warfarin sensitivity,FDA7
+N43-034,usual,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+N43-034,usual,,Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+N43-034,usual,,Venlafaxine,CYP2D6,"No altered effect predicted bygenotype",DPWG8
+N43-034,usual,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9","No altered effect predicted bygenotype",-
+N43-034,usual,,Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC1
+N43-034,usual,,Paroxetine,CYP2D6,"No altered effect predicted bygenotype",CPIC1
+N43-034,usual,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,"No altered effect predicted bygenotype",CPIC4
+N43-034,usual,,Nortriptyline,CYP2D6,"No altered effect predicted bygenotype",CPIC4
+N43-034,usual,Antidiabetics,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,,Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Ondansetron,CYP2D6,"No altered effect predicted bygenotype",CPIC9
+N43-034,usual,Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC10
+N43-034,usual,Antihistamines,Chlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Dexchlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Promethazine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,Antipsychotics,Aripiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Brexpiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Clozapine,CYP1A2,"No altered effect predicted bygenotype",-
+N43-034,usual,,Haloperidol,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Olanzapine,CYP1A2,"No altered effect predicted bygenotype",-
+N43-034,usual,,Pimozide,CYP2D6,"No altered effect predicted bygenotype",
+N43-034,usual,,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+N43-034,usual,,Risperidone,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Zuclopenthixol,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,Antitussives,Dextromethorphan,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Metoprolol,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Propranolol,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+N43-034,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC11
+N43-034,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,Hypnotics,Melatonin,CYP1A2,"No altered effect predicted bygenotype",-
+N43-034,usual,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,"No altered effect predicted bygenotype",CPIC12
+N43-034,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+N43-034,usual,,Eliglustat,CYP2D6,"No altered effect predicted bygenotype",TGA13
+N43-034,usual,,Naltrexone,OPRM1,"No altered effect predicted bygenotype for naltrexone",
+N43-034,usual,Neurological drugs,Tetrabenazine,CYP2D6,"No altered effect predicted bygenotype",FDA14
+N43-034,usual,NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,,Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,,Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,,Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,,Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
+N43-034,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with reducedsensitivity to codeine",CPIC15
+N43-034,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+N43-034,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-034,usual,Statins,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+N43-034,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+N43-034,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-

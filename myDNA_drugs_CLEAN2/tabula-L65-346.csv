@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+L65-346,major,"Antidepressants -SSRIs",Citalopram,CYP2C19,Adverse effects,"CPIC1, TGA3"
+L65-346,major,,Escitalopram,CYP2C19,Adverse effects,"CPIC1, TGA2"
+L65-346,major,,Sertraline,CYP2C19,Adverse effects,CPIC1
+L65-346,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Adverse effects,CPIC4
+L65-346,major,,Clomipramine,"CYP2D6CYP2C19",Adverse effects,CPIC4
+L65-346,major,,Doxepin,"CYP2D6CYP2C19",Adverse effects,CPIC4
+L65-346,major,,Imipramine,"CYP2D6CYP2C19",Adverse effects,CPIC4
+L65-346,major,Antifungals - Azoles,Voriconazole,CYP2C19,"Increased therapeutic and/oradverse effects",CPIC5
+L65-346,major,Antiplatelet drugs,Clopidogrel,CYP2C19,Reduced / inadequate response,CPIC6
+L65-346,major,Benzodiazepines,Clobazam,CYP2C19,Adverse effects,FDA7
+L65-346,major,,Diazepam,CYP2C19,Adverse effects,-
+L65-346,major,Statins,Simvastatin,"SLCO1B1CYP3A4",Adverse effects,CPIC8
+L65-346,minor,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Increased acenocoumarolsensitivity",
+L65-346,minor,,Warfarin,"VKORC1CYP2C9",Increased warfarin sensitivity,FDA9
+L65-346,minor,"Antidepressants -other",Moclobemide,CYP2C19,Adverse effects,-
+L65-346,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+L65-346,minor,Miscellaneous,Cyclophosphamide,CYP2C19,Reduced / inadequate response,-
+L65-346,minor,,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+L65-346,minor,,Proguanil,CYP2C19,Reduced / inadequate response,-
+L65-346,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+L65-346,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",FDA10
+L65-346,minor,,Esomeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+L65-346,minor,,Lansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+L65-346,minor,,Omeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+L65-346,minor,,Pantoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+L65-346,minor,,Rabeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+L65-346,minor,Statins,Atorvastatin,"SLCO1B1CYP3A4",Adverse effects,-
+L65-346,usual,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,,Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,Antiarrhythmics,Flecainide,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Propafenone,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+L65-346,usual,,Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+L65-346,usual,,Venlafaxine,CYP2D6,"No altered effect predicted bygenotype",DPWG11
+L65-346,usual,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9","No altered effect predicted bygenotype",-
+L65-346,usual,,Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC1
+L65-346,usual,,Paroxetine,CYP2D6,"No altered effect predicted bygenotype",CPIC1
+L65-346,usual,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,"No altered effect predicted bygenotype",CPIC4
+L65-346,usual,,Nortriptyline,CYP2D6,"No altered effect predicted bygenotype",CPIC4
+L65-346,usual,Antidiabetics,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,,Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Ondansetron,CYP2D6,"No altered effect predicted bygenotype",CPIC12
+L65-346,usual,Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC13
+L65-346,usual,Antihistamines,Chlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Dexchlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Promethazine,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,Antipsychotics,Aripiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Brexpiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Clozapine,CYP1A2,"No altered effect predicted bygenotype",-
+L65-346,usual,,Haloperidol,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Olanzapine,CYP1A2,"No altered effect predicted bygenotype",-
+L65-346,usual,,Pimozide,CYP2D6,"No altered effect predicted bygenotype",
+L65-346,usual,,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+L65-346,usual,,Risperidone,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Zuclopenthixol,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,Antitussives,Dextromethorphan,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Metoprolol,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Propranolol,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+L65-346,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC14
+L65-346,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,Hypnotics,Melatonin,CYP1A2,"No altered effect predicted bygenotype",-
+L65-346,usual,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,"No altered effect predicted bygenotype",CPIC15
+L65-346,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+L65-346,usual,,Eliglustat,CYP2D6,"No altered effect predicted bygenotype",TGA16
+L65-346,usual,Neurological drugs,Tetrabenazine,CYP2D6,"No altered effect predicted bygenotype",FDA17
+L65-346,usual,NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,,Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,,Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,,Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,,Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
+L65-346,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with increasedsensitivity to codeine",CPIC18
+L65-346,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+L65-346,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+L65-346,usual,Statins,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+L65-346,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+L65-346,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-

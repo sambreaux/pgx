@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+L65-296,major,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,FDA3
+L65-296,major,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG4
+L65-296,major,Antiarrhythmics,Propafenone,CYP2D6,Adverse effects,DPWG4
+L65-296,major,"Anticholinergics(genitourinary)",Tolterodine,CYP2D6,Adverse effects,FDA5
+L65-296,major,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
+L65-296,major,Anticoagulants,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA6
+L65-296,major,"Antidepressants -other",Vortioxetine,CYP2D6,Adverse effects,"TGA7, FDA8"
+L65-296,major,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,Adverse effects,DPWG4
+L65-296,major,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9",Adverse effects,FDA9
+L65-296,major,"Antidepressants -SSRIs",Fluvoxamine,"CYP2D6CYP1A2",Adverse effects,CPIC1
+L65-296,major,"Antidepressants -SSRIs",Paroxetine,CYP2D6,Adverse effects,CPIC1
+L65-296,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Adverse effects,CPIC10
+L65-296,major,"Antidepressants -tricyclicantidepressants",Clomipramine,"CYP2D6CYP2C19",Adverse effects,CPIC10
+L65-296,major,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,Adverse effects,CPIC10
+L65-296,major,"Antidepressants -tricyclicantidepressants",Doxepin,"CYP2D6CYP2C19",Adverse effects,CPIC10
+L65-296,major,"Antidepressants -tricyclicantidepressants",Imipramine,"CYP2D6CYP2C19",Adverse effects,CPIC10
+L65-296,major,"Antidepressants -tricyclicantidepressants",Nortriptyline,CYP2D6,Adverse effects,CPIC10
+L65-296,major,Antiemetics,Ondansetron,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC11
+L65-296,major,Antiepileptics,Phenytoin,CYP2C9,Adverse effects,CPIC12
+L65-296,major,Antipsychotics,Aripiprazole,CYP2D6,Adverse effects,"DPWG4,TGA13, FDA14"
+L65-296,major,Antipsychotics,Brexpiprazole,CYP2D6,Adverse effects,FDA15
+L65-296,major,Antipsychotics,Haloperidol,CYP2D6,Adverse effects,DPWG
+L65-296,major,Antipsychotics,Pimozide,CYP2D6,Adverse effects,FDA16
+L65-296,major,Antipsychotics,Risperidone,CYP2D6,Adverse effects,DPWG4
+L65-296,major,Antipsychotics,Zuclopenthixol,CYP2D6,Adverse effects,DPWG4
+L65-296,major,Antitussives,Dextromethorphan,CYP2D6,Adverse effects,-
+L65-296,major,Beta blockers,Metoprolol,CYP2D6,Adverse effects,DPWG4
+L65-296,major,"Glaucoma - ocularpreparations",Timolol,CYP2D6,Adverse effects,-
+L65-296,major,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,Reduced / inadequate response,CPIC17
+L65-296,major,Miscellaneous,Eliglustat,CYP2D6,Adverse effects,TGA18
+L65-296,major,Neurological drugs,Tetrabenazine,CYP2D6,"Increased therapeutic andadverse effects",FDA19
+L65-296,major,Opioid Analgesics,Codeine,"CYP2D6OPRM1",Reduced / inadequate response,CPIC20
+L65-296,major,Opioid Analgesics,Hydrocodone,CYP2D6,Reduced / inadequate response,
+L65-296,major,Opioid Analgesics,Tramadol,CYP2D6,Reduced / inadequate response,DPWG4
+L65-296,minor,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"Increased therapeutic and/oradverse effects",-
+L65-296,minor,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,Adverse effects,-
+L65-296,minor,"Anticholinergics(genitourinary)",Fesoterodine,CYP2D6,Adverse effects,-
+L65-296,minor,Anticholinesterases,Donepezil,CYP2D6,Adverse effects,-
+L65-296,minor,Anticholinesterases,Galantamine,CYP2D6,Adverse effects,-
+L65-296,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Adverse effects,-
+L65-296,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Adverse effects,-
+L65-296,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+L65-296,minor,Antidiabetics,Glimepiride,CYP2C9,"Increased therapeutic and/oradverse effects",-
+L65-296,minor,Antidiabetics,Glyburide,CYP2C9,"Increased therapeutic and/oradverse effects",-
+L65-296,minor,Antiemetics,Metoclopramide,CYP2D6,Adverse effects,-
+L65-296,minor,Antihistamines,Chlorpheniramine,CYP2D6,Adverse effects,-
+L65-296,minor,Antihistamines,Dexchlorpheniramine,CYP2D6,Adverse effects,-
+L65-296,minor,Antihistamines,Promethazine,CYP2D6,Adverse effects,-
+L65-296,minor,Antipsychotics,Chlorpromazine,CYP2D6,Adverse effects,-
+L65-296,minor,Beta blockers,Carvedilol,CYP2D6,Adverse effects,-
+L65-296,minor,Beta blockers,Nebivolol,CYP2D6,Adverse effects,-
+L65-296,minor,Beta blockers,Propranolol,"CYP2D6CYP1A2",Adverse effects,-
+L65-296,minor,NSAIDs,Celecoxib,CYP2C9,"Increased therapeutic and/oradverse effects",-
+L65-296,minor,NSAIDs,Flurbiprofen,CYP2C9,Adverse effects,-
+L65-296,minor,NSAIDs,Ibuprofen,CYP2C9,Adverse effects,-
+L65-296,minor,NSAIDs,Meloxicam,CYP2C9,Adverse effects,-
+L65-296,minor,NSAIDs,Piroxicam,CYP2C9,Adverse effects,-
+L65-296,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with reducedresponse to morphine",-
+L65-296,minor,Opioid Analgesics,Oxycodone,CYP2D6,Reduced / inadequate response,DPWG4
+L65-296,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+L65-296,minor,"Proton pumpinhibitors",Esomeprazole,CYP2C19,Reduced / inadequate response,-
+L65-296,minor,"Proton pumpinhibitors",Lansoprazole,CYP2C19,Reduced / inadequate response,-
+L65-296,minor,"Proton pumpinhibitors",Omeprazole,CYP2C19,Reduced / inadequate response,-
+L65-296,minor,"Proton pumpinhibitors",Pantoprazole,CYP2C19,Reduced / inadequate response,-
+L65-296,minor,"Proton pumpinhibitors",Rabeprazole,CYP2C19,Reduced / inadequate response,-
+L65-296,minor,Psychostimulants,Dextroamphetamine,CYP2D6,Adverse effects,-
+L65-296,minor,Psychostimulants,Lisdexamfetamine,CYP2D6,Adverse effects,-
+L65-296,usual,"Angiotensin receptorblockers",Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+L65-296,usual,"Antidepressants -other",Moclobemide,CYP2C19,"No altered effect predicted bygenotype",-
+L65-296,usual,"Antidepressants -SSRIs",Citalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC1
+L65-296,usual,"Antidepressants -SSRIs",Escitalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC1
+L65-296,usual,"Antidepressants -SSRIs",Sertraline,CYP2C19,"No altered effect predicted bygenotype",CPIC1
+L65-296,usual,Antifungals - Azoles,Voriconazole,CYP2C19,"No altered effect predicted bygenotype",CPIC21
+L65-296,usual,Antiplatelet drugs,Clopidogrel,CYP2C19,"No altered effect predicted bygenotype",CPIC22
+L65-296,usual,Antipsychotics,Clozapine,CYP1A2,"No altered effect predicted bygenotype",-
+L65-296,usual,Antipsychotics,Olanzapine,CYP1A2,"No altered effect predicted bygenotype",-
+L65-296,usual,Antipsychotics,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+L65-296,usual,Benzodiazepines,Clobazam,CYP2C19,"No altered effect predicted bygenotype",-
+L65-296,usual,Benzodiazepines,Diazepam,CYP2C19,"No altered effect predicted bygenotype",-
+L65-296,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC2
+L65-296,usual,Hypnotics,Melatonin,CYP1A2,"No altered effect predicted bygenotype",-
+L65-296,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+L65-296,usual,Miscellaneous,Cyclophosphamide,CYP2C19,"No altered effect predicted bygenotype",-
+L65-296,usual,Miscellaneous,Naltrexone,OPRM1,"No altered effect predicted bygenotype for naltrexone",
+L65-296,usual,Miscellaneous,Proguanil,CYP2C19,"No altered effect predicted bygenotype",-
+L65-296,usual,NSAIDs,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+L65-296,usual,NSAIDs,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+L65-296,usual,NSAIDs,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+L65-296,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+L65-296,usual,Statins,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+L65-296,usual,Statins,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+L65-296,usual,Statins,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+L65-296,usual,Statins,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC23

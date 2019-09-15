@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+BCP-016,major,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG1
+BCP-016,major,Antiarrhythmics,Propafenone,CYP2D6,Adverse effects,DPWG1
+BCP-016,major,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
+BCP-016,major,Anticoagulants,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA2
+BCP-016,major,"Antidepressants -SSRIs",Citalopram,CYP2C19,Adverse effects,"CPIC3, TGA4"
+BCP-016,major,"Antidepressants -SSRIs",Escitalopram,CYP2C19,Adverse effects,"CPIC3, TGA5"
+BCP-016,major,"Antidepressants -SSRIs",Sertraline,CYP2C19,Adverse effects,CPIC3
+BCP-016,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Adverse effects,CPIC6
+BCP-016,major,"Antidepressants -tricyclicantidepressants",Clomipramine,"CYP2D6CYP2C19",Adverse effects,CPIC6
+BCP-016,major,"Antidepressants -tricyclicantidepressants",Doxepin,"CYP2D6CYP2C19",Adverse effects,CPIC6
+BCP-016,major,"Antidepressants -tricyclicantidepressants",Imipramine,"CYP2D6CYP2C19",Adverse effects,CPIC6
+BCP-016,major,Antifungals - Azoles,Voriconazole,CYP2C19,"Increased therapeutic and/oradverse effects",CPIC7
+BCP-016,major,Antiplatelet drugs,Clopidogrel,CYP2C19,Reduced / inadequate response,CPIC8
+BCP-016,major,Benzodiazepines,Clobazam,CYP2C19,Adverse effects,FDA9
+BCP-016,major,Benzodiazepines,Diazepam,CYP2C19,Adverse effects,-
+BCP-016,major,Beta blockers,Metoprolol,CYP2D6,Adverse effects,DPWG1
+BCP-016,major,Calcineurin inhibitors,Tacrolimus,CYP3A5,Reduced / inadequate response,CPIC10
+BCP-016,major,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,Reduced / inadequate response,CPIC11
+BCP-016,major,Opioid Analgesics,Tramadol,CYP2D6,Reduced / inadequate response,DPWG1
+BCP-016,minor,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,-
+BCP-016,minor,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,Adverse effects,-
+BCP-016,minor,"Anticholinergics(genitourinary)",Fesoterodine,CYP2D6,Adverse effects,-
+BCP-016,minor,"Anticholinergics(genitourinary)",Tolterodine,CYP2D6,Adverse effects,-
+BCP-016,minor,Anticholinesterases,Donepezil,CYP2D6,Adverse effects,-
+BCP-016,minor,Anticholinesterases,Galantamine,CYP2D6,Adverse effects,-
+BCP-016,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Adverse effects,-
+BCP-016,minor,"Antidepressants -other",Moclobemide,CYP2C19,Adverse effects,-
+BCP-016,minor,"Antidepressants -other",Vortioxetine,CYP2D6,Adverse effects,-
+BCP-016,minor,"Antidepressants -serotoninnoradrenaline",Duloxetine,"CYP2D6CYP1A2",Adverse effects,-
+BCP-016,minor,reuptake inhibitors,Venlafaxine,CYP2D6,Adverse effects,DPWG1
+BCP-016,minor,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9",Altered response,-
+BCP-016,minor,"Antidepressants -SSRIs",Fluvoxamine,"CYP2D6CYP1A2",Adverse effects,CPIC3
+BCP-016,minor,"Antidepressants -SSRIs",Paroxetine,CYP2D6,Adverse effects,CPIC3
+BCP-016,minor,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,Adverse effects,CPIC6
+BCP-016,minor,"Antidepressants -tricyclicantidepressants",Nortriptyline,CYP2D6,Adverse effects,CPIC6
+BCP-016,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+BCP-016,minor,Antiemetics,Metoclopramide,CYP2D6,Adverse effects,-
+BCP-016,minor,Antiemetics,Ondansetron,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC12
+BCP-016,minor,Antihistamines,Chlorpheniramine,CYP2D6,Adverse effects,-
+BCP-016,minor,Antihistamines,Dexchlorpheniramine,CYP2D6,Adverse effects,-
+BCP-016,minor,Antihistamines,Promethazine,CYP2D6,Adverse effects,-
+BCP-016,minor,Antipsychotics,Aripiprazole,CYP2D6,Adverse effects,-
+BCP-016,minor,Antipsychotics,Brexpiprazole,CYP2D6,Adverse effects,-
+BCP-016,minor,Antipsychotics,Chlorpromazine,CYP2D6,Adverse effects,-
+BCP-016,minor,Antipsychotics,Haloperidol,CYP2D6,Adverse effects,-
+BCP-016,minor,Antipsychotics,Pimozide,CYP2D6,Adverse effects,
+BCP-016,minor,Antipsychotics,Risperidone,CYP2D6,Adverse effects,DPWG1
+BCP-016,minor,Antipsychotics,Zuclopenthixol,CYP2D6,Adverse effects,DPWG1
+BCP-016,minor,Antitussives,Dextromethorphan,CYP2D6,Adverse effects,-
+BCP-016,minor,Beta blockers,Carvedilol,CYP2D6,Adverse effects,-
+BCP-016,minor,Beta blockers,Nebivolol,CYP2D6,Adverse effects,-
+BCP-016,minor,Beta blockers,Propranolol,"CYP2D6CYP1A2",Adverse effects,-
+BCP-016,minor,"Glaucoma - ocularpreparations",Timolol,CYP2D6,Adverse effects,-
+BCP-016,minor,Miscellaneous,Atazanavir,CYP3A5,Reduced / inadequate response,-
+BCP-016,minor,Miscellaneous,Cyclophosphamide,CYP2C19,Reduced / inadequate response,-
+BCP-016,minor,Miscellaneous,Eliglustat,CYP2D6,Adverse effects,TGA13
+BCP-016,minor,Miscellaneous,Proguanil,CYP2C19,Reduced / inadequate response,-
+BCP-016,minor,Neurological drugs,Tetrabenazine,CYP2D6,Adverse effects,FDA14
+BCP-016,minor,Opioid Analgesics,Codeine,"CYP2D6OPRM1",Reduced / inadequate response,CPIC15
+BCP-016,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with reducedresponse to morphine",-
+BCP-016,minor,Opioid Analgesics,Oxycodone,CYP2D6,Reduced / inadequate response,DPWG1
+BCP-016,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",FDA16
+BCP-016,minor,"Proton pumpinhibitors",Esomeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+BCP-016,minor,"Proton pumpinhibitors",Lansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+BCP-016,minor,"Proton pumpinhibitors",Omeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+BCP-016,minor,"Proton pumpinhibitors",Pantoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+BCP-016,minor,"Proton pumpinhibitors",Rabeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+BCP-016,minor,Psychostimulants,Dextroamphetamine,CYP2D6,Adverse effects,-
+BCP-016,minor,Psychostimulants,Lisdexamfetamine,CYP2D6,Adverse effects,-
+BCP-016,usual,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,"Angiotensin receptorblockers",Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,Antidiabetics,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,Antidiabetics,Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC17
+BCP-016,usual,Antipsychotics,Clozapine,CYP1A2,"No altered effect predicted bygenotype",-
+BCP-016,usual,Antipsychotics,Olanzapine,CYP1A2,"No altered effect predicted bygenotype",-
+BCP-016,usual,Antipsychotics,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+BCP-016,usual,Hypnotics,Melatonin,CYP1A2,"No altered effect predicted bygenotype",-
+BCP-016,usual,Miscellaneous,Naltrexone,OPRM1,"No altered effect predicted bygenotype for naltrexone",
+BCP-016,usual,NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,NSAIDs,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,NSAIDs,Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,NSAIDs,Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,NSAIDs,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,NSAIDs,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,NSAIDs,Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,NSAIDs,Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
+BCP-016,usual,Opioid Analgesics,Hydrocodone,CYP2D6,Altered response,
+BCP-016,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+BCP-016,usual,Statins,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+BCP-016,usual,Statins,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+BCP-016,usual,Statins,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+BCP-016,usual,Statins,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC18

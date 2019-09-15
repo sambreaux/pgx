@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+N24-321,major,"Angiotensin receptorblockers",Losartan,CYP2C9,Reduced / inadequate response,-
+N24-321,major,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
+N24-321,major,,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA3
+N24-321,major,Antidiabetics,Glimepiride,CYP2C9,"Increased therapeutic and/oradverse effects",-
+N24-321,major,,Glyburide,CYP2C9,"Increased therapeutic and/oradverse effects",-
+N24-321,major,Antiepileptics,Phenytoin,CYP2C9,Adverse effects,CPIC4
+N24-321,major,NSAIDs,Celecoxib,CYP2C9,"Increased therapeutic and/oradverse effects",FDA5
+N24-321,major,,Flurbiprofen,CYP2C9,Adverse effects,"FDA6,7"
+N24-321,major,,Ibuprofen,CYP2C9,Adverse effects,-
+N24-321,major,,Meloxicam,CYP2C9,Adverse effects,-
+N24-321,major,,Piroxicam,CYP2C9,Adverse effects,-
+N24-321,major,Statins,Fluvastatin,"SLCO1B1CYP2C9","Increased therapeutic and/oradverse effects",-
+N24-321,major,,Simvastatin,"SLCO1B1CYP3A4",Adverse effects,CPIC8
+N24-321,minor,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"Increased therapeutic and/oradverse effects",-
+N24-321,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+N24-321,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+N24-321,minor,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9",Altered response,-
+N24-321,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+N24-321,minor,Antipsychotics,Clozapine,CYP1A2,Reduced / inadequate response,-
+N24-321,minor,,Olanzapine,CYP1A2,Reduced / inadequate response,-
+N24-321,minor,Beta blockers,Propranolol,"CYP2D6CYP1A2",Altered response,-
+N24-321,minor,Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
+N24-321,minor,Miscellaneous,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+N24-321,minor,NSAIDs,Diclofenac,CYP2C9,Adverse effects,-
+N24-321,minor,,Indomethacin,CYP2C9,Adverse effects,-
+N24-321,minor,,Mefenamic Acid,CYP2C9,Adverse effects,-
+N24-321,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+N24-321,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+N24-321,minor,,Esomeprazole,CYP2C19,Reduced / inadequate response,-
+N24-321,minor,,Lansoprazole,CYP2C19,Reduced / inadequate response,-
+N24-321,minor,,Omeprazole,CYP2C19,Reduced / inadequate response,-
+N24-321,minor,,Pantoprazole,CYP2C19,Reduced / inadequate response,-
+N24-321,minor,,Rabeprazole,CYP2C19,Reduced / inadequate response,-
+N24-321,minor,Statins,Atorvastatin,"SLCO1B1CYP3A4",Adverse effects,-
+N24-321,usual,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,Antiarrhythmics,Flecainide,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Propafenone,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,"Antidepressants -other",Moclobemide,CYP2C19,"No altered effect predicted bygenotype",-
+N24-321,usual,,Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,"No altered effect predicted bygenotype",DPWG9
+N24-321,usual,"Antidepressants -SSRIs",Citalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC2
+N24-321,usual,,Escitalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC2
+N24-321,usual,,Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC2
+N24-321,usual,,Paroxetine,CYP2D6,"No altered effect predicted bygenotype",CPIC2
+N24-321,usual,,Sertraline,CYP2C19,"No altered effect predicted bygenotype",CPIC2
+N24-321,usual,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC10
+N24-321,usual,,Clomipramine,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC10
+N24-321,usual,,Desipramine,CYP2D6,"No altered effect predicted bygenotype",CPIC10
+N24-321,usual,,Doxepin,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC10
+N24-321,usual,,Imipramine,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC10
+N24-321,usual,,Nortriptyline,CYP2D6,"No altered effect predicted bygenotype",CPIC10
+N24-321,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Ondansetron,CYP2D6,"No altered effect predicted bygenotype",CPIC11
+N24-321,usual,Antifungals - Azoles,Voriconazole,CYP2C19,"No altered effect predicted bygenotype",CPIC12
+N24-321,usual,Antihistamines,Chlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Dexchlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Promethazine,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,Antiplatelet drugs,Clopidogrel,CYP2C19,"No altered effect predicted bygenotype",CPIC13
+N24-321,usual,Antipsychotics,Aripiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Brexpiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Haloperidol,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Pimozide,CYP2D6,"No altered effect predicted bygenotype",
+N24-321,usual,,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+N24-321,usual,,Risperidone,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Zuclopenthixol,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,Antitussives,Dextromethorphan,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,Benzodiazepines,Clobazam,CYP2C19,"No altered effect predicted bygenotype",-
+N24-321,usual,,Diazepam,CYP2C19,"No altered effect predicted bygenotype",-
+N24-321,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Metoprolol,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC14
+N24-321,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,"No altered effect predicted bygenotype",CPIC15
+N24-321,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+N24-321,usual,,Cyclophosphamide,CYP2C19,"No altered effect predicted bygenotype",-
+N24-321,usual,,Eliglustat,CYP2D6,"No altered effect predicted bygenotype",TGA16
+N24-321,usual,,Proguanil,CYP2C19,"No altered effect predicted bygenotype",-
+N24-321,usual,Neurological drugs,Tetrabenazine,CYP2D6,"No altered effect predicted bygenotype",FDA17
+N24-321,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with increasedsensitivity to codeine",CPIC18
+N24-321,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+N24-321,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+N24-321,usual,Statins,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+N24-321,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-

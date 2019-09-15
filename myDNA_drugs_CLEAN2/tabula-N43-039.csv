@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+N43-039,major,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
+N43-039,major,,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA1
+N43-039,major,"Antidepressants -SSRIs",Citalopram,CYP2C19,Adverse effects,"CPIC2, TGA3"
+N43-039,major,,Escitalopram,CYP2C19,Adverse effects,"CPIC2, TGA4"
+N43-039,major,,Sertraline,CYP2C19,Adverse effects,CPIC2
+N43-039,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Adverse effects,CPIC5
+N43-039,major,,Clomipramine,"CYP2D6CYP2C19",Adverse effects,CPIC5
+N43-039,major,,Doxepin,"CYP2D6CYP2C19",Adverse effects,CPIC5
+N43-039,major,,Imipramine,"CYP2D6CYP2C19",Adverse effects,CPIC5
+N43-039,major,Antifungals - Azoles,Voriconazole,CYP2C19,"Increased therapeutic and/oradverse effects",CPIC6
+N43-039,major,Antiplatelet drugs,Clopidogrel,CYP2C19,Reduced / inadequate response,CPIC7
+N43-039,major,Benzodiazepines,Clobazam,CYP2C19,Adverse effects,FDA8
+N43-039,major,,Diazepam,CYP2C19,Adverse effects,-
+N43-039,minor,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,-
+N43-039,minor,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG9
+N43-039,minor,,Propafenone,CYP2D6,Adverse effects,DPWG9
+N43-039,minor,"Antidepressants -other",Moclobemide,CYP2C19,Adverse effects,-
+N43-039,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,Adverse effects,DPWG9
+N43-039,minor,"Antidepressants -SSRIs",Paroxetine,CYP2D6,Adverse effects,CPIC2
+N43-039,minor,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,Adverse effects,CPIC5
+N43-039,minor,,Nortriptyline,CYP2D6,Adverse effects,CPIC5
+N43-039,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+N43-039,minor,Antiemetics,Ondansetron,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC10
+N43-039,minor,Antihistamines,Chlorpheniramine,CYP2D6,Adverse effects,-
+N43-039,minor,,Dexchlorpheniramine,CYP2D6,Adverse effects,-
+N43-039,minor,Antipsychotics,Aripiprazole,CYP2D6,Adverse effects,-
+N43-039,minor,,Brexpiprazole,CYP2D6,Adverse effects,-
+N43-039,minor,,Haloperidol,CYP2D6,Adverse effects,-
+N43-039,minor,,Pimozide,CYP2D6,Adverse effects,
+N43-039,minor,,Quetiapine,CYP3A4,Adverse effects,-
+N43-039,minor,,Risperidone,CYP2D6,Adverse effects,DPWG9
+N43-039,minor,,Zuclopenthixol,CYP2D6,Adverse effects,DPWG9
+N43-039,minor,Antitussives,Dextromethorphan,CYP2D6,Altered response,-
+N43-039,minor,Beta blockers,Metoprolol,CYP2D6,Adverse effects,DPWG9
+N43-039,minor,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,Reduced / inadequate response,CPIC11
+N43-039,minor,Miscellaneous,Cyclophosphamide,CYP2C19,Reduced / inadequate response,-
+N43-039,minor,,Eliglustat,CYP2D6,Adverse effects,TGA12
+N43-039,minor,,Proguanil,CYP2C19,Reduced / inadequate response,-
+N43-039,minor,Neurological drugs,Tetrabenazine,CYP2D6,Adverse effects,FDA13
+N43-039,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with reducedresponse to morphine",-
+N43-039,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",FDA14
+N43-039,minor,,Esomeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+N43-039,minor,,Lansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+N43-039,minor,,Omeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+N43-039,minor,,Pantoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+N43-039,minor,,Rabeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+N43-039,minor,Statins,Atorvastatin,"SLCO1B1CYP3A4","Increased therapeutic and/oradverse effects",-
+N43-039,minor,,Simvastatin,"SLCO1B1CYP3A4","Increased therapeutic andadverse effects",CPIC15
+N43-039,minor,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,minor,,Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,minor,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,minor,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,minor,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,minor,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,minor,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+N43-039,minor,,Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+N43-039,minor,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9","No altered effect predicted bygenotype",-
+N43-039,minor,,Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC2
+N43-039,minor,Antidiabetics,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,minor,,Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,minor,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,minor,Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC16
+N43-039,minor,Antihistamines,Promethazine,CYP2D6,Adverse effects,-
+N43-039,minor,Antipsychotics,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,usual,,Clozapine,CYP1A2,"No altered effect predicted bygenotype",-
+N43-039,usual,,Olanzapine,CYP1A2,"No altered effect predicted bygenotype",-
+N43-039,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,usual,,Propranolol,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+N43-039,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC17
+N43-039,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,usual,Hypnotics,Melatonin,CYP1A2,"No altered effect predicted bygenotype",-
+N43-039,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+N43-039,usual,,Naltrexone,OPRM1,"No altered effect predicted bygenotype for naltrexone",
+N43-039,usual,NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,usual,,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,usual,,Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,usual,,Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,usual,,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,usual,,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,usual,,Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,usual,,Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
+N43-039,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with reducedsensitivity to codeine",CPIC18
+N43-039,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+N43-039,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",DPWG9
+N43-039,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",DPWG9
+N43-039,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+N43-039,usual,Statins,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+N43-039,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+N43-039,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-

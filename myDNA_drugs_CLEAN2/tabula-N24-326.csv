@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+N24-326,major,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,FDA2
+N24-326,major,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG3
+N24-326,major,,Propafenone,CYP2D6,Adverse effects,DPWG3
+N24-326,major,"Anticholinergics(genitourinary)",Tolterodine,CYP2D6,Adverse effects,FDA4
+N24-326,major,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
+N24-326,major,,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA5
+N24-326,major,"Antidepressants -other",Vortioxetine,CYP2D6,Adverse effects,"TGA6, FDA7"
+N24-326,major,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,Adverse effects,DPWG3
+N24-326,major,"Antidepressants -SSRIs",Citalopram,CYP2C19,Reduced / inadequate response,CPIC1
+N24-326,major,,Escitalopram,CYP2C19,Reduced / inadequate response,CPIC1
+N24-326,major,,Fluoxetine,"CYP2D6CYP2C9",Adverse effects,FDA8
+N24-326,major,,Fluvoxamine,"CYP2D6CYP1A2",Adverse effects,CPIC1
+N24-326,major,,Paroxetine,CYP2D6,Adverse effects,CPIC1
+N24-326,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Altered response,CPIC9
+N24-326,major,,Clomipramine,"CYP2D6CYP2C19",Altered response,CPIC9
+N24-326,major,,Desipramine,CYP2D6,Adverse effects,CPIC9
+N24-326,major,,Doxepin,"CYP2D6CYP2C19",Altered response,CPIC9
+N24-326,major,,Imipramine,"CYP2D6CYP2C19",Altered response,CPIC9
+N24-326,major,,Nortriptyline,CYP2D6,Adverse effects,CPIC9
+N24-326,major,Antiemetics,Ondansetron,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC10
+N24-326,major,Antiepileptics,Phenytoin,CYP2C9,Adverse effects,CPIC11
+N24-326,major,Antifungals - Azoles,Voriconazole,CYP2C19,Reduced / inadequate response,CPIC12
+N24-326,major,Antipsychotics,Aripiprazole,CYP2D6,Adverse effects,"DPWG3,TGA13, FDA14"
+N24-326,major,,Brexpiprazole,CYP2D6,Adverse effects,FDA15
+N24-326,major,,Haloperidol,CYP2D6,Adverse effects,DPWG
+N24-326,major,,Pimozide,CYP2D6,Adverse effects,FDA16
+N24-326,major,,Risperidone,CYP2D6,Adverse effects,DPWG3
+N24-326,major,,Zuclopenthixol,CYP2D6,Adverse effects,DPWG3
+N24-326,major,Antitussives,Dextromethorphan,CYP2D6,Adverse effects,-
+N24-326,major,Beta blockers,Metoprolol,CYP2D6,Adverse effects,DPWG3
+N24-326,major,"Glaucoma - ocularpreparations",Timolol,CYP2D6,Adverse effects,-
+N24-326,major,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,Reduced / inadequate response,CPIC17
+N24-326,major,Miscellaneous,Eliglustat,CYP2D6,Adverse effects,TGA18
+N24-326,major,Neurological drugs,Tetrabenazine,CYP2D6,"Increased therapeutic andadverse effects",FDA19
+N24-326,major,Opioid Analgesics,Codeine,"CYP2D6OPRM1",Reduced / inadequate response,CPIC20
+N24-326,major,,Hydrocodone,CYP2D6,Reduced / inadequate response,
+N24-326,major,,Tramadol,CYP2D6,Reduced / inadequate response,DPWG3
+N24-326,minor,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"Increased therapeutic and/oradverse effects",-
+N24-326,minor,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,Adverse effects,-
+N24-326,minor,,Fesoterodine,CYP2D6,Adverse effects,-
+N24-326,minor,Anticholinesterases,Donepezil,CYP2D6,Adverse effects,-
+N24-326,minor,,Galantamine,CYP2D6,Adverse effects,-
+N24-326,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Altered response,-
+N24-326,minor,,Moclobemide,CYP2C19,Reduced / inadequate response,-
+N24-326,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+N24-326,minor,"Antidepressants -SSRIs",Sertraline,CYP2C19,Reduced / inadequate response,CPIC1
+N24-326,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+N24-326,minor,,Glimepiride,CYP2C9,"Increased therapeutic and/oradverse effects",-
+N24-326,minor,,Glyburide,CYP2C9,"Increased therapeutic and/oradverse effects",-
+N24-326,minor,Antiemetics,Metoclopramide,CYP2D6,Adverse effects,-
+N24-326,minor,Antihistamines,Chlorpheniramine,CYP2D6,Adverse effects,-
+N24-326,minor,,Dexchlorpheniramine,CYP2D6,Adverse effects,-
+N24-326,minor,,Promethazine,CYP2D6,Adverse effects,-
+N24-326,minor,Antiplatelet drugs,Clopidogrel,CYP2C19,Adverse effects,CPIC21
+N24-326,minor,Antipsychotics,Chlorpromazine,CYP2D6,Adverse effects,-
+N24-326,minor,,Clozapine,CYP1A2,Reduced / inadequate response,-
+N24-326,minor,,Olanzapine,CYP1A2,Reduced / inadequate response,-
+N24-326,minor,Benzodiazepines,Clobazam,CYP2C19,Reduced / inadequate response,-
+N24-326,minor,,Diazepam,CYP2C19,Reduced / inadequate response,-
+N24-326,minor,Beta blockers,Carvedilol,CYP2D6,Adverse effects,-
+N24-326,minor,,Nebivolol,CYP2D6,Adverse effects,-
+N24-326,minor,,Propranolol,"CYP2D6CYP1A2",Altered response,-
+N24-326,minor,Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
+N24-326,minor,Miscellaneous,Cyclophosphamide,CYP2C19,"Increased therapeutic and/oradverse effects",-
+N24-326,minor,,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+N24-326,minor,,Proguanil,CYP2C19,Altered response,-
+N24-326,minor,NSAIDs,Celecoxib,CYP2C9,"Increased therapeutic and/oradverse effects",-
+N24-326,minor,,Flurbiprofen,CYP2C9,Adverse effects,-
+N24-326,minor,,Ibuprofen,CYP2C9,Adverse effects,-
+N24-326,minor,,Meloxicam,CYP2C9,Adverse effects,-
+N24-326,minor,,Piroxicam,CYP2C9,Adverse effects,-
+N24-326,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+N24-326,minor,,Oxycodone,CYP2D6,Reduced / inadequate response,DPWG3
+N24-326,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+N24-326,minor,,Esomeprazole,CYP2C19,Reduced / inadequate response,-
+N24-326,minor,,Lansoprazole,CYP2C19,Reduced / inadequate response,-
+N24-326,minor,,Omeprazole,CYP2C19,Reduced / inadequate response,-
+N24-326,minor,,Pantoprazole,CYP2C19,Reduced / inadequate response,-
+N24-326,minor,,Rabeprazole,CYP2C19,Reduced / inadequate response,-
+N24-326,minor,Psychostimulants,Dextroamphetamine,CYP2D6,Adverse effects,-
+N24-326,minor,,Lisdexamfetamine,CYP2D6,Adverse effects,-
+N24-326,usual,"Angiotensin receptorblockers",Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+N24-326,usual,Antipsychotics,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+N24-326,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC22
+N24-326,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+N24-326,usual,NSAIDs,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+N24-326,usual,,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+N24-326,usual,,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+N24-326,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+N24-326,usual,,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+N24-326,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+N24-326,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+N24-326,usual,,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC23
