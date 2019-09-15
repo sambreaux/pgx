@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+W19-117,major,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
+W19-117,major,,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA3
+W19-117,major,Antiepileptics,Phenytoin,CYP2C9,Adverse effects,CPIC4
+W19-117,major,Antiplatelet drugs,Clopidogrel,CYP2C19,Reduced / inadequate response,CPIC5
+W19-117,major,Statins,Simvastatin,"SLCO1B1CYP3A4",Adverse effects,CPIC6
+W19-117,minor,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,-
+W19-117,minor,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"Increased therapeutic and/oradverse effects",-
+W19-117,minor,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG7
+W19-117,minor,,Propafenone,CYP2D6,Adverse effects,DPWG7
+W19-117,minor,"Antidepressants -other",Moclobemide,CYP2C19,Adverse effects,-
+W19-117,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,Adverse effects,DPWG7
+W19-117,minor,"Antidepressants -SSRIs",Citalopram,CYP2C19,Adverse effects,CPIC1
+W19-117,minor,,Escitalopram,CYP2C19,Adverse effects,CPIC1
+W19-117,minor,,Paroxetine,CYP2D6,Adverse effects,CPIC1
+W19-117,minor,,Sertraline,CYP2C19,Adverse effects,CPIC1
+W19-117,minor,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Altered response,CPIC8
+W19-117,minor,,Clomipramine,"CYP2D6CYP2C19",Altered response,CPIC8
+W19-117,minor,,Desipramine,CYP2D6,Adverse effects,CPIC8
+W19-117,minor,,Doxepin,"CYP2D6CYP2C19",Altered response,CPIC8
+W19-117,minor,,Imipramine,"CYP2D6CYP2C19",Altered response,CPIC8
+W19-117,minor,,Nortriptyline,CYP2D6,Adverse effects,CPIC8
+W19-117,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+W19-117,minor,,Glimepiride,CYP2C9,"Increased therapeutic and/oradverse effects",-
+W19-117,minor,,Glyburide,CYP2C9,"Increased therapeutic and/oradverse effects",-
+W19-117,minor,Antiemetics,Ondansetron,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC9
+W19-117,minor,Antifungals - Azoles,Voriconazole,CYP2C19,"Increased therapeutic and/oradverse effects",CPIC10
+W19-117,minor,Antihistamines,Chlorpheniramine,CYP2D6,Adverse effects,-
+W19-117,minor,,Dexchlorpheniramine,CYP2D6,Adverse effects,-
+W19-117,minor,Antipsychotics,Aripiprazole,CYP2D6,Adverse effects,-
+W19-117,minor,,Brexpiprazole,CYP2D6,Adverse effects,-
+W19-117,minor,,Haloperidol,CYP2D6,Adverse effects,-
+W19-117,minor,,Pimozide,CYP2D6,Adverse effects,
+W19-117,minor,,Risperidone,CYP2D6,Adverse effects,DPWG7
+W19-117,minor,,Zuclopenthixol,CYP2D6,Adverse effects,DPWG7
+W19-117,minor,Antitussives,Dextromethorphan,CYP2D6,Altered response,-
+W19-117,minor,Benzodiazepines,Clobazam,CYP2C19,Adverse effects,-
+W19-117,minor,,Diazepam,CYP2C19,Adverse effects,-
+W19-117,minor,Beta blockers,Metoprolol,CYP2D6,Adverse effects,DPWG7
+W19-117,minor,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,Reduced / inadequate response,CPIC11
+W19-117,minor,Miscellaneous,Cyclophosphamide,CYP2C19,Reduced / inadequate response,-
+W19-117,minor,,Eliglustat,CYP2D6,Adverse effects,TGA12
+W19-117,minor,,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+W19-117,minor,,Proguanil,CYP2C19,Reduced / inadequate response,-
+W19-117,minor,Neurological drugs,Tetrabenazine,CYP2D6,Adverse effects,FDA13
+W19-117,minor,NSAIDs,Celecoxib,CYP2C9,"Increased therapeutic and/oradverse effects",-
+W19-117,minor,,Flurbiprofen,CYP2C9,Adverse effects,-
+W19-117,minor,,Ibuprofen,CYP2C9,Adverse effects,-
+W19-117,minor,,Meloxicam,CYP2C9,Adverse effects,-
+W19-117,minor,,Piroxicam,CYP2C9,Adverse effects,-
+W19-117,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+W19-117,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",FDA14
+W19-117,minor,,Esomeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+W19-117,minor,,Lansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+W19-117,minor,,Omeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+W19-117,minor,,Pantoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+W19-117,minor,,Rabeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+W19-117,minor,Statins,Atorvastatin,"SLCO1B1CYP3A4",Adverse effects,-
+W19-117,usual,"Angiotensin receptorblockers",Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+W19-117,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+W19-117,usual,,Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+W19-117,usual,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9","No altered effect predicted bygenotype",-
+W19-117,usual,,Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC1
+W19-117,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,Antihistamines,Promethazine,CYP2D6,Adverse effects,-
+W19-117,usual,Antipsychotics,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,,Clozapine,CYP1A2,"No altered effect predicted bygenotype",-
+W19-117,usual,,Olanzapine,CYP1A2,"No altered effect predicted bygenotype",-
+W19-117,usual,,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+W19-117,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,,Propranolol,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+W19-117,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC15
+W19-117,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,Hypnotics,Melatonin,CYP1A2,"No altered effect predicted bygenotype",-
+W19-117,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+W19-117,usual,NSAIDs,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+W19-117,usual,,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+W19-117,usual,,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+W19-117,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with increasedsensitivity to codeine",CPIC16
+W19-117,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+W19-117,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",DPWG7
+W19-117,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",DPWG7
+W19-117,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-117,usual,Statins,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+W19-117,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+W19-117,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-

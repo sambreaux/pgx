@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+T60-166,major,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
+T60-166,major,,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA1
+T60-166,major,"Antidepressants -SSRIs",Citalopram,CYP2C19,Reduced / inadequate response,CPIC2
+T60-166,major,,Escitalopram,CYP2C19,Reduced / inadequate response,CPIC2
+T60-166,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC3
+T60-166,major,,Clomipramine,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC3
+T60-166,major,,Doxepin,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC3
+T60-166,major,,Imipramine,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC3
+T60-166,major,Antiepileptics,Phenytoin,CYP2C9,Adverse effects,CPIC4
+T60-166,major,Antifungals - Azoles,Voriconazole,CYP2C19,Reduced / inadequate response,CPIC5
+T60-166,minor,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"Increased therapeutic and/oradverse effects",-
+T60-166,minor,"Antidepressants -other",Moclobemide,CYP2C19,Reduced / inadequate response,-
+T60-166,minor,"Antidepressants -SSRIs",Sertraline,CYP2C19,Reduced / inadequate response,CPIC2
+T60-166,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+T60-166,minor,,Glimepiride,CYP2C9,"Increased therapeutic and/oradverse effects",-
+T60-166,minor,,Glyburide,CYP2C9,"Increased therapeutic and/oradverse effects",-
+T60-166,minor,Antiplatelet drugs,Clopidogrel,CYP2C19,Adverse effects,CPIC6
+T60-166,minor,Benzodiazepines,Clobazam,CYP2C19,Reduced / inadequate response,-
+T60-166,minor,,Diazepam,CYP2C19,Reduced / inadequate response,-
+T60-166,minor,Miscellaneous,Cyclophosphamide,CYP2C19,"Increased therapeutic and/oradverse effects",-
+T60-166,minor,,Proguanil,CYP2C19,Altered response,-
+T60-166,minor,NSAIDs,Celecoxib,CYP2C9,"Increased therapeutic and/oradverse effects",-
+T60-166,minor,,Flurbiprofen,CYP2C9,Adverse effects,-
+T60-166,minor,,Ibuprofen,CYP2C9,Adverse effects,-
+T60-166,minor,,Meloxicam,CYP2C9,Adverse effects,-
+T60-166,minor,,Piroxicam,CYP2C9,Adverse effects,-
+T60-166,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with reducedresponse to morphine",-
+T60-166,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+T60-166,minor,,Esomeprazole,CYP2C19,Reduced / inadequate response,-
+T60-166,minor,,Lansoprazole,CYP2C19,Reduced / inadequate response,-
+T60-166,minor,,Omeprazole,CYP2C19,Reduced / inadequate response,-
+T60-166,minor,,Pantoprazole,CYP2C19,Reduced / inadequate response,-
+T60-166,minor,,Rabeprazole,CYP2C19,Reduced / inadequate response,-
+T60-166,usual,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,"Angiotensin receptorblockers",Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+T60-166,usual,Antiarrhythmics,Flecainide,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Propafenone,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+T60-166,usual,,Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+T60-166,usual,,Venlafaxine,CYP2D6,"No altered effect predicted bygenotype",DPWG7
+T60-166,usual,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9","No altered effect predicted bygenotype",-
+T60-166,usual,,Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC2
+T60-166,usual,,Paroxetine,CYP2D6,"No altered effect predicted bygenotype",CPIC2
+T60-166,usual,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,"No altered effect predicted bygenotype",CPIC3
+T60-166,usual,,Nortriptyline,CYP2D6,"No altered effect predicted bygenotype",CPIC3
+T60-166,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Ondansetron,CYP2D6,"No altered effect predicted bygenotype",CPIC8
+T60-166,usual,Antihistamines,Chlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Dexchlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Promethazine,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,Antipsychotics,Aripiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Brexpiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Clozapine,CYP1A2,"No altered effect predicted bygenotype",-
+T60-166,usual,,Haloperidol,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Olanzapine,CYP1A2,"No altered effect predicted bygenotype",-
+T60-166,usual,,Pimozide,CYP2D6,"No altered effect predicted bygenotype",
+T60-166,usual,,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+T60-166,usual,,Risperidone,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Zuclopenthixol,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,Antitussives,Dextromethorphan,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Metoprolol,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Propranolol,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+T60-166,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC9
+T60-166,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,Hypnotics,Melatonin,CYP1A2,"No altered effect predicted bygenotype",-
+T60-166,usual,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,"No altered effect predicted bygenotype",CPIC10
+T60-166,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+T60-166,usual,,Eliglustat,CYP2D6,"No altered effect predicted bygenotype",TGA11
+T60-166,usual,,Naltrexone,OPRM1,"No altered effect predicted bygenotype for naltrexone",
+T60-166,usual,Neurological drugs,Tetrabenazine,CYP2D6,"No altered effect predicted bygenotype",FDA12
+T60-166,usual,NSAIDs,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+T60-166,usual,,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+T60-166,usual,,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+T60-166,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with reducedsensitivity to codeine",CPIC13
+T60-166,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+T60-166,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+T60-166,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+T60-166,usual,,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+T60-166,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+T60-166,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+T60-166,usual,,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC14

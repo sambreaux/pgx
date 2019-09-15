@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+X73-141,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+X73-141,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+X73-141,minor,Antipsychotics,Clozapine,CYP1A2,Reduced / inadequate response,-
+X73-141,minor,,Olanzapine,CYP1A2,Reduced / inadequate response,-
+X73-141,minor,Beta blockers,Propranolol,"CYP2D6CYP1A2",Altered response,-
+X73-141,minor,Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
+X73-141,minor,Miscellaneous,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+X73-141,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+X73-141,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+X73-141,minor,,Esomeprazole,CYP2C19,Reduced / inadequate response,-
+X73-141,minor,,Lansoprazole,CYP2C19,Reduced / inadequate response,-
+X73-141,minor,,Omeprazole,CYP2C19,Reduced / inadequate response,-
+X73-141,minor,,Pantoprazole,CYP2C19,Reduced / inadequate response,-
+X73-141,minor,,Rabeprazole,CYP2C19,Reduced / inadequate response,-
+X73-141,usual,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,,Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,Antiarrhythmics,Flecainide,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Propafenone,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9",Normal acenocoumarol sensitivity,
+X73-141,usual,,Warfarin,"VKORC1CYP2C9",Normal warfarin sensitivity,FDA2
+X73-141,usual,"Antidepressants -other",Moclobemide,CYP2C19,"No altered effect predicted bygenotype",-
+X73-141,usual,,Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,"No altered effect predicted bygenotype",DPWG3
+X73-141,usual,"Antidepressants -SSRIs",Citalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC4
+X73-141,usual,,Escitalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC4
+X73-141,usual,,Fluoxetine,"CYP2D6CYP2C9","No altered effect predicted bygenotype",-
+X73-141,usual,,Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC4
+X73-141,usual,,Paroxetine,CYP2D6,"No altered effect predicted bygenotype",CPIC4
+X73-141,usual,,Sertraline,CYP2C19,"No altered effect predicted bygenotype",CPIC4
+X73-141,usual,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC1
+X73-141,usual,,Clomipramine,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC1
+X73-141,usual,,Desipramine,CYP2D6,"No altered effect predicted bygenotype",CPIC1
+X73-141,usual,,Doxepin,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC1
+X73-141,usual,,Imipramine,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC1
+X73-141,usual,,Nortriptyline,CYP2D6,"No altered effect predicted bygenotype",CPIC1
+X73-141,usual,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","No altered effect predicted bygenotype",-
+X73-141,usual,,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,,Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Ondansetron,CYP2D6,"No altered effect predicted bygenotype",CPIC5
+X73-141,usual,Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC6
+X73-141,usual,Antifungals - Azoles,Voriconazole,CYP2C19,"No altered effect predicted bygenotype",CPIC7
+X73-141,usual,Antihistamines,Chlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Dexchlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Promethazine,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,Antiplatelet drugs,Clopidogrel,CYP2C19,"No altered effect predicted bygenotype",CPIC8
+X73-141,usual,Antipsychotics,Aripiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Brexpiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Haloperidol,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Pimozide,CYP2D6,"No altered effect predicted bygenotype",
+X73-141,usual,,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+X73-141,usual,,Risperidone,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Zuclopenthixol,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,Antitussives,Dextromethorphan,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,Benzodiazepines,Clobazam,CYP2C19,"No altered effect predicted bygenotype",-
+X73-141,usual,,Diazepam,CYP2C19,"No altered effect predicted bygenotype",-
+X73-141,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Metoprolol,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC9
+X73-141,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,"No altered effect predicted bygenotype",CPIC10
+X73-141,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+X73-141,usual,,Cyclophosphamide,CYP2C19,"No altered effect predicted bygenotype",-
+X73-141,usual,,Eliglustat,CYP2D6,"No altered effect predicted bygenotype",TGA11
+X73-141,usual,,Proguanil,CYP2C19,"No altered effect predicted bygenotype",-
+X73-141,usual,Neurological drugs,Tetrabenazine,CYP2D6,"No altered effect predicted bygenotype",FDA12
+X73-141,usual,NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,,Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,,Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,,Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,,Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
+X73-141,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with increasedsensitivity to codeine",CPIC13
+X73-141,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+X73-141,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+X73-141,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+X73-141,usual,,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+X73-141,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+X73-141,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+X73-141,usual,,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC14

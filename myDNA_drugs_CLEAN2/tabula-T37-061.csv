@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+T37-061,major,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,FDA3
+T37-061,major,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG1
+T37-061,major,,Propafenone,CYP2D6,Adverse effects,DPWG1
+T37-061,major,"Anticholinergics(genitourinary)",Tolterodine,CYP2D6,Adverse effects,FDA4
+T37-061,major,"Antidepressants -other",Vortioxetine,CYP2D6,Adverse effects,"TGA5, FDA6"
+T37-061,major,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,Adverse effects,DPWG1
+T37-061,major,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9",Adverse effects,FDA2
+T37-061,major,,Fluvoxamine,"CYP2D6CYP1A2",Adverse effects,CPIC7
+T37-061,major,,Paroxetine,CYP2D6,Adverse effects,CPIC7
+T37-061,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Adverse effects,CPIC8
+T37-061,major,,Clomipramine,"CYP2D6CYP2C19",Adverse effects,CPIC8
+T37-061,major,,Desipramine,CYP2D6,Adverse effects,CPIC8
+T37-061,major,,Doxepin,"CYP2D6CYP2C19",Adverse effects,CPIC8
+T37-061,major,,Imipramine,"CYP2D6CYP2C19",Adverse effects,CPIC8
+T37-061,major,,Nortriptyline,CYP2D6,Adverse effects,CPIC8
+T37-061,major,Antiemetics,Ondansetron,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC9
+T37-061,major,Antipsychotics,Aripiprazole,CYP2D6,Adverse effects,"DPWG1,TGA10, FDA11"
+T37-061,major,,Brexpiprazole,CYP2D6,Adverse effects,FDA12
+T37-061,major,,Haloperidol,CYP2D6,Adverse effects,DPWG
+T37-061,major,,Pimozide,CYP2D6,Adverse effects,FDA13
+T37-061,major,,Risperidone,CYP2D6,Adverse effects,DPWG1
+T37-061,major,,Zuclopenthixol,CYP2D6,Adverse effects,DPWG1
+T37-061,major,Antitussives,Dextromethorphan,CYP2D6,Adverse effects,-
+T37-061,major,Beta blockers,Metoprolol,CYP2D6,Adverse effects,DPWG1
+T37-061,major,"Glaucoma - ocularpreparations",Timolol,CYP2D6,Adverse effects,-
+T37-061,major,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,Reduced / inadequate response,CPIC14
+T37-061,major,Miscellaneous,Eliglustat,CYP2D6,Adverse effects,TGA15
+T37-061,major,Neurological drugs,Tetrabenazine,CYP2D6,"Increased therapeutic andadverse effects",FDA16
+T37-061,major,Opioid Analgesics,Codeine,"CYP2D6OPRM1",Reduced / inadequate response,CPIC17
+T37-061,major,,Hydrocodone,CYP2D6,Reduced / inadequate response,
+T37-061,major,,Tramadol,CYP2D6,Reduced / inadequate response,DPWG1
+T37-061,minor,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,Adverse effects,-
+T37-061,minor,,Fesoterodine,CYP2D6,Adverse effects,-
+T37-061,minor,Anticholinesterases,Donepezil,CYP2D6,Adverse effects,-
+T37-061,minor,,Galantamine,CYP2D6,Adverse effects,-
+T37-061,minor,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Increased acenocoumarolsensitivity",
+T37-061,minor,,Warfarin,"VKORC1CYP2C9",Increased warfarin sensitivity,FDA18
+T37-061,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Adverse effects,-
+T37-061,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Adverse effects,-
+T37-061,minor,Antiemetics,Metoclopramide,CYP2D6,Adverse effects,-
+T37-061,minor,Antihistamines,Chlorpheniramine,CYP2D6,Adverse effects,-
+T37-061,minor,,Dexchlorpheniramine,CYP2D6,Adverse effects,-
+T37-061,minor,,Promethazine,CYP2D6,Adverse effects,-
+T37-061,minor,Antipsychotics,Chlorpromazine,CYP2D6,Adverse effects,-
+T37-061,minor,,Quetiapine,CYP3A4,Adverse effects,-
+T37-061,minor,Beta blockers,Carvedilol,CYP2D6,Adverse effects,-
+T37-061,minor,,Nebivolol,CYP2D6,Adverse effects,-
+T37-061,minor,,Propranolol,"CYP2D6CYP1A2",Adverse effects,-
+T37-061,minor,Miscellaneous,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+T37-061,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+T37-061,minor,,Oxycodone,CYP2D6,Reduced / inadequate response,DPWG1
+T37-061,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+T37-061,minor,,Esomeprazole,CYP2C19,Reduced / inadequate response,-
+T37-061,minor,,Lansoprazole,CYP2C19,Reduced / inadequate response,-
+T37-061,minor,,Omeprazole,CYP2C19,Reduced / inadequate response,-
+T37-061,minor,,Pantoprazole,CYP2C19,Reduced / inadequate response,-
+T37-061,minor,,Rabeprazole,CYP2C19,Reduced / inadequate response,-
+T37-061,minor,Psychostimulants,Dextroamphetamine,CYP2D6,Adverse effects,-
+T37-061,minor,,Lisdexamfetamine,CYP2D6,Adverse effects,-
+T37-061,minor,Statins,Atorvastatin,"SLCO1B1CYP3A4","Increased therapeutic and/oradverse effects",-
+T37-061,minor,,Simvastatin,"SLCO1B1CYP3A4","Increased therapeutic andadverse effects",CPIC19
+T37-061,usual,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,,Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,"Antidepressants -other",Moclobemide,CYP2C19,"No altered effect predicted bygenotype",-
+T37-061,usual,"Antidepressants -SSRIs",Citalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC7
+T37-061,usual,,Escitalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC7
+T37-061,usual,,Sertraline,CYP2C19,"No altered effect predicted bygenotype",CPIC7
+T37-061,usual,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","No altered effect predicted bygenotype",-
+T37-061,usual,,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,,Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC20
+T37-061,usual,Antifungals - Azoles,Voriconazole,CYP2C19,"No altered effect predicted bygenotype",CPIC21
+T37-061,usual,Antiplatelet drugs,Clopidogrel,CYP2C19,"No altered effect predicted bygenotype",CPIC22
+T37-061,usual,Antipsychotics,Clozapine,CYP1A2,"No altered effect predicted bygenotype",-
+T37-061,usual,,Olanzapine,CYP1A2,"No altered effect predicted bygenotype",-
+T37-061,usual,Benzodiazepines,Clobazam,CYP2C19,"No altered effect predicted bygenotype",-
+T37-061,usual,,Diazepam,CYP2C19,"No altered effect predicted bygenotype",-
+T37-061,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC23
+T37-061,usual,Hypnotics,Melatonin,CYP1A2,"No altered effect predicted bygenotype",-
+T37-061,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+T37-061,usual,,Cyclophosphamide,CYP2C19,"No altered effect predicted bygenotype",-
+T37-061,usual,,Proguanil,CYP2C19,"No altered effect predicted bygenotype",-
+T37-061,usual,NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,,Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,,Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,,Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,,Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
+T37-061,usual,Statins,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+T37-061,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+T37-061,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-

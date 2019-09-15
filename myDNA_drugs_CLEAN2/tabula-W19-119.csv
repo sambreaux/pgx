@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+W19-119,major,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
+W19-119,major,,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA3
+W19-119,major,"Antidepressants -SSRIs",Citalopram,CYP2C19,Adverse effects,"CPIC4, TGA5"
+W19-119,major,,Escitalopram,CYP2C19,Adverse effects,"CPIC4, TGA6"
+W19-119,major,,Sertraline,CYP2C19,Adverse effects,CPIC4
+W19-119,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Adverse effects,CPIC7
+W19-119,major,,Clomipramine,"CYP2D6CYP2C19",Adverse effects,CPIC7
+W19-119,major,,Doxepin,"CYP2D6CYP2C19",Adverse effects,CPIC7
+W19-119,major,,Imipramine,"CYP2D6CYP2C19",Adverse effects,CPIC7
+W19-119,major,Antiepileptics,Phenytoin,CYP2C9,Adverse effects,CPIC8
+W19-119,major,Antifungals - Azoles,Voriconazole,CYP2C19,"Increased therapeutic and/oradverse effects",CPIC9
+W19-119,major,Antiplatelet drugs,Clopidogrel,CYP2C19,Reduced / inadequate response,CPIC10
+W19-119,major,Benzodiazepines,Clobazam,CYP2C19,Adverse effects,FDA11
+W19-119,major,,Diazepam,CYP2C19,Adverse effects,-
+W19-119,major,Calcineurin inhibitors,Tacrolimus,CYP3A5,Reduced / inadequate response,CPIC12
+W19-119,minor,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"Increased therapeutic and/oradverse effects",-
+W19-119,minor,,Losartan,CYP2C9,Reduced / inadequate response,-
+W19-119,minor,"Antidepressants -other",Moclobemide,CYP2C19,Adverse effects,-
+W19-119,minor,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9",Altered response,-
+W19-119,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+W19-119,minor,,Glimepiride,CYP2C9,"Increased therapeutic and/oradverse effects",-
+W19-119,minor,,Glyburide,CYP2C9,"Increased therapeutic and/oradverse effects",-
+W19-119,minor,Miscellaneous,Atazanavir,CYP3A5,Reduced / inadequate response,-
+W19-119,minor,,Cyclophosphamide,CYP2C19,Reduced / inadequate response,-
+W19-119,minor,,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+W19-119,minor,,Proguanil,CYP2C19,Reduced / inadequate response,-
+W19-119,minor,NSAIDs,Celecoxib,CYP2C9,"Increased therapeutic and/oradverse effects",-
+W19-119,minor,,Diclofenac,CYP2C9,Adverse effects,-
+W19-119,minor,,Flurbiprofen,CYP2C9,Adverse effects,-
+W19-119,minor,,Ibuprofen,CYP2C9,Adverse effects,-
+W19-119,minor,,Indomethacin,CYP2C9,Adverse effects,-
+W19-119,minor,,Mefenamic Acid,CYP2C9,Adverse effects,-
+W19-119,minor,,Meloxicam,CYP2C9,Adverse effects,-
+W19-119,minor,,Piroxicam,CYP2C9,Adverse effects,-
+W19-119,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+W19-119,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",FDA13
+W19-119,minor,,Esomeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+W19-119,minor,,Lansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+W19-119,minor,,Omeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+W19-119,minor,,Pantoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+W19-119,minor,,Rabeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+W19-119,minor,Statins,Fluvastatin,"SLCO1B1CYP2C9","Increased therapeutic and/oradverse effects",-
+W19-119,usual,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,Antiarrhythmics,Flecainide,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Propafenone,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+W19-119,usual,,Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+W19-119,usual,,Venlafaxine,CYP2D6,"No altered effect predicted bygenotype",DPWG14
+W19-119,usual,"Antidepressants -SSRIs",Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC4
+W19-119,usual,,Paroxetine,CYP2D6,"No altered effect predicted bygenotype",CPIC4
+W19-119,usual,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,"No altered effect predicted bygenotype",CPIC7
+W19-119,usual,,Nortriptyline,CYP2D6,"No altered effect predicted bygenotype",CPIC7
+W19-119,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Ondansetron,CYP2D6,"No altered effect predicted bygenotype",CPIC15
+W19-119,usual,Antihistamines,Chlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Dexchlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Promethazine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,Antipsychotics,Aripiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Brexpiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Clozapine,CYP1A2,"No altered effect predicted bygenotype",-
+W19-119,usual,,Haloperidol,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Olanzapine,CYP1A2,"No altered effect predicted bygenotype",-
+W19-119,usual,,Pimozide,CYP2D6,"No altered effect predicted bygenotype",
+W19-119,usual,,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+W19-119,usual,,Risperidone,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Zuclopenthixol,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,Antitussives,Dextromethorphan,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Metoprolol,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Propranolol,"CYP2D6CYP1A2","No altered effect predicted bygenotype",-
+W19-119,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,Hypnotics,Melatonin,CYP1A2,"No altered effect predicted bygenotype",-
+W19-119,usual,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,"No altered effect predicted bygenotype",CPIC16
+W19-119,usual,Miscellaneous,Eliglustat,CYP2D6,"No altered effect predicted bygenotype",TGA17
+W19-119,usual,Neurological drugs,Tetrabenazine,CYP2D6,"No altered effect predicted bygenotype",FDA18
+W19-119,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with increasedsensitivity to codeine",CPIC19
+W19-119,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+W19-119,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+W19-119,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+W19-119,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+W19-119,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+W19-119,usual,,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC20

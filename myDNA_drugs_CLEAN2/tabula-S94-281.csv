@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+S94-281,major,Antiplatelet drugs,Clopidogrel,CYP2C19,Reduced / inadequate response,CPIC2
+S94-281,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+S94-281,minor,,Moclobemide,CYP2C19,Adverse effects,-
+S94-281,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+S94-281,minor,"Antidepressants -SSRIs",Citalopram,CYP2C19,Adverse effects,CPIC1
+S94-281,minor,,Escitalopram,CYP2C19,Adverse effects,CPIC1
+S94-281,minor,,Sertraline,CYP2C19,Adverse effects,CPIC1
+S94-281,minor,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Altered response,CPIC3
+S94-281,minor,,Clomipramine,"CYP2D6CYP2C19",Altered response,CPIC3
+S94-281,minor,,Doxepin,"CYP2D6CYP2C19",Altered response,CPIC3
+S94-281,minor,,Imipramine,"CYP2D6CYP2C19",Altered response,CPIC3
+S94-281,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+S94-281,minor,Antifungals - Azoles,Voriconazole,CYP2C19,"Increased therapeutic and/oradverse effects",CPIC4
+S94-281,minor,Antipsychotics,Clozapine,CYP1A2,Reduced / inadequate response,-
+S94-281,minor,,Olanzapine,CYP1A2,Reduced / inadequate response,-
+S94-281,minor,Benzodiazepines,Clobazam,CYP2C19,Adverse effects,-
+S94-281,minor,,Diazepam,CYP2C19,Adverse effects,-
+S94-281,minor,Beta blockers,Propranolol,"CYP2D6CYP1A2",Altered response,-
+S94-281,minor,Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
+S94-281,minor,Miscellaneous,Cyclophosphamide,CYP2C19,Reduced / inadequate response,-
+S94-281,minor,,Proguanil,CYP2C19,Reduced / inadequate response,-
+S94-281,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with reducedresponse to morphine",-
+S94-281,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",FDA5
+S94-281,minor,,Esomeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+S94-281,minor,,Lansoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+S94-281,minor,,Omeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+S94-281,minor,,Pantoprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+S94-281,minor,,Rabeprazole,CYP2C19,"Increased therapeutic and/oradverse effects",-
+S94-281,usual,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,,Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,Antiarrhythmics,Flecainide,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Propafenone,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9",Normal acenocoumarol sensitivity,
+S94-281,usual,,Warfarin,"VKORC1CYP2C9",Normal warfarin sensitivity,FDA6
+S94-281,usual,"Antidepressants -other",Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,"No altered effect predicted bygenotype",DPWG7
+S94-281,usual,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9","No altered effect predicted bygenotype",-
+S94-281,usual,,Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC1
+S94-281,usual,,Paroxetine,CYP2D6,"No altered effect predicted bygenotype",CPIC1
+S94-281,usual,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,"No altered effect predicted bygenotype",CPIC3
+S94-281,usual,,Nortriptyline,CYP2D6,"No altered effect predicted bygenotype",CPIC3
+S94-281,usual,Antidiabetics,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,,Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Ondansetron,CYP2D6,"No altered effect predicted bygenotype",CPIC8
+S94-281,usual,Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC9
+S94-281,usual,Antihistamines,Chlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Dexchlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Promethazine,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,Antipsychotics,Aripiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Brexpiprazole,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Haloperidol,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Pimozide,CYP2D6,"No altered effect predicted bygenotype",
+S94-281,usual,,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+S94-281,usual,,Risperidone,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Zuclopenthixol,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,Antitussives,Dextromethorphan,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Metoprolol,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC10
+S94-281,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,"No altered effect predicted bygenotype",CPIC11
+S94-281,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+S94-281,usual,,Eliglustat,CYP2D6,"No altered effect predicted bygenotype",TGA12
+S94-281,usual,,Naltrexone,OPRM1,"No altered effect predicted bygenotype for naltrexone",
+S94-281,usual,Neurological drugs,Tetrabenazine,CYP2D6,"No altered effect predicted bygenotype",FDA13
+S94-281,usual,NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,,Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,,Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,,Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,,Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
+S94-281,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with reducedsensitivity to codeine",CPIC14
+S94-281,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+S94-281,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+S94-281,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+S94-281,usual,,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+S94-281,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+S94-281,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+S94-281,usual,,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC15

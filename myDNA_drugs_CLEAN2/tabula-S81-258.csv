@@ -1,0 +1,94 @@
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+S81-258,major,Antiepileptics,Phenytoin,CYP2C9,Adverse effects,CPIC2
+S81-258,minor,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,-
+S81-258,minor,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"Increased therapeutic and/oradverse effects",-
+S81-258,minor,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG3
+S81-258,minor,,Propafenone,CYP2D6,Adverse effects,DPWG3
+S81-258,minor,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Increased acenocoumarolsensitivity",DPWG
+S81-258,minor,,Warfarin,"VKORC1CYP2C9",Increased warfarin sensitivity,FDA4
+S81-258,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Altered response,-
+S81-258,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Reduced / inadequate response,-
+S81-258,minor,,Venlafaxine,CYP2D6,Adverse effects,DPWG3
+S81-258,minor,"Antidepressants -SSRIs",Paroxetine,CYP2D6,Adverse effects,CPIC1
+S81-258,minor,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,Adverse effects,CPIC5
+S81-258,minor,,Nortriptyline,CYP2D6,Adverse effects,CPIC5
+S81-258,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
+S81-258,minor,,Glimepiride,CYP2C9,"Increased therapeutic and/oradverse effects",-
+S81-258,minor,,Glyburide,CYP2C9,"Increased therapeutic and/oradverse effects",-
+S81-258,minor,Antiemetics,Ondansetron,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC6
+S81-258,minor,Antihistamines,Chlorpheniramine,CYP2D6,Adverse effects,-
+S81-258,minor,,Dexchlorpheniramine,CYP2D6,Adverse effects,-
+S81-258,minor,Antipsychotics,Aripiprazole,CYP2D6,Adverse effects,-
+S81-258,minor,,Brexpiprazole,CYP2D6,Adverse effects,-
+S81-258,minor,,Clozapine,CYP1A2,Reduced / inadequate response,-
+S81-258,minor,,Haloperidol,CYP2D6,Adverse effects,-
+S81-258,minor,,Olanzapine,CYP1A2,Reduced / inadequate response,-
+S81-258,minor,,Pimozide,CYP2D6,Adverse effects,
+S81-258,minor,,Risperidone,CYP2D6,Adverse effects,DPWG3
+S81-258,minor,,Zuclopenthixol,CYP2D6,Adverse effects,DPWG3
+S81-258,minor,Antitussives,Dextromethorphan,CYP2D6,Altered response,-
+S81-258,minor,Beta blockers,Metoprolol,CYP2D6,Adverse effects,DPWG3
+S81-258,minor,,Propranolol,"CYP2D6CYP1A2",Altered response,-
+S81-258,minor,Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
+S81-258,minor,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,Reduced / inadequate response,CPIC7
+S81-258,minor,Miscellaneous,Eliglustat,CYP2D6,Adverse effects,TGA8
+S81-258,minor,,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+S81-258,minor,Neurological drugs,Tetrabenazine,CYP2D6,Adverse effects,FDA9
+S81-258,minor,NSAIDs,Celecoxib,CYP2C9,"Increased therapeutic and/oradverse effects",-
+S81-258,minor,,Flurbiprofen,CYP2C9,Adverse effects,-
+S81-258,minor,,Ibuprofen,CYP2C9,Adverse effects,-
+S81-258,minor,,Meloxicam,CYP2C9,Adverse effects,-
+S81-258,minor,,Piroxicam,CYP2C9,Adverse effects,-
+S81-258,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+S81-258,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+S81-258,minor,,Esomeprazole,CYP2C19,Reduced / inadequate response,-
+S81-258,minor,,Lansoprazole,CYP2C19,Reduced / inadequate response,-
+S81-258,minor,,Omeprazole,CYP2C19,Reduced / inadequate response,-
+S81-258,minor,,Pantoprazole,CYP2C19,Reduced / inadequate response,-
+S81-258,minor,,Rabeprazole,CYP2C19,Reduced / inadequate response,-
+S81-258,usual,"Angiotensin receptorblockers",Losartan,CYP2C9,"No altered effect predicted bygenotype",-
+S81-258,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,"Antidepressants -other",Moclobemide,CYP2C19,"No altered effect predicted bygenotype",-
+S81-258,usual,,Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,"Antidepressants -SSRIs",Citalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC1
+S81-258,usual,,Escitalopram,CYP2C19,"No altered effect predicted bygenotype",CPIC1
+S81-258,usual,,Fluoxetine,"CYP2D6CYP2C9","No altered effect predicted bygenotype",-
+S81-258,usual,,Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC1
+S81-258,usual,,Sertraline,CYP2C19,"No altered effect predicted bygenotype",CPIC1
+S81-258,usual,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC5
+S81-258,usual,,Clomipramine,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC5
+S81-258,usual,,Doxepin,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC5
+S81-258,usual,,Imipramine,"CYP2D6CYP2C19","No altered effect predicted bygenotype",CPIC5
+S81-258,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,Antifungals - Azoles,Voriconazole,CYP2C19,"No altered effect predicted bygenotype",CPIC10
+S81-258,usual,Antihistamines,Promethazine,CYP2D6,Adverse effects,-
+S81-258,usual,Antiplatelet drugs,Clopidogrel,CYP2C19,"No altered effect predicted bygenotype",CPIC11
+S81-258,usual,Antipsychotics,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
+S81-258,usual,Benzodiazepines,Clobazam,CYP2C19,"No altered effect predicted bygenotype",-
+S81-258,usual,,Diazepam,CYP2C19,"No altered effect predicted bygenotype",-
+S81-258,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC12
+S81-258,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
+S81-258,usual,,Cyclophosphamide,CYP2C19,"No altered effect predicted bygenotype",-
+S81-258,usual,,Proguanil,CYP2C19,"No altered effect predicted bygenotype",-
+S81-258,usual,NSAIDs,Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
+S81-258,usual,,Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
+S81-258,usual,,Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
+S81-258,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with increasedsensitivity to codeine",CPIC13
+S81-258,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
+S81-258,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",DPWG3
+S81-258,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",DPWG3
+S81-258,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
+S81-258,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
+S81-258,usual,,Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-
+S81-258,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+S81-258,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
+S81-258,usual,,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC14
