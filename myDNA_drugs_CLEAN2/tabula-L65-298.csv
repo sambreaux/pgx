@@ -1,6 +1,6 @@
 ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
 L65-298,minor,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,-
-l65-298,minor,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG1
+L65-298,minor,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG1
 L65-298,minor,Antiarrhythmics,Propafenone,CYP2D6,Adverse effects,DPWG1
 L65-298,minor,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Increased acenocoumarolsensitivity",
 L65-298,minor,Anticoagulants,Warfarin,"VKORC1CYP2C9",Increased warfarin sensitivity,FDA2

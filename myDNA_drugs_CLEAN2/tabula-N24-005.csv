@@ -10,9 +10,9 @@ N24-005,minor,,Propafenone,CYP2D6,Adverse effects,DPWG6
 N24-005,minor,"Antidepressants -other",Moclobemide,CYP2C19,Adverse effects,-
 N24-005,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,Adverse effects,DPWG6
 N24-005,minor,"Antidepressants -SSRIs",Citalopram,CYP2C19,Adverse effects,CPIC1
-N24-005,minor,Escitalopram,CYP2C19,Adverse effects,CPIC1,
-N24-005,minor,Paroxetine,CYP2D6,Adverse effects,CPIC1,
-N24-005,minor,Sertraline,CYP2C19,Adverse effects,CPIC1,
+N24-005,minor,,Escitalopram,CYP2C19,Adverse effects,CPIC1
+N24-005,minor,,Paroxetine,CYP2D6,Adverse effects,CPIC1
+N24-005,minor,,Sertraline,CYP2C19,Adverse effects,CPIC1
 N24-005,minor,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Altered response,CPIC7
 N24-005,minor,,Clomipramine,"CYP2D6CYP2C19",Altered response,CPIC7
 N24-005,minor,,Desipramine,CYP2D6,Adverse effects,CPIC7

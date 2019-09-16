@@ -1,6 +1,6 @@
 ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
 K76-151,major,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
-K76-151,major,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA2,
+K76-151,major,,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA2
 K76-151,minor,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,-
 K76-151,minor,Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG3
 K76-151,minor,Antiarrhythmics,Propafenone,CYP2D6,Adverse effects,DPWG3

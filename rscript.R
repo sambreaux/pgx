@@ -187,18 +187,37 @@ cast_pheno<-dcast(fun_pheno, Drug+GENE~phenotype, fun.aggregate = sum, value.var
   #High warfarin sensitivity = Poor metaboliser
   #Increased warfarin sensitivity = Reduced metaboliser
 
-
-#calc hardy winberg
 #compare gene to RT data
   #added -rt to kailos 
 
-setwd("C:/Users/sam/Desktop/pgx/myDNA_drugs_CLEAN2")
+setwd("C:/Users/samBr/Documents/pgx/myDNA_drugs_CLEAN2")
 files2 <- list.files()
 temp2 <- lapply(files2, fread, sep=",")
 data2 <- as.data.frame(rbindlist(temp2, use.names = TRUE))%>%
   mutate_if(is.character, str_trim)
 sites<-separate(data2,ID, into = c("site", "xxx"), sep = "-", remove = F )%>%
   select(-xxx)
+write.csv(sites, "C:/Users/SamBr/documents/pgx/results/allmydrugdata.csv")
+
+conc_freq<-as.data.frame(table(sites$site, sites$CONSIDERATION, sites$MEDICATION))%>%
+  rename(c('Var1'= 'site', 'Var2' = 'CONSIDERATION', 'Var3'= 'MEDICATION'))%>%
+  merge(sites, by = c('site', 'CONSIDERATION', 'MEDICATION'))%>%
+  rename(c('GENE(S)\rINVOLVED'= 'GENEs'))
+
+cast_site<-dcast(conc_freq, MEDICATION+GENEs+CONSIDERATION~site, fun.aggregate = mean, value.var = "Freq")%>%
+  rename(c('BCP'= 'BCP (n=8)', "D59"  ='D59 (n=1)', "F31" = 'F31 (n=2)' ,   "J02" = "J02 (n=8)", "K74" = 'k74 (n=6)', "K76" = "k76 (n=10)" ,"L65" = "L65 (n=20)",
+           "N24"= "N24 (n=20)" , "N43"= "N43 (n=9)", "N83" = "N83 (n=16)", "S73"= "S73 (n=5)", "S81"= "S81 (n=4)", "S94" = "S94 (n=3)", "T37"= "T37 (n=9)", "T60" = "T60 (n=9)", 
+           "W19" = "W19 (n=10)", "X73" = "X73 (n=10)"))
+
+cast_site[is.na(cast_site)] <- 0
+write.csv(cast_site, "C:/Users/SamBr/documents/pgx/results/site_consideration.csv")
+
+g<-data2$ID%>%
+  unique()%>%
+  view()
 
 
-
+#calc hardy winberg
+# FIX KAILOS  l65 
+#find misisng smaples in thsoe 2 datasets
+#drug class column fix

@@ -6,22 +6,22 @@ S81-252,major,,Clomipramine,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC2
 S81-252,major,,Doxepin,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC2
 S81-252,major,,Imipramine,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC2
 S81-252,major,Antifungals - Azoles,Voriconazole,CYP2C19,Reduced / inadequate response,CPIC3
-S81-252,minior,"Antidepressants -other",Moclobemide,CYP2C19,Reduced / inadequate response,-
-S81-252,minior,"Antidepressants -SSRIs",Sertraline,CYP2C19,Reduced / inadequate response,CPIC1
-S81-252,minior,Antidiabetics,Gliclazide,"CYP2C9CYP2C19",Reduced / inadequate response,-
-S81-252,minior,Antiplatelet drugs,Clopidogrel,CYP2C19,Adverse effects,CPIC4
-S81-252,minior,Benzodiazepines,Clobazam,CYP2C19,Reduced / inadequate response,-
-S81-252,minior,,Diazepam,CYP2C19,Reduced / inadequate response,-
-S81-252,minior,Miscellaneous,Cyclophosphamide,CYP2C19,"Increased therapeutic and/oradverse effects",-
-S81-252,minior,,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
-S81-252,minior,,Proguanil,CYP2C19,Altered response,-
-S81-252,minior,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
-S81-252,minior,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
-S81-252,minior,,Esomeprazole,CYP2C19,Reduced / inadequate response,-
-S81-252,minior,,Lansoprazole,CYP2C19,Reduced / inadequate response,-
-S81-252,minior,,Omeprazole,CYP2C19,Reduced / inadequate response,-
-S81-252,minior,,Pantoprazole,CYP2C19,Reduced / inadequate response,-
-S81-252,minior,,Rabeprazole,CYP2C19,Reduced / inadequate response,-
+S81-252,minor,"Antidepressants -other",Moclobemide,CYP2C19,Reduced / inadequate response,-
+S81-252,minor,"Antidepressants -SSRIs",Sertraline,CYP2C19,Reduced / inadequate response,CPIC1
+S81-252,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19",Reduced / inadequate response,-
+S81-252,minor,Antiplatelet drugs,Clopidogrel,CYP2C19,Adverse effects,CPIC4
+S81-252,minor,Benzodiazepines,Clobazam,CYP2C19,Reduced / inadequate response,-
+S81-252,minor,,Diazepam,CYP2C19,Reduced / inadequate response,-
+S81-252,minor,Miscellaneous,Cyclophosphamide,CYP2C19,"Increased therapeutic and/oradverse effects",-
+S81-252,minor,,Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
+S81-252,minor,,Proguanil,CYP2C19,Altered response,-
+S81-252,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
+S81-252,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
+S81-252,minor,,Esomeprazole,CYP2C19,Reduced / inadequate response,-
+S81-252,minor,,Lansoprazole,CYP2C19,Reduced / inadequate response,-
+S81-252,minor,,Omeprazole,CYP2C19,Reduced / inadequate response,-
+S81-252,minor,,Pantoprazole,CYP2C19,Reduced / inadequate response,-
+S81-252,minor,,Rabeprazole,CYP2C19,Reduced / inadequate response,-
 S81-252,usual,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,"No altered effect predicted bygenotype",-
 S81-252,usual,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
 S81-252,usual,,Losartan,CYP2C9,"No altered effect predicted bygenotype",-
