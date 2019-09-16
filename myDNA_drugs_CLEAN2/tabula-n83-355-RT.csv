@@ -1,4 +1,4 @@
-ID,COSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
 N83-355-RT,major,"Antidepressants -SSRIs",Citalopram,CYP2C19,Reduced / inadequate response,CPIC2
 N83-355-RT,major,,Escitalopram,CYP2C19,Reduced / inadequate response,CPIC2
 N83-355-RT,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC1

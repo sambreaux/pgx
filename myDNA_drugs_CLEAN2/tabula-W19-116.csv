@@ -1,4 +1,4 @@
-ID,CONSIDERTION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
 W19-116,major,"Antidepressants -SSRIs",Citalopram,CYP2C19,Reduced / inadequate response,CPIC3
 W19-116,major,,Escitalopram,CYP2C19,Reduced / inadequate response,CPIC3
 W19-116,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC1

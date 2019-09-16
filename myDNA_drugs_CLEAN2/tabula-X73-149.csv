@@ -1,4 +1,4 @@
-ID,CONSIDERATON,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
+ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
 X73-149,major,Antiplatelet drugs,Clopidogrel,CYP2C19,Reduced / inadequate response,CPIC1
 X73-149,major,Calcineurin inhibitors,Tacrolimus,CYP3A5,Reduced / inadequate response,CPIC2
 X73-149,minor,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Increased acenocoumarolsensitivity",

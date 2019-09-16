@@ -11,8 +11,8 @@ getwd()
 
 
 
-snpdat<-read.csv("C:/Users/Sam/Documents/pgx/mydna snps - Sheet1.csv")
-mydata<-read.csv("C:/Users/Sam/Documents/pgx/mygenotypes.csv")%>%
+snpdat<-read.csv("C:/Users/Sam/Desktop/pgx/mydna snps - Sheet1.csv")
+mydata<-read.csv("C:/Users/Sam/Desktop/pgx/mygenotypes.csv")%>%
   rename(c('gene' = 'GENE', 'genotype' = 'GENOTYPE'))
   
 
@@ -25,7 +25,7 @@ data <- rbindlist(temp)%>%
 
 
 
-write_csv (data, "C:/Users/Sam/Documents/pgx/results/tidy_mydna.csv")
+write_csv (data, "C:/Users/Sam/Desktop/pgx/results/tidy_mydna.csv")
 
 xx<-split(data, data$GENE, drop = F)
 #names(xx)
@@ -65,9 +65,9 @@ frequencies<-merge(mydata, data_Freq, by = c("GENE","GENOTYPE"))
 
 frequencies<- format(frequencies, digits = 2)
 
-write_csv (frequencies, "C:/Users/Sam/Documents/pgx/results/myDNA_freq.csv")
+write_csv (frequencies, "C:/Users/Sam/Desktop/pgx/results/myDNA_freq.csv")
 
-kdata<-read.csv("C:/Users/Sam/Documents/pgx/allkailos3.csv")
+kdata<-read.csv("C:/Users/Sam/Desktop/pgx/allkailos3.csv")
 
 kd<-kdata %>% mutate_if(is.factor, as.character)%>%
   mutate_if(is.character, str_trim)
@@ -78,7 +78,7 @@ m<-melt(kd, id.vars = "ID", measure.vars = 2:39)%>%
   na.omit()%>%
   rename(c('variable' = 'GENE', 'value'='kailos_call'))
 
-write.csv(m, "C:/Users/Sam/Documents/pgx/results/tidykailos.csv")
+write.csv(m, "C:/Users/Sam/Desktop/pgx/results/tidykailos.csv")
 
 kg<-split(m, m$ID, drop =FALSE)
 
@@ -92,7 +92,7 @@ lol<-table(m$kailos_call)%>%
   unique()%>%
   format(digits = 2)
 
-write.csv(diffrentsamples, "C:/Users/Sam/Documents/pgx/results/kailos_freq.csv")
+write.csv(diffrentsamples, "C:/Users/Sam/Desktop/pgx/results/kailos_freq.csv")
 
 
 ff<-split(m, m$GENE, drop =FALSE)
@@ -133,8 +133,8 @@ mmm<-my_v_k[!is.na(my_v_k$kailos_call.x),]%>%
 mmm$compare <-ifelse(mmm$kailos == mmm$myDNA,  "x",ifelse(mmm$kailos != mmm$myDNA, "different", "a"))
 diffrentsamples<-filter(mmm, compare == "different")
 
-write.csv(diffrentsamples, "C:/Users/Sam/Documents/pgx/results/different_genotypes.csv")
-write.csv(mmm, "C:/Users/Sam/Documents/pgx/results/my_vs_kaliosgenotypes.csv")
+write.csv(diffrentsamples, "C:/Users/Sam/Desktop/pgx/results/different_genotypes.csv")
+write.csv(mmm, "C:/Users/Sam/Desktop/pgx/results/my_vs_kaliosgenotypes.csv")
 
 l294 <- filter(mmm, ID == "L65-294")
 l295<- filter(mmm, ID == "L65-295")
@@ -145,14 +145,14 @@ problemchildren<- cbind(l294,l295)
 
 mykailos<-merge(frequencies, kailosco_freq , by = "kailos_call", all = T)
 mykailos<-join(frequencies, lol, by = "kailos_call", match = "all")
-write.csv(mykailos, "C:/Users/Sam/Documents/pgx/results/my_vs_kailos_freq_pop.csv")
+write.csv(mykailos, "C:/Users/Sam/Desktop/pgx/results/my_vs_kailos_freq_pop.csv")
 
 myunique<-unique(data$ID)
 kailosunique <-unique(m$ID)
 nnn<-cbind.fill(myunique, kailosunique, fill ="na")
 
 
-drugs<-read.csv("C:/Users/Sam/Documents/pgx/drug-gene-md.csv")%>%
+drugs<-read.csv("C:/Users/Sam/Desktop/pgx/drug-gene-md.csv")%>%
   select(-'CPIC.Publications..PMID.')%>%
   rename(c('Gene' = 'GENE'))
 
@@ -166,7 +166,7 @@ mydrugs<-table(data$`PREDICTED FUNCTION`)%>%
   unique()
   
 function_freq_drug<-merge(mydrugs, drugs, by ="GENE")
-write.csv(function_freq_drug, "C:/Users/Sam/Documents/pgx/results/myFUNCTION_drug_freq.csv")
+write.csv(function_freq_drug, "C:/Users/Sam/Desktop/pgx/results/myFUNCTION_drug_freq.csv")
 
 pheno_data<-mydata_geno%>%
   select(phenotype, 'PREDICTED FUNCTION')
@@ -190,4 +190,15 @@ cast_pheno<-dcast(fun_pheno, Drug+GENE~phenotype, fun.aggregate = sum, value.var
 
 #calc hardy winberg
 #compare gene to RT data
+  #added -rt to kailos 
+
+setwd("C:/Users/sam/Desktop/pgx/myDNA_drugs_CLEAN2")
+files2 <- list.files()
+temp2 <- lapply(files2, fread, sep=",")
+data2 <- as.data.frame(rbindlist(temp2, use.names = TRUE))%>%
+  mutate_if(is.character, str_trim)
+sites<-separate(data2,ID, into = c("site", "xxx"), sep = "-", remove = F )%>%
+  select(-xxx)
+
+
 
