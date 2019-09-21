@@ -1,0 +1,532 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={PGx\_annotated},
+            pdfauthor={Sam},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\providecommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{PGx\_annotated}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{Sam}
+    \preauthor{\centering\large\emph}
+  \postauthor{\par}
+      \predate{\centering\large\emph}
+  \postdate{\par}
+    \date{September 19, 2019}
+
+
+\begin{document}
+\maketitle
+
+\section{packages required}\label{packages-required}
+
+packages need to run the code in this file
+
+\begin{verbatim}
+library(data.table)
+library(tidyverse)
+library(plyr)
+library(reshape2)
+library(compare)
+library(rowr)
+\end{verbatim}
+
+\section{load data}\label{load-data}
+
+\subsubsection{loading in and tiding all inital data
+sets}\label{loading-in-and-tiding-all-inital-data-sets}
+
+\subsubsection{output files:}\label{output-files}
+
+\begin{itemize}
+\tightlist
+\item
+  tidy\_mydna.csv = tidy myDNA genotype data
+\item
+  tidykailos.csv = tidy kailos genotype data
+\item
+  allmydrugdata.csv = tidy myDNA drug/phenotype data
+\end{itemize}
+
+\begin{verbatim}
+
+#change working directory to that with myDNA CSVs
+setwd("C:/Users/SamBr/Documents/pgx/mydna")
+
+#load in snp data and genotype data: rename some columns to match those in mydna CSVs
+snpdat<-read.csv("C:/Users/SamBr/Documents/pgx/mydna snps - Sheet1.csv")
+mydata<-read.csv("C:/Users/SamBr/Documents/pgx/mygenotypes.csv")%>%
+  rename(c('gene' = 'GENE', 'genotype' = 'GENOTYPE'))
+  
+
+#load in and bind all myDNA genotype CSVs into one file.
+#remove trailing spaces
+files <- list.files()
+temp <- lapply(files, fread, sep=",")
+data <- rbindlist(temp)%>%
+  mutate_if(is.character, str_trim)
+
+#make CSV of all myDNA patient genotype information
+write_csv (data, "C:/Users/SamBr/Documents/pgx/results/tidy_mydna.csv")
+
+#load in kailos data and remove any trailing spaces
+kdata<-read.csv("C:/Users/SamBr/Documents/pgx/allkailos4.csv")
+
+kd<-kdata %>% mutate_if(is.factor, as.character)%>%
+  mutate_if(is.character, str_trim)
+
+# tidy data: create gene column, replace nulls with NA and then remove na rows, rename columns to match 
+m<-melt(kd, id.vars = "ID", measure.vars = 2:39)%>%
+  mutate_all(~replace(., . == "", NA)) %>%
+  na.omit()%>%
+  rename(c('variable' = 'GENE', 'value'='kailos_call'))
+
+#output tidy data as a cSV
+write.csv(m, "C:/Users/SamBr/Documents/pgx/results/tidykailos.csv")
+
+#load in my DNA patient drug response data, bind into one data frame and remove any trailing spaces
+setwd("C:/Users/samBr/Documents/pgx/myDNA_drugs_CLEAN2")
+files2 <- list.files()
+temp2 <- lapply(files2, fread, sep=",")
+data2 <- as.data.frame(rbindlist(temp2, use.names = TRUE))%>%
+  mutate_if(is.character, str_trim)
+
+#create pharmacy ID column 
+sites<-separate(data2,ID, into = c("site", "xxx"), sep = "-", remove = F )%>%
+  select(-xxx)
+
+#output tidy data as csv
+write.csv(sites, "C:/Users/SamBr/documents/pgx/results/allmydrugdata.csv")
+\end{verbatim}
+
+\section{Frequency of myDNA calls}\label{frequency-of-mydna-calls}
+
+\subsubsection{calculating the frequency of myDNA
+calls}\label{calculating-the-frequency-of-mydna-calls}
+
+\subsubsection{output files:}\label{output-files-1}
+
+\begin{itemize}
+\tightlist
+\item
+  mydna\_freq.csv = number of times each myDNA genotype was called
+\end{itemize}
+
+\begin{verbatim}
+#split dataframe into seperate data frames based on gene 
+xx<-split(data, data$GENE, drop = F)
+
+# create function to get genotype frequencies 
+genotype_freqs<-function(df){
+  v<-table(df$GENOTYPE)%>%
+  as.data.frame()%>%
+  rename(c('Var1' = 'GENOTYPE', 'Var2' = 'myDNA_call_freq'))%>%
+  mutate(myDNA_call_freq_percent = Freq/150*100)%>%
+  merge(df, by = 'GENOTYPE')}
+
+# get genotype frequncies and bind back into one data frame
+data_F<-lapply(xx, genotype_freqs)%>%
+  rbindlist()
+
+# return only unique rows
+data_Freq <- data_F%>%
+  select(-ID,-`PREDICTED FUNCTION`)%>%
+  unique()
+
+#merge with population data
+frequencies<-merge(mydata, data_Freq, by = c("GENE","GENOTYPE"))
+
+#round to 2 digits
+frequencies<- format(frequencies, digits = 2)
+
+#create csv of mydna gene freqs
+write_csv (frequencies, "C:/Users/SamBr/Documents/pgx/results/myDNA_freq.csv")
+\end{verbatim}
+
+\section{Frequency of kailos calls}\label{frequency-of-kailos-calls}
+
+\subsubsection{output files:}\label{output-files-2}
+
+\begin{itemize}
+\tightlist
+\item
+  kailos\_call.csv = number of times all kailos snps were called
+\end{itemize}
+
+\begin{verbatim}
+
+#get unique kailos genotype frequencies and round table
+
+lol<-table(m$kailos_call)%>%
+  as.data.frame()%>%
+  rename(c('Var1' = 'kailos_call'))%>%
+  mutate('kailos_Genotype_Freqency_%' = Freq/37*100)%>%
+  rename(c('Freq' = 'kailos_Genotype_Freqency'))%>%
+  merge(m, by = 'kailos_call')%>%
+  select(-ID)%>%
+  unique()%>%
+  format(digits = 2)
+
+#output kailos genotype frequncies as a csv
+write.csv(lol, "C:/Users/SamBr/Documents/pgx/results/kailos_freq.csv")
+
+# remove rs codes that dont exist in the myDNA data set
+toMatch<-c('rs9923231', 'rs762551', 'rs4149056','CYP2D6', 'CYP2C19', 'CYP3A4', 'CYP3A5', 'CYP2C9')
+k_calls_only<-filter(lol, grepl(paste(toMatch, collapse="|"), kailos_call))
+
+# get frequncy of only those genes that exist in both data sets 
+kailosco_freq <-table(k_calls_only$kailos_call)%>%
+  as.data.frame()%>%
+ rename(c('Var1' = 'kailos_call'))%>%
+  mutate('kailos_Genotype_Freqency_%' = Freq/37*100)%>%
+  rename(c('Freq' = 'kailos_Genotype_Freqency'))%>%
+  merge(m, by = 'kailos_call')%>%
+  select(-ID)%>%
+  unique()%>%
+  format(digits = 2) 
+\end{verbatim}
+
+\section{Comparison of my kailos and myDNA genotype
+calls}\label{comparison-of-my-kailos-and-mydna-genotype-calls}
+
+\paragraph{t60-163 and t60-169 failed mydna genotyping. - passed
+kailos}\label{t60-163-and-t60-169-failed-mydna-genotyping.---passed-kailos}
+
+\begin{itemize}
+\tightlist
+\item
+  both were retested and t60-169 passed (t60-163 did not)
+\item
+  changed sample name in kailos file to t60-169-RT so they could be
+  compared\\
+\end{itemize}
+
+\paragraph{think L65-294 and L65-295 were swapped and L65-293 =
+L65-296}\label{think-l65-294-and-l65-295-were-swapped-and-l65-293-l65-296}
+
+\begin{itemize}
+\tightlist
+\item
+  changed names to reflect this in the kailos data file
+\item
+  L65-293 = L65-296
+\item
+  L65-294 = L65-295
+\item
+  L65-295 = L65-294
+\end{itemize}
+
+\paragraph{35a called only in kailos
+reports}\label{a-called-only-in-kailos-reports}
+
+\begin{itemize}
+\tightlist
+\item
+  has normal metaboliser status
+\item
+  subset of *2 allele (2851 c\textgreater{}t, 4181 g\textgreater{}c VS.
+  2851 c\textgreater{}t, 4181 g\textgreater{}c AND 31 g\textgreater{}A )
+\end{itemize}
+
+\paragraph{output files:}\label{output-files-3}
+
+\begin{itemize}
+\tightlist
+\item
+  different\_genotype.csv = table of samples whose genotype calls did
+  not match between data sets
+\item
+  my\_vs\_kailosgenotypes.csv = comparison of all myDNA and kailos calls
+\end{itemize}
+
+\begin{verbatim}
+
+#introduce patient ids back into genotype freq data
+mydata_geno<-merge(mydata, data, by = c("GENE","GENOTYPE"))
+
+#merge in kailos data
+my_v_k<-merge( k_calls_only,mydata_geno, by = c("GENE","ID"), all = T) 
+
+#remove myDNA genes that are not found in the kailos data det 
+mmm<-my_v_k[!is.na(my_v_k$kailos_call.x),]%>%
+  select( -GENOTYPE, -population.level, -phenotype, -'PREDICTED FUNCTION')%>%
+  rename(c("kailos_call.x" = 'kailos_call', 'kailos_call.y' = "myDNA_call"))
+
+#create column to hightlight different gene calls between data sets (x = same)
+mmm$compare <-ifelse(mmm$kailos == mmm$myDNA,  "x",ifelse(mmm$kailos != mmm$myDNA, "different", "a"))
+
+# create data frame of only differing gene calls
+diffrentsamples<-filter(mmm, compare == "different")
+
+#output myDNA v. Kalios comparison table and table of samples that differ between data sets
+write.csv(diffrentsamples, "C:/Users/SamBr/Documents/pgx/results/different_genotypes.csv")
+write.csv(mmm, "C:/Users/SamBr/Documents/pgx/results/my_vs_kaliosgenotypes.csv")
+\end{verbatim}
+
+\section{myDNA vs kailos genotype freqencies compared with population
+level}\label{mydna-vs-kailos-genotype-freqencies-compared-with-population-level}
+
+\subsubsection{genotype frequencies for CYP2D6, CYP2C19, CYP2C9 and
+VKORC1}\label{genotype-frequencies-for-cyp2d6-cyp2c19-cyp2c9-and-vkorc1}
+
+\begin{itemize}
+\tightlist
+\item
+  taken from myDNA paper
+\item
+  (doi: 10.1007/s00702-018-1922-0)
+\end{itemize}
+
+\subsubsection{Genotype frequencies for SLCO1B1, CYP1A2, CYP3A4, CYP3A5,
+and
+OPRM1}\label{genotype-frequencies-for-slco1b1-cyp1a2-cyp3a4-cyp3a5-and-oprm1}
+
+\begin{itemize}
+\tightlist
+\item
+  calculated from SNP frequency in hardy winberg equlibrium
+\item
+  snp frequency found from PharmGKB
+\end{itemize}
+
+\subsubsection{output files:}\label{output-files-4}
+
+\begin{itemize}
+\tightlist
+\item
+  my\_vs\_kailos\_freq\_pop
+\end{itemize}
+
+\begin{verbatim}
+#merge kailos freq into myDNA freq table
+mykailos<-join(frequencies, lol, by = "kailos_call", match = "all")
+
+#remove last colunmn (duplicate)
+mykailos<-mykailos[c(1:9)]
+
+#output frequency comparison as csv 
+write.csv(mykailos, "C:/Users/SamBr/Documents/pgx/results/my_vs_kailos_freq_pop.csv")
+\end{verbatim}
+
+\section{drug vs phenotype
+frequencies}\label{drug-vs-phenotype-frequencies}
+
+\subsubsection{remove/replace warfin
+columns}\label{removereplace-warfin-columns}
+
+\begin{itemize}
+\tightlist
+\item
+  Normal warfarin sensitivity = Normal metaboliser
+\item
+  High warfarin sensitivity = Poor metaboliser
+\item
+  Increased warfarin sensitivity = Reduced metaboliser
+\end{itemize}
+
+\subsubsection{output files:}\label{output-files-5}
+
+\begin{itemize}
+\tightlist
+\item
+  myFUNCTION\_drug\_freq.csv = frequncy of each predicted phenotype
+\item
+  drug\_pheno.csv = number of times each phenotype was called for each
+  drug based on gene
+\end{itemize}
+
+\begin{verbatim}
+#get unique drug gene information, rename colum to match 
+drugs<-sites[c("MEDICATION", "GENE(S)\rINVOLVED")]%>%
+  unique()%>%
+  rename_col_by_position(2, GENE)
+
+# couldnt get the genes to correctly sepreate into individual rows so outputed data as csv and edited by hand. hashed line so it wouldnt overwrite good drug file
+# write.csv(drugs, "C:/Users/SamBr/Documents/pgx/drugs.csv")
+
+#read back in good drug file
+drugs<-read.csv("C:/Users/SamBr/Documents/pgx/drugs.csv")
+
+
+#get frequency of each perdicted metabolism function
+mydrugs<-table(data$`PREDICTED FUNCTION`)%>%
+  as.data.frame()%>%
+  rename(c('Var1' = 'PREDICTED FUNCTION'))%>%
+  mutate(per_fun_freq = Freq/150*100)%>%
+  rename(c('Freq'= 'Phenotype_freq'))%>%
+  merge(data, by = 'PREDICTED FUNCTION')%>%
+  select(-ID, -GENOTYPE)%>%
+  unique()
+
+#merge in drug data  
+function_freq_drug<-merge(mydrugs, drugs, by ="GENE")
+
+#output frequency of perdicted phenotype/drug table as csv 
+write.csv(function_freq_drug, "C:/Users/SamBr/Documents/pgx/results/myFUNCTION_drug_freq.csv")
+
+#get cleaner function/ phenotype data
+pheno_data<-mydata_geno%>%
+  select(phenotype, 'PREDICTED FUNCTION')
+
+#merge in phenotype information and remove trailing spaces
+fun_pheno<-merge(function_freq_drug, pheno_data, by = 'PREDICTED FUNCTION' )%>%
+  unique()
+fun_pheno<-fun_pheno %>% mutate_if(is.factor, as.character)%>%
+  mutate_if(is.character, str_trim)
+
+#number of times each drug per gene is impacted by each phenotype
+cast_pheno<-dcast(fun_pheno, Drug+GENE~phenotype, fun.aggregate = mean, value.var = "function_freq")
+#output file as csv
+write.csv(cast_pheno, "C:/Users/SamBr/Documents/pgx/drug_pheno.csv")
+\end{verbatim}
+
+\section{number of drug consideration per study
+site}\label{number-of-drug-consideration-per-study-site}
+
+\subsubsection{output files:}\label{output-files-6}
+
+\begin{itemize}
+\tightlist
+\item
+  site\_consideration.csv = frequency of each pharmacogentic
+  consideration for each study site and medication
+\end{itemize}
+
+\begin{verbatim}
+# get frequency of each pharmacogentic consideration for each study site and medication 
+conc_freq<-as.data.frame(table(sites$site, sites$CONSIDERATION, sites$MEDICATION))%>%
+  rename(c('Var1'= 'site', 'Var2' = 'CONSIDERATION', 'Var3'= 'MEDICATION'))%>%
+  merge(sites, by = c('site', 'CONSIDERATION', 'MEDICATION'))%>%
+  rename(c('GENE(S)\rINVOLVED'= 'GENEs'))
+
+#cast site column and use frequency column to fill
+cast_site<-dcast(conc_freq, MEDICATION+GENEs+CONSIDERATION~site, fun.aggregate = mean, value.var = "Freq")%>%
+  rename(c('BCP'= 'BCP (n=8)', "D59"  ='D59 (n=1)', "F31" = 'F31 (n=2)' ,   "J02" = "J02 (n=8)", "K74" = 'k74 (n=6)', "K76" = "k76 (n=10)" ,"L65" = "L65 (n=20)",
+           "N24"= "N24 (n=20)" , "N43"= "N43 (n=9)", "N83" = "N83 (n=16)", "S73"= "S73 (n=5)", "S81"= "S81 (n=4)", "S94" = "S94 (n=3)", "T37"= "T37 (n=9)", "T60" = "T60 (n=9)", 
+           "W19" = "W19 (n=10)", "X73" = "X73 (n=10)"))
+
+#change NAN values to 0 
+cast_site[is.na(cast_site)] <- 0
+#output as a csv 
+write.csv(cast_site, "C:/Users/SamBr/documents/pgx/results/site_consideration.csv")
+\end{verbatim}
+
+\section{missing drug}\label{missing-drug}
+
+from here on is me investigating the missing drug (acenocoumarol) in the
+three patients J02-131, L65-291, and N24-325
+
+\begin{verbatim}
+lo<-split(sites, sites$ID)
+
+rename_col_by_position <- function(df, position, new_name) {
+  new_name <- enquo(new_name)
+  new_name <- quo_name(new_name)
+  select(df, !! new_name := !! quo(names(df)[[position]]), everything())
+}
+  
+drugcat<-as.data.frame(lo$`BCP-011`$`DRUG CATEGORY`, lo$`BCP-011`$MEDICATION)%>%
+  rownames_to_column()%>%
+  rename_col_by_position(1, 'MEDICATION')%>%
+  rename_col_by_position(2, `DRUG CATEGORY`)
+
+sites<-sites%>%
+  select(-'DRUG CATEGORY')%>%
+  merge(drugcat)
+
+drugc<-split(sites, sites$`DRUG CATEGORY`)
+majorAC<-split(drugc$Anticoagulants, drugc$Anticoagulants$CONSIDERATION)
+view(majorAC$major)
+med<-split(majorAC$usual, majorAC$usual$MEDICATION)
+
+
+m<-"drug"
+normal<-as.data.frame(lo$`BCP-011`$MEDICATION)%>%
+  rename_col_by_position(1, drug)
+
+j02131<-as.data.frame(lo$`J02-131`$MEDICATION)%>%
+  rename_col_by_position(1, drug)
+l65291<-as.data.frame(lo$`L65-291`$MEDICATION)%>%
+  rename_col_by_position(1, drug)
+l65292<-as.data.frame(lo$`L65-292`$MEDICATION)%>%
+  rename_col_by_position(1, drug)
+n24325<-as.data.frame(lo$`N24-325`$MEDICATION)%>%
+  rename_col_by_position(1, drug)
+
+dif131<-anti_join(normal,j02131)
+dif291<-anti_join(normal,l65291)
+dif325<-anti_join(normal,n24325)
+\end{verbatim}
+
+
+\end{document}

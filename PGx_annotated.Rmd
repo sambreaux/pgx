@@ -1,0 +1,342 @@
+---
+title: "PGx_annotated"
+author: "Sam"
+date: "September 19, 2019"
+output: 
+  pdf_document:
+  html_document: 
+    keep_md: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#packages required 
+packages need to run the code in this file
+```{load packages}
+library(data.table)
+library(tidyverse)
+library(plyr)
+library(reshape2)
+library(compare)
+library(rowr)
+```
+
+# load data
+### loading in and tiding all inital data sets
+### output files:
+* tidy_mydna.csv = tidy myDNA genotype data
+* tidykailos.csv = tidy kailos genotype data
+* allmydrugdata.csv = tidy myDNA drug/phenotype data
+
+```{load data}
+
+#change working directory to that with myDNA CSVs
+setwd("C:/Users/SamBr/Documents/pgx/mydna")
+
+#load in snp data and genotype data: rename some columns to match those in mydna CSVs
+snpdat<-read.csv("C:/Users/SamBr/Documents/pgx/mydna snps - Sheet1.csv")
+mydata<-read.csv("C:/Users/SamBr/Documents/pgx/mygenotypes.csv")%>%
+  rename(c('gene' = 'GENE', 'genotype' = 'GENOTYPE'))
+  
+
+#load in and bind all myDNA genotype CSVs into one file.
+#remove trailing spaces
+files <- list.files()
+temp <- lapply(files, fread, sep=",")
+data <- rbindlist(temp)%>%
+  mutate_if(is.character, str_trim)
+
+#make CSV of all myDNA patient genotype information
+write_csv (data, "C:/Users/SamBr/Documents/pgx/results/tidy_mydna.csv")
+
+#load in kailos data and remove any trailing spaces
+kdata<-read.csv("C:/Users/SamBr/Documents/pgx/allkailos4.csv")
+
+kd<-kdata %>% mutate_if(is.factor, as.character)%>%
+  mutate_if(is.character, str_trim)
+
+# tidy data: create gene column, replace nulls with NA and then remove na rows, rename columns to match 
+m<-melt(kd, id.vars = "ID", measure.vars = 2:39)%>%
+  mutate_all(~replace(., . == "", NA)) %>%
+  na.omit()%>%
+  rename(c('variable' = 'GENE', 'value'='kailos_call'))
+
+#output tidy data as a cSV
+write.csv(m, "C:/Users/SamBr/Documents/pgx/results/tidykailos.csv")
+
+#load in my DNA patient drug response data, bind into one data frame and remove any trailing spaces
+setwd("C:/Users/samBr/Documents/pgx/myDNA_drugs_CLEAN2")
+files2 <- list.files()
+temp2 <- lapply(files2, fread, sep=",")
+data2 <- as.data.frame(rbindlist(temp2, use.names = TRUE))%>%
+  mutate_if(is.character, str_trim)
+
+#create pharmacy ID column 
+sites<-separate(data2,ID, into = c("site", "xxx"), sep = "-", remove = F )%>%
+  select(-xxx)
+
+#output tidy data as csv
+write.csv(sites, "C:/Users/SamBr/documents/pgx/results/allmydrugdata.csv")
+```
+# Frequency of myDNA calls
+### calculating the frequency of myDNA calls
+### output files:
+* mydna_freq.csv = number of times each myDNA genotype was called
+
+```{get myDNA freq}
+#split dataframe into seperate data frames based on gene 
+xx<-split(data, data$GENE, drop = F)
+
+# create function to get genotype frequencies 
+genotype_freqs<-function(df){
+  v<-table(df$GENOTYPE)%>%
+  as.data.frame()%>%
+  rename(c('Var1' = 'GENOTYPE', 'Var2' = 'myDNA_call_freq'))%>%
+  mutate(myDNA_call_freq_percent = Freq/150*100)%>%
+  merge(df, by = 'GENOTYPE')}
+
+# get genotype frequncies and bind back into one data frame
+data_F<-lapply(xx, genotype_freqs)%>%
+  rbindlist()
+
+# return only unique rows
+data_Freq <- data_F%>%
+  select(-ID,-`PREDICTED FUNCTION`)%>%
+  unique()
+
+#merge with population data
+frequencies<-merge(mydata, data_Freq, by = c("GENE","GENOTYPE"))
+
+#round to 2 digits
+frequencies<- format(frequencies, digits = 2)
+
+#create csv of mydna gene freqs
+write_csv (frequencies, "C:/Users/SamBr/Documents/pgx/results/myDNA_freq.csv")
+```
+# Frequency of kailos calls
+### output files:
+* kailos_call.csv = number of times all kailos snps were called
+
+```{get kailos freq}
+
+#get unique kailos genotype frequencies and round table
+
+lol<-table(m$kailos_call)%>%
+  as.data.frame()%>%
+  rename(c('Var1' = 'kailos_call'))%>%
+  mutate('kailos_Genotype_Freqency_%' = Freq/37*100)%>%
+  rename(c('Freq' = 'kailos_Genotype_Freqency'))%>%
+  merge(m, by = 'kailos_call')%>%
+  select(-ID)%>%
+  unique()%>%
+  format(digits = 2)
+
+#output kailos genotype frequncies as a csv
+write.csv(lol, "C:/Users/SamBr/Documents/pgx/results/kailos_freq.csv")
+
+# remove rs codes that dont exist in the myDNA data set
+toMatch<-c('rs9923231', 'rs762551', 'rs4149056','CYP2D6', 'CYP2C19', 'CYP3A4', 'CYP3A5', 'CYP2C9')
+k_calls_only<-filter(lol, grepl(paste(toMatch, collapse="|"), kailos_call))
+
+# get frequncy of only those genes that exist in both data sets 
+kailosco_freq <-table(k_calls_only$kailos_call)%>%
+  as.data.frame()%>%
+ rename(c('Var1' = 'kailos_call'))%>%
+  mutate('kailos_Genotype_Freqency_%' = Freq/37*100)%>%
+  rename(c('Freq' = 'kailos_Genotype_Freqency'))%>%
+  merge(m, by = 'kailos_call')%>%
+  select(-ID)%>%
+  unique()%>%
+  format(digits = 2) 
+
+```
+
+# Comparison of my kailos and myDNA genotype calls
+
+#### t60-163 and t60-169 failed mydna genotyping. - passed kailos 
+* both were retested and t60-169 passed (t60-163 did not)
+* changed sample name in kailos file to t60-169-RT so they could be compared\
+
+#### think L65-294 and L65-295 were swapped and L65-293 = L65-296
+* changed names to reflect this in the kailos data file
+* L65-293 = L65-296
+* L65-294 = L65-295
+* L65-295 = L65-294 
+
+#### 35a called only in kailos reports 
+* has normal metaboliser status 
+* subset of *2 allele (2851 c>t, 4181 g>c VS. 2851 c>t, 4181 g>c AND 31 g>A )
+
+#### output files:
+* different_genotype.csv = table of samples whose genotype calls did not match between data sets
+* my_vs_kailosgenotypes.csv = comparison of all myDNA and kailos calls 
+
+```{kailos vs myDNA genotypes}
+
+#introduce patient ids back into genotype freq data
+mydata_geno<-merge(mydata, data, by = c("GENE","GENOTYPE"))
+
+#merge in kailos data
+my_v_k<-merge( k_calls_only,mydata_geno, by = c("GENE","ID"), all = T) 
+
+#remove myDNA genes that are not found in the kailos data det 
+mmm<-my_v_k[!is.na(my_v_k$kailos_call.x),]%>%
+  select( -GENOTYPE, -population.level, -phenotype, -'PREDICTED FUNCTION')%>%
+  rename(c("kailos_call.x" = 'kailos_call', 'kailos_call.y' = "myDNA_call"))
+
+#create column to hightlight different gene calls between data sets (x = same)
+mmm$compare <-ifelse(mmm$kailos == mmm$myDNA,  "x",ifelse(mmm$kailos != mmm$myDNA, "different", "a"))
+
+# create data frame of only differing gene calls
+diffrentsamples<-filter(mmm, compare == "different")
+
+#output myDNA v. Kalios comparison table and table of samples that differ between data sets
+write.csv(diffrentsamples, "C:/Users/SamBr/Documents/pgx/results/different_genotypes.csv")
+write.csv(mmm, "C:/Users/SamBr/Documents/pgx/results/my_vs_kaliosgenotypes.csv")
+```
+# myDNA vs kailos genotype freqencies compared with population level 
+### genotype frequencies for CYP2D6, CYP2C19, CYP2C9 and VKORC1 
+* taken from myDNA paper 
+* (doi: 10.1007/s00702-018-1922-0)
+
+### Genotype frequencies for SLCO1B1, CYP1A2, CYP3A4, CYP3A5, and OPRM1 
+* calculated from SNP frequency in hardy winberg equlibrium
+* snp frequency found from PharmGKB
+
+### output files:
+* my_vs_kailos_freq_pop
+
+```{myDNA vs kailos genotype freq}
+#merge kailos freq into myDNA freq table
+mykailos<-join(frequencies, lol, by = "kailos_call", match = "all")
+
+#remove last colunmn (duplicate)
+mykailos<-mykailos[c(1:9)]
+
+#output frequency comparison as csv 
+write.csv(mykailos, "C:/Users/SamBr/Documents/pgx/results/my_vs_kailos_freq_pop.csv")
+```
+
+# drug vs phenotype frequencies
+### remove/replace warfin columns
+  * Normal warfarin sensitivity = Normal metaboliser
+  * High warfarin sensitivity = Poor metaboliser
+  * Increased warfarin sensitivity = Reduced metaboliser
+
+### output files:
+* myFUNCTION_drug_freq.csv = frequncy of each predicted phenotype
+* drug_pheno.csv = number of times each phenotype was called for each drug based on gene
+```{drug pheno}
+#get unique drug gene information, rename colum to match 
+drugs<-sites[c("MEDICATION", "GENE(S)\rINVOLVED")]%>%
+  unique()%>%
+  rename_col_by_position(2, GENE)
+
+# couldnt get the genes to correctly sepreate into individual rows so outputed data as csv and edited by hand. hashed line so it wouldnt overwrite good drug file
+# write.csv(drugs, "C:/Users/SamBr/Documents/pgx/drugs.csv")
+
+#read back in good drug file
+drugs<-read.csv("C:/Users/SamBr/Documents/pgx/drugs.csv")
+
+
+#get frequency of each perdicted metabolism function
+mydrugs<-table(data$`PREDICTED FUNCTION`)%>%
+  as.data.frame()%>%
+  rename(c('Var1' = 'PREDICTED FUNCTION'))%>%
+  mutate(per_fun_freq = Freq/150*100)%>%
+  rename(c('Freq'= 'Phenotype_freq'))%>%
+  merge(data, by = 'PREDICTED FUNCTION')%>%
+  select(-ID, -GENOTYPE)%>%
+  unique()
+
+#merge in drug data  
+function_freq_drug<-merge(mydrugs, drugs, by ="GENE")
+
+#output frequency of perdicted phenotype/drug table as csv 
+write.csv(function_freq_drug, "C:/Users/SamBr/Documents/pgx/results/myFUNCTION_drug_freq.csv")
+
+#get cleaner function/ phenotype data
+pheno_data<-mydata_geno%>%
+  select(phenotype, 'PREDICTED FUNCTION')
+
+#merge in phenotype information and remove trailing spaces
+fun_pheno<-merge(function_freq_drug, pheno_data, by = 'PREDICTED FUNCTION' )%>%
+  unique()
+fun_pheno<-fun_pheno %>% mutate_if(is.factor, as.character)%>%
+  mutate_if(is.character, str_trim)
+
+#number of times each drug per gene is impacted by each phenotype
+cast_pheno<-dcast(fun_pheno, Drug+GENE~phenotype, fun.aggregate = mean, value.var = "function_freq")
+#output file as csv
+write.csv(cast_pheno, "C:/Users/SamBr/Documents/pgx/drug_pheno.csv")
+```
+
+# number of drug consideration per study site
+### output files:
+* site_consideration.csv = frequency of each pharmacogentic consideration for each study site and medication 
+
+```{site drug consideration}
+# get frequency of each pharmacogentic consideration for each study site and medication 
+conc_freq<-as.data.frame(table(sites$site, sites$CONSIDERATION, sites$MEDICATION))%>%
+  rename(c('Var1'= 'site', 'Var2' = 'CONSIDERATION', 'Var3'= 'MEDICATION'))%>%
+  merge(sites, by = c('site', 'CONSIDERATION', 'MEDICATION'))%>%
+  rename(c('GENE(S)\rINVOLVED'= 'GENEs'))
+
+#cast site column and use frequency column to fill
+cast_site<-dcast(conc_freq, MEDICATION+GENEs+CONSIDERATION~site, fun.aggregate = mean, value.var = "Freq")%>%
+  rename(c('BCP'= 'BCP (n=8)', "D59"  ='D59 (n=1)', "F31" = 'F31 (n=2)' ,   "J02" = "J02 (n=8)", "K74" = 'k74 (n=6)', "K76" = "k76 (n=10)" ,"L65" = "L65 (n=20)",
+           "N24"= "N24 (n=20)" , "N43"= "N43 (n=9)", "N83" = "N83 (n=16)", "S73"= "S73 (n=5)", "S81"= "S81 (n=4)", "S94" = "S94 (n=3)", "T37"= "T37 (n=9)", "T60" = "T60 (n=9)", 
+           "W19" = "W19 (n=10)", "X73" = "X73 (n=10)"))
+
+#change NAN values to 0 
+cast_site[is.na(cast_site)] <- 0
+#output as a csv 
+write.csv(cast_site, "C:/Users/SamBr/documents/pgx/results/site_consideration.csv")
+```
+
+# missing drug 
+from here on is me investigating the missing drug (acenocoumarol) in the three patients J02-131, L65-291, and N24-325
+
+```{missing drug}
+lo<-split(sites, sites$ID)
+
+rename_col_by_position <- function(df, position, new_name) {
+  new_name <- enquo(new_name)
+  new_name <- quo_name(new_name)
+  select(df, !! new_name := !! quo(names(df)[[position]]), everything())
+}
+  
+drugcat<-as.data.frame(lo$`BCP-011`$`DRUG CATEGORY`, lo$`BCP-011`$MEDICATION)%>%
+  rownames_to_column()%>%
+  rename_col_by_position(1, 'MEDICATION')%>%
+  rename_col_by_position(2, `DRUG CATEGORY`)
+
+sites<-sites%>%
+  select(-'DRUG CATEGORY')%>%
+  merge(drugcat)
+
+drugc<-split(sites, sites$`DRUG CATEGORY`)
+majorAC<-split(drugc$Anticoagulants, drugc$Anticoagulants$CONSIDERATION)
+view(majorAC$major)
+med<-split(majorAC$usual, majorAC$usual$MEDICATION)
+
+
+m<-"drug"
+normal<-as.data.frame(lo$`BCP-011`$MEDICATION)%>%
+  rename_col_by_position(1, drug)
+
+j02131<-as.data.frame(lo$`J02-131`$MEDICATION)%>%
+  rename_col_by_position(1, drug)
+l65291<-as.data.frame(lo$`L65-291`$MEDICATION)%>%
+  rename_col_by_position(1, drug)
+l65292<-as.data.frame(lo$`L65-292`$MEDICATION)%>%
+  rename_col_by_position(1, drug)
+n24325<-as.data.frame(lo$`N24-325`$MEDICATION)%>%
+  rename_col_by_position(1, drug)
+
+dif131<-anti_join(normal,j02131)
+dif291<-anti_join(normal,l65291)
+dif325<-anti_join(normal,n24325)
+```
