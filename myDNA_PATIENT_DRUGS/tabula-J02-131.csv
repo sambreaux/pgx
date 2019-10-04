@@ -1,0 +1,11 @@
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
+J02-131,Ibuprofen,CYP2C9,"Minor – result should be considered as may affect medicationresponse"
+J02-131,Venlafaxine,CYP2D6,"Minor – result should be considered as may affect medicationresponse"
+J02-131,Quetiapine,CYP3A4,Usual prescribing considerations apply
+J02-131,clonazepam,NA,NO CONSIDERATION
+J02-131, thyroxine,NA,NO CONSIDERATION
+J02-131,valproate,NA,NO CONSIDERATION
+J02-131,spironolactone,NA,NO CONSIDERATION
+J02-131, zopiclone,NA,NO CONSIDERATION
+J02-131, ziprasidone (Zeldox),NA,NO CONSIDERATION
+J02-131, lamotrigine (Lamictal),NA,NO CONSIDERATION
