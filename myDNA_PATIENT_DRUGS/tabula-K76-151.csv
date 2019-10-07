@@ -1,4 +1,9 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-K76-151,Citalopram,CYP2C19,Usual prescribing considerations apply
-K76-151,drospirenone / ethinyloestradiol (Yasmin),NA,NO
-K76-151,levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+K76-151,Citalopram,CYP2C19,Usual prescribing considerations apply,NA
+K76-151,drospirenone / ethinyloestradiol (Yasmin),NA,NO,INHIBITOR MODERATE: CYP1A2
+K76-151,levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO,NA
+K76-151,metformin,NA,NO,NA
+K76-151,hydrochlorothiazide,NA,NO,NA
+K76-151,bupropion,NA,NO,INHIBITOR STRONG: CYP2D6
+K76-151,andesartan,NA,NO,NA
+K76-151,acetazolamide,NA,NO,NA

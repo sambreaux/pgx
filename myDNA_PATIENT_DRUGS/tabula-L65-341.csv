@@ -1,3 +1,3 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-L65-341,Citalopram,CYP2C19,Major – significant result that may require altering this medication
-L65-341,levonorgestrel (Mirena),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+L65-341,Citalopram,CYP2C19,Major – significant result that may require altering this medication,NA
+L65-341,levonorgestrel (Mirena),NA,NO,NA

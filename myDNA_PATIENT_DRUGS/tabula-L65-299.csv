@@ -1,9 +1,9 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-L65-299,Atorvastatin,"CYP3A4SLCO1B1","Minor – result should be considered as may affect medicationresponse"
-L65-299,EscitalopramV (Lexapro),CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-L65-299,Glibenclamide,CYP2C9,"Minor – result should be considered as may affect medicationresponse"
-L65-299,ezetimibe,NA,NO
-L65-299, metformin,NA,NO
-L65-299, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO
-L65-299, valsartan,NA,NO
-L65-299, insulin (Lantus),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+L65-299,Atorvastatin,"CYP3A4SLCO1B1","Minor – result should be considered as may affect medicationresponse",NA
+L65-299,EscitalopramV (Lexapro),CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+L65-299,Glibenclamide,CYP2C9,"Minor – result should be considered as may affect medicationresponse",NA
+L65-299,ezetimibe,NA,NO,NA
+L65-299, metformin,NA,NO,NA
+L65-299, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO,NA
+L65-299, valsartan,NA,NO,NA
+L65-299, insulin (Lantus),NA,NO,NA

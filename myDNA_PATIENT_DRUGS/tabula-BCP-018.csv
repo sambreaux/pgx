@@ -1,4 +1,4 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-BCP-018,Mirtazapine,"CYP1A2CYP2D6","Minor – result should be considered as may affect medicationresponse"
-BCP-018,denosumab (Prolia),NA,NO CONSIDERATION
-BCP-018,calcium carbonate (Andrews TUMS Antacid),NA,NO CONSIDERATION
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+BCP-018,Mirtazapine,"CYP1A2CYP2D6","Minor – result should be considered as may affect medicationresponse",NA
+BCP-018,denosumab (Prolia),NA,NO CONSIDERATION,NA
+BCP-018,calcium carbonate (Andrews TUMS Antacid),NA,NO CONSIDERATION,NA

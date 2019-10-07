@@ -1,4 +1,4 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-K74-057,Escitalopram (Esipram),CYP2C19,Usual prescribing considerations apply
-K74-057,Mirtazapine,"CYP1A2CYP2D6",Usual prescribing considerations apply
-K74-057,lorazepam,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,
+K74-057,Escitalopram (Esipram),CYP2C19,Usual prescribing considerations apply,increaseD the risk of serotonin toxicity WITH MIRTAZAPINE
+K74-057,Mirtazapine,"CYP1A2CYP2D6",Usual prescribing considerations apply,increaseD the risk of serotonin toxicity WITH ESCITALOPRAM
+K74-057,lorazepam,NA,NO,NA

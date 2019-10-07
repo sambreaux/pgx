@@ -1,7 +1,7 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-L65-293,Rabeprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-L65-293,Quetiapine,CYP3A4,Usual prescribing considerations apply
-L65-293,Timolol (component of Azarga),CYP2D6,Usual prescribing considerations apply
-L65-293,fluorometholone,NA,NO
-L65-293, brimonidine,NA,NO
-L65-293, brinzolamide (component of Azarga),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+L65-293,Rabeprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+L65-293,Quetiapine,CYP3A4,Usual prescribing considerations apply,NA
+L65-293,Timolol (component of Azarga),CYP2D6,Usual prescribing considerations apply,NA
+L65-293,fluorometholone,NA,NO,NA
+L65-293, brimonidine,NA,NO,NA
+L65-293, brinzolamide (component of Azarga),NA,NO,NA

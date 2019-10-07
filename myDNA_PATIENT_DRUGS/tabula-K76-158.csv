@@ -1,5 +1,5 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-K76-158,Aripiprazole,CYP2D6,Usual prescribing considerations apply
-K76-158,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply
-K76-158,oxazepam,NA,NO
-K76-158,aspirin,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+K76-158,Aripiprazole,CYP2D6,Usual prescribing considerations apply,NA
+K76-158,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply,NA
+K76-158,oxazepam,NA,NO,NA
+K76-158,aspirin,NA,NO,NA

@@ -1,8 +1,8 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-J02-137,Atorvastatin,"CYP3A4SLCO1B1",Usual prescribing considerations apply
-J02-137,Melatonin,CYP1A2,Usual prescribing considerations apply
-J02-137,Quetiapine,CYP3A4,Usual prescribing considerations apply
-J02-137,spironolactone,NA,NO CONSIDERATION
-J02-137,ranitidine,NA,NO CONSIDERATION
-J02-137,ramipril,NA,NO CONSIDERATION
-J02-137,furosemide (Furosemide Tablets),NA,NO CONSIDERATION
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTIONS
+J02-137,Atorvastatin,"CYP3A4SLCO1B1",Usual prescribing considerations apply,NA
+J02-137,Melatonin,CYP1A2,Usual prescribing considerations apply,NA
+J02-137,Quetiapine,CYP3A4,Usual prescribing considerations apply,NA
+J02-137,spironolactone,NA,NO CONSIDERATION,NA
+J02-137,ranitidine,NA,NO CONSIDERATION,NA
+J02-137,ramipril,NA,NO CONSIDERATION,NA
+J02-137,furosemide (Furosemide Tablets),NA,NO CONSIDERATION,NA

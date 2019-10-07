@@ -1,12 +1,12 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-L65-297,Citalopram,CYP2C19,Major – significant result that may require altering this medication
-L65-297,Metoprolol,CYP2D6,Usual prescribing considerations apply
-L65-297,methotrexate,NA,NO
-L65-297, adalimumab (Humira),NA,NO
-L65-297, trazadone,NA,NO
-L65-297, ramipril,NA,NO
-L65-297, folic acid,NA,NO
-L65-297, cyproterone,NA,NO
-L65-297, amlodipine,NA,NO
-L65-297, estradiol,NA,NO
-L65-297, betamethasone valerate (Betnovate),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+L65-297,Citalopram,CYP2C19,Major – significant result that may require altering this medication,NA
+L65-297,Metoprolol,CYP2D6,Usual prescribing considerations apply,NA
+L65-297,methotrexate,NA,NO,NA
+L65-297, adalimumab (Humira),NA,NO,NA
+L65-297, trazadone,NA,NO,NA
+L65-297, ramipril,NA,NO,NA
+L65-297, folic acid,NA,NO,NA
+L65-297, cyproterone,NA,NO,NA
+L65-297, amlodipine,NA,NO,NA
+L65-297, estradiol,NA,NO,NA
+L65-297, betamethasone valerate (Betnovate),NA,NO,NA

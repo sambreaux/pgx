@@ -1,2 +1,2 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-K76-152,Escitalopram (Lexapro),CYP2C19,Major – significant result that may require altering this medication
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+K76-152,Escitalopram (Lexapro),CYP2C19,Major – significant result that may require altering this medication,NA

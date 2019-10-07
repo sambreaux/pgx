@@ -1,15 +1,15 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-K76-160,Tramadol,CYP2D6,Major – significant result that may require altering this medication
-K76-160,Pantoprazole (Tecta),CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-K76-160,Vortioxetine (Brintellix),CYP2D6,"Minor – result should be considered as may affect medicationresponse"
-K76-160,Gliclazide (Diamicron 60Mg MR),"CYP2C19CYP2C9",Usual prescribing considerations apply
-K76-160,Irbesartan,CYP2C9,Usual prescribing considerations apply
-K76-160,salbutamol,NA,NO
-K76-160, insulin (Hypurin Isophane (NPH)),NA,NO
-K76-160, furosemide (Furosemide Tablets),NA,NO
-K76-160, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO
-K76-160, aspirin,NA,NO
-K76-160, folic acid,NA,NO
-K76-160, insulin / insulin (Humalog),NA,NO
-K76-160, pancreatic extract bp (Creon),NA,NO
-K76-160, lorazepam (Ativan),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,
+K76-160,Tramadol,CYP2D6,Major – significant result that may require altering this medication,increaseD risk of serotonin toxicity WITH VORTIOXETINE
+K76-160,Pantoprazole (Tecta),CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+K76-160,Vortioxetine (Brintellix),CYP2D6,"Minor – result should be considered as may affect medicationresponse",increaseD risk of serotonin toxicity WITH TRAMADOL
+K76-160,Gliclazide (Diamicron 60Mg MR),"CYP2C19CYP2C9",Usual prescribing considerations apply,NA
+K76-160,Irbesartan,CYP2C9,Usual prescribing considerations apply,NA
+K76-160,salbutamol,NA,NO,NA
+K76-160, insulin (Hypurin Isophane (NPH)),NA,NO,NA
+K76-160, furosemide (Furosemide Tablets),NA,NO,NA
+K76-160, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO,NA
+K76-160, aspirin,NA,NO,NA
+K76-160, folic acid,NA,NO,NA
+K76-160, insulin / insulin (Humalog),NA,NO,NA
+K76-160, pancreatic extract bp (Creon),NA,NO,NA
+K76-160, lorazepam (Ativan),NA,NO,NA

@@ -1,14 +1,14 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-L65-296,Oxycodone,CYP2D6,"Minor – result should be considered as may affect medicationresponse"
-L65-296,Pantoprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-L65-296,Escitalopram (Lexapro),CYP2C19,Usual prescribing considerations apply
-L65-296,Melatonin,CYP1A2,Usual prescribing considerations apply
-L65-296,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply
-L65-296,Tacrolimus,CYP3A5,Usual prescribing considerations apply
-L65-296,azithromycin,NA,NO
-L65-296, amoxicillin,NA,NO
-L65-296, mycophenolate,NA,NO
-L65-296, prednisone,NA,NO
-L65-296, trazadone,NA,NO
-L65-296, amlodipine,NA,NO
-L65-296, gabapentin,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+L65-296,Oxycodone,CYP2D6,"Minor – result should be considered as may affect medicationresponse",NA
+L65-296,Pantoprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+L65-296,Escitalopram (Lexapro),CYP2C19,Usual prescribing considerations apply,NA
+L65-296,Melatonin,CYP1A2,Usual prescribing considerations apply,NA
+L65-296,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply,NA
+L65-296,Tacrolimus,CYP3A5,Usual prescribing considerations apply,NA
+L65-296,azithromycin,NA,NO,NA
+L65-296, amoxicillin,NA,NO,NA
+L65-296, mycophenolate,NA,NO,NA
+L65-296, prednisone,NA,NO,NA
+L65-296, trazadone,NA,NO,NA
+L65-296, amlodipine,NA,NO,NA
+L65-296, gabapentin,NA,NO,NA

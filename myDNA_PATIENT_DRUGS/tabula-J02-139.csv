@@ -1,14 +1,14 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-J02-139,Amitriptyline (Endep),"CYP2C19CYP2D6",Major – significant result that may require altering this medication
-J02-139,Escitalopram (Esipram),CYP2C19,Major – significant result that may require altering this medication
-J02-139,Clopidogrel,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-J02-139,Pantoprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-J02-139,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply
-J02-139,amlodipine,NA,NO CONSIDERATION
-J02-139,thyroxine,NA,NO CONSIDERATION
-J02-139,gabapentin,NA,NO CONSIDERATION
-J02-139,trazadone,NA,NO CONSIDERATION
-J02-139,alprazolam,NA,NO CONSIDERATION
-J02-139,metformin (Metformin),NA,NO CONSIDERATION
-J02-139,topiramate,NA,NO CONSIDERATION
-J02-139, ramipril,NA,NO CONSIDERATION
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+J02-139,Amitriptyline (Endep),"CYP2C19CYP2D6",Major – significant result that may require altering this medication,INCREASED RISK OF SEROTONIN TOXICITY WITH ESCIALOPRAM
+J02-139,Escitalopram (Esipram),CYP2C19,Major – significant result that may require altering this medication,INCREASED RISK OF SEROTONIN TOXICITY WITH AMITRIPTYLINE
+J02-139,Clopidogrel,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+J02-139,Pantoprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+J02-139,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply,NA
+J02-139,amlodipine,NA,NO CONSIDERATION,NA
+J02-139,thyroxine,NA,NO CONSIDERATION,NA
+J02-139,gabapentin,NA,NO CONSIDERATION,NA
+J02-139,trazadone,NA,NO CONSIDERATION,NA
+J02-139,alprazolam,NA,NO CONSIDERATION,NA
+J02-139,metformin (Metformin),NA,NO CONSIDERATION,NA
+J02-139,topiramate,NA,NO CONSIDERATION,NA
+J02-139, ramipril,NA,NO CONSIDERATION,NA

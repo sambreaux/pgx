@@ -1,4 +1,4 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-J02-134,Escitalopram (Esipram),CYP2C19,Major – significant result that may require altering this medication
-J02-134,Quetiapine,CYP3A4,Usual prescribing considerations apply
-J02-134,telmisartan,NA,NO CONSIDERATION
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION 
+J02-134,Escitalopram (Esipram),CYP2C19,Major – significant result that may require altering this medication,NA
+J02-134,Quetiapine,CYP3A4,Usual prescribing considerations apply,NA
+J02-134,telmisartan,NA,NO CONSIDERATION,NA

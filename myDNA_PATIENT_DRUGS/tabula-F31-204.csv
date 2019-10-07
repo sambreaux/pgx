@@ -1,5 +1,5 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-F31-204,Escitalopram (Lexapro),CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-F31-204,Fluoxetine,"CYP2C9CYP2D6",Usual prescribing considerations apply
-F31-204,Ibuprofen,CYP2C9,Usual prescribing considerations apply
-F31-204,ramipril,NA,NO CONSIDERATION
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+F31-204,Escitalopram (Lexapro),CYP2C19,"Minor – result should be considered as may affect medicationresponse",INCREASED RISK OF SEROTONIN TOXICITY WITH FLUOXETINE
+F31-204,Fluoxetine,"CYP2C9CYP2D6",Usual prescribing considerations apply,"INHIBITOR MODERATE: CYP2C19, INHIBITOR STRONG: CYP2D6"
+F31-204,Ibuprofen,CYP2C9,Usual prescribing considerations apply,NA
+F31-204,ramipril,NA,NO CONSIDERATION,NA

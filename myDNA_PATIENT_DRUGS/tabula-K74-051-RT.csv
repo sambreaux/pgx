@@ -1,4 +1,4 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-K74-051-RT,Pantoprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-K74-051-RT,Quetiapine,CYP3A4,Usual prescribing considerations apply
-K74-051-RT,lorazepam,NA,NO CONSIDERATION
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+K74-051-RT,Pantoprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+K74-051-RT,Quetiapine,CYP3A4,Usual prescribing considerations apply,NA
+K74-051-RT,lorazepam,NA,NO CONSIDERATION,NA

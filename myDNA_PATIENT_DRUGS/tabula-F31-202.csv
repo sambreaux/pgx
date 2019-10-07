@@ -1,10 +1,10 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-F31-202,Citalopram,CYP2C19,Major – significant result that may require altering this medication
-F31-202,Clopidogrel,CYP2C19,Major – significant result that may require altering this medication
-F31-202,Rabeprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-F31-202,Metoprolol,CYP2D6,Usual prescribing considerations apply
-F31-202,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply
-F31-202,tadalafil (Cialis),NA,NO CONSIDERATION
-F31-202,ramipril,NA,NO CONSIDERATION
-F31-202,nifedipine (Adalat),NA,NO CONSIDERATION
-F31-202,travoprost (Sandoz Travoprost / Timolol Pq),NA,NO CONSIDERATION
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+F31-202,Citalopram,CYP2C19,Major – significant result that may require altering this medication,NA
+F31-202,Clopidogrel,CYP2C19,Major – significant result that may require altering this medication,NA
+F31-202,Rabeprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+F31-202,Metoprolol,CYP2D6,Usual prescribing considerations apply,NA
+F31-202,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply,NA
+F31-202,tadalafil (Cialis),NA,NO CONSIDERATION,NA
+F31-202,ramipril,NA,NO CONSIDERATION,NA
+F31-202,nifedipine (Adalat),NA,NO CONSIDERATION,NA
+F31-202,travoprost (Sandoz Travoprost / Timolol Pq),NA,NO CONSIDERATION,NA
