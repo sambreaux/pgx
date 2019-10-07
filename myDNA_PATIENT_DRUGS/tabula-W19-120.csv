@@ -1,113 +1,10 @@
-CURRENT MEDICATIONS OVERVIEW,,
-MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-"Citalopram",CYP2C19,Major – significant result that may require altering this medication
-"Metoprolol",CYP2D6,Major – significant result that may require altering this medication
-"Clopidogrel",CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-"Pantoprazole",CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-"Losartan",CYP2C9,Usual prescribing considerations apply
-"Rosuvastatin",SLCO1B1,Usual prescribing considerations apply
-MEDICATIONS THAT DO NOT HAVE PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,,
-"hydrochlorothiazide, aspirin (Aspro), allopurinol, zopiclone",,
-MEDICATIONS WITH MAJOR PRESCRIBING CONSIDERATIONS,,,,
-DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
-Antiarrhythmics,Flecainide,CYP2D6,Adverse effects,DPWG2
-"",Propafenone,CYP2D6,Adverse effects,DPWG2
-Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
-"",Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA4
-"Antidepressants -SSRIs",Citalopram,CYP2C19,Reduced / inadequate response,CPIC1
-"",Escitalopram,CYP2C19,Reduced / inadequate response,CPIC1
-"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Altered response,CPIC5
-"",Clomipramine,"CYP2D6CYP2C19",Altered response,CPIC5
-"",Doxepin,"CYP2D6CYP2C19",Altered response,CPIC5
-"",Imipramine,"CYP2D6CYP2C19",Altered response,CPIC5
-Antifungals - Azoles,Voriconazole,CYP2C19,Reduced / inadequate response,CPIC6
-Beta blockers,Metoprolol,CYP2D6,Adverse effects,DPWG2
-"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,Reduced / inadequate response,CPIC7
-Opioid Analgesics,Tramadol,CYP2D6,Reduced / inadequate response,DPWG2
-MEDICATIONS WITH MINOR PRESCRIBING CONSIDERATIONS,,,,
-DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
-"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,Adverse effects,-
-"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,Adverse effects,-
-"",Fesoterodine,CYP2D6,Adverse effects,-
-"",Tolterodine,CYP2D6,Adverse effects,-
-Anticholinesterases,Donepezil,CYP2D6,Adverse effects,-
-"",Galantamine,CYP2D6,Adverse effects,-
-"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Altered response,-
-"",Moclobemide,CYP2C19,Reduced / inadequate response,-
-"",Vortioxetine,CYP2D6,Adverse effects,-
-"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Altered response,-
-"",Venlafaxine,CYP2D6,Adverse effects,DPWG2
-"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9",Altered response,-
-Fluvoxamine,"CYP2D6CYP1A2",Adverse effects,CPIC1,
-MEDICATIONS WITH MINOR PRESCRIBING CONSIDERATIONS,,,,
-DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
-"",Paroxetine,CYP2D6,Adverse effects,CPIC1
-"",Sertraline,CYP2C19,Reduced / inadequate response,CPIC1
-"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,Adverse effects,CPIC5
-"",Nortriptyline,CYP2D6,Adverse effects,CPIC5
-Antidiabetics,Gliclazide,"CYP2C9CYP2C19",Reduced / inadequate response,-
-Antiemetics,Metoclopramide,CYP2D6,Adverse effects,-
-"",Ondansetron,CYP2D6,"Increased therapeutic and/oradverse effects",CPIC8
-Antihistamines,Chlorpheniramine,CYP2D6,Adverse effects,-
-"",Dexchlorpheniramine,CYP2D6,Adverse effects,-
-"",Promethazine,CYP2D6,Adverse effects,-
-Antiplatelet drugs,Clopidogrel,CYP2C19,Adverse effects,CPIC3
-Antipsychotics,Aripiprazole,CYP2D6,Adverse effects,-
-"",Brexpiprazole,CYP2D6,Adverse effects,-
-"",Chlorpromazine,CYP2D6,Adverse effects,-
-"",Clozapine,CYP1A2,Reduced / inadequate response,-
-"",Haloperidol,CYP2D6,Adverse effects,-
-"",Olanzapine,CYP1A2,Reduced / inadequate response,-
-"",Pimozide,CYP2D6,Adverse effects,
-"",Risperidone,CYP2D6,Adverse effects,DPWG2
-"",Zuclopenthixol,CYP2D6,Adverse effects,DPWG2
-Antitussives,Dextromethorphan,CYP2D6,Adverse effects,-
-Benzodiazepines,Clobazam,CYP2C19,Reduced / inadequate response,-
-"",Diazepam,CYP2C19,Reduced / inadequate response,-
-Beta blockers,Carvedilol,CYP2D6,Adverse effects,-
-"",Nebivolol,CYP2D6,Adverse effects,-
-"",Propranolol,"CYP2D6CYP1A2",Altered response,-
-"Glaucoma - ocularpreparations",Timolol,CYP2D6,Adverse effects,-
-Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
-Miscellaneous,Cyclophosphamide,CYP2C19,"Increased therapeutic and/oradverse effects",-
-"",Eliglustat,CYP2D6,Adverse effects,TGA9
-"",Naltrexone,OPRM1,"Associated with reducedresponse to naltrexone",
-"",Proguanil,CYP2C19,Altered response,-
-Neurological drugs,Tetrabenazine,CYP2D6,Adverse effects,FDA10
-Opioid Analgesics,Codeine,"CYP2D6OPRM1",Reduced / inadequate response,CPIC11
-"",Morphine,OPRM1,"Associated with increasedtherapeutic and/or adverseeffects to morphine",-
-"",Oxycodone,CYP2D6,Reduced / inadequate response,DPWG2
-"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
-"",Esomeprazole,CYP2C19,Reduced / inadequate response,-
-"",Lansoprazole,CYP2C19,Reduced / inadequate response,-
-"",Omeprazole,CYP2C19,Reduced / inadequate response,-
-"",Pantoprazole,CYP2C19,Reduced / inadequate response,-
-"",Rabeprazole,CYP2C19,Reduced / inadequate response,-
-Psychostimulants,Dextroamphetamine,CYP2D6,Adverse effects,-
-MEDICATIONS WITH MINOR PRESCRIBING CONSIDERATIONS,,,,
-DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
-"",Lisdexamfetamine,CYP2D6,Adverse effects,-
-MEDICATIONS WITH USUAL PRESCRIBING CONSIDERATIONS,,,,
-DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
-"Angiotensin receptorblockers",Irbesartan,CYP2C9,"No altered effect predicted bygenotype",-
-"",Losartan,CYP2C9,"No altered effect predicted bygenotype",-
-Antidiabetics,Glimepiride,CYP2C9,"No altered effect predicted bygenotype",-
-"",Glyburide,CYP2C9,"No altered effect predicted bygenotype",-
-Antiepileptics,Phenytoin,CYP2C9,"No altered effect predicted bygenotype",CPIC12
-Antipsychotics,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
-Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC13
-Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
-NSAIDs,Celecoxib,CYP2C9,"No altered effect predicted bygenotype",-
-"",Diclofenac,CYP2C9,"No altered effect predicted bygenotype",-
-"",Flurbiprofen,CYP2C9,"No altered effect predicted bygenotype",-
-"",Ibuprofen,CYP2C9,"No altered effect predicted bygenotype",-
-"",Indomethacin,CYP2C9,"No altered effect predicted bygenotype",-
-"",Mefenamic Acid,CYP2C9,"No altered effect predicted bygenotype",-
-"",Meloxicam,CYP2C9,"No altered effect predicted bygenotype",-
-"",Piroxicam,CYP2C9,"No altered effect predicted bygenotype",-
-Opioid Analgesics,Hydrocodone,CYP2D6,Altered response,
-Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
-Fluvastatin,"SLCO1B1CYP2C9","No altered effect predicted bygenotype",-,
-Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-,
-Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-,
-Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC14,
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
+W19-120,Citalopram,CYP2C19,Major – significant result that may require altering this medication
+W19-120,Metoprolol,CYP2D6,Major – significant result that may require altering this medication
+W19-120,Clopidogrel,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
+W19-120,Pantoprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
+W19-120,Losartan,CYP2C9,Usual prescribing considerations apply
+W19-120,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply
+W19-120,"hydrochlorothiazide, aspirin (Aspro)",NA,NO
+W19-120,allopurinol,NA,NO
+W19-120, zopiclone,NA,NO
