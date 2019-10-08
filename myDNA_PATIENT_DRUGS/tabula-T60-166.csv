@@ -1,6 +1,6 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-T60-166,Mirtazapine,"CYP1A2CYP2D6",Usual prescribing considerations apply
-T60-166,golimumab (Simponi prefilled syringe prefilled syringe),NA,NO
-T60-166, clonazepam,NA,NO
-T60-166, salbutamol (Ventolin),NA,NO
-T60-166, dimenhydrinate (Anti-Nauseant),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+T60-166,Mirtazapine,"CYP1A2CYP2D6",Usual prescribing considerations apply,NA
+T60-166,golimumab (Simponi prefilled syringe prefilled syringe),NA,NO,NA
+T60-166, clonazepam,NA,NO,NA
+T60-166, salbutamol (Ventolin),NA,NO,NA
+T60-166, dimenhydrinate (Anti-Nauseant),NA,NO,NA

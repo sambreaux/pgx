@@ -1,7 +1,7 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N24-006,Amitriptyline (Endep),"CYP2C19CYP2D6",Major – significant result that may require altering this medication
-N24-006,Gliclazide,"CYP2C19CYP2C9","Minor – result should be considered as may affect medicationresponse"
-N24-006,insulin (Humulin),NA,NO
-N24-006, metformin,NA,NO
-N24-006, ramipril,NA,NO
-N24-006, rituximab,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N24-006,Amitriptyline (Endep),"CYP2C19CYP2D6",Major – significant result that may require altering this medication,NA
+N24-006,Gliclazide,"CYP2C19CYP2C9","Minor – result should be considered as may affect medicationresponse",NA
+N24-006,insulin (Humulin),NA,NO,NA
+N24-006, metformin,NA,NO,NA
+N24-006, ramipril,NA,NO,NA
+N24-006, rituximab,NA,NO,NA

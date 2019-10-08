@@ -1,7 +1,7 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-S94-281,Citalopram,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-S94-281,Mirtazapine,"CYP1A2CYP2D6","Minor – result should be considered as may affect medicationresponse"
-S94-281,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply
-S94-281,clonazepam,NA,NO
-S94-281,candesartan (Candesartan),NA,NO
-S94-281,acetaminophen,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+S94-281,Citalopram,CYP2C19,"Minor – result should be considered as may affect medicationresponse",INCREASED RISK OF SEROTONIN TOXICITY WITH MIRTAZAPINE
+S94-281,Mirtazapine,"CYP1A2CYP2D6","Minor – result should be considered as may affect medicationresponse",INCREASED RISK OF SEROTONIN TOXICITY WITH CITALOPRAM
+S94-281,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply,NA
+S94-281,clonazepam,NA,NO,NA
+S94-281,candesartan (Candesartan),NA,NO,NA
+S94-281,acetaminophen,NA,NO,NA

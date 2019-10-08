@@ -1,6 +1,6 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N24-330,Citalopram,CYP2C19,Major – significant result that may require altering this medication
-N24-330,Tacrolimus,CYP3A5,Usual prescribing considerations apply
-N24-330,testosterone,NA,NO
-N24-330,progesterone,NA,NO
-N24-330,hydrocortisone,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N24-330,Citalopram,CYP2C19,Major – significant result that may require altering this medication,NA
+N24-330,Tacrolimus,CYP3A5,Usual prescribing considerations apply,NA
+N24-330,testosterone,NA,NO,NA
+N24-330,progesterone,NA,NO,NA
+N24-330,hydrocortisone,NA,NO,NA

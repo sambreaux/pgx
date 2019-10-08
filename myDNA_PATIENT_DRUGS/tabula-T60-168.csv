@@ -1,11 +1,11 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-T60-168,Nortriptyline,CYP2D6,"Minor – result should be considered as may affect medicationresponse"
-T60-168,Propranolol,"CYP1A2CYP2D6","Minor – result should be considered as may affect medicationresponse"
-T60-168,Sertraline,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-T60-168,Codeine (component of Acetaminophen-Caffeine-Codeine),"CYP2D6OPRM1",Usual prescribing considerations apply
-T60-168,trazadone,NA,NO
-T60-168, valaciclovir,NA,NO
-T60-168, prednisone,NA,NO
-T60-168, mycophenolate,NA,NO
-T60-168, acetaminophen (component of Acetaminophen-Caffeine-Codeine),NA,NO
-T60-168, caffeine (component of Acetaminophen-Caffeine-Codeine),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+T60-168,Nortriptyline,CYP2D6,"Minor – result should be considered as may affect medicationresponse",INCREASED RISK OF SEROTONIN TOXICITY WITH SERTRALINE
+T60-168,Propranolol,"CYP1A2CYP2D6","Minor – result should be considered as may affect medicationresponse",NA
+T60-168,Sertraline,CYP2C19,"Minor – result should be considered as may affect medicationresponse",INCREASED RISK OF SEROTONIN TOXICITY WITH NORTRIPTYLINE
+T60-168,Codeine (component of Acetaminophen-Caffeine-Codeine),"CYP2D6OPRM1",Usual prescribing considerations apply,NA
+T60-168,trazadone,NA,NO,NA
+T60-168, valaciclovir,NA,NO,NA
+T60-168, prednisone,NA,NO,NA
+T60-168, mycophenolate,NA,NO,NA
+T60-168, acetaminophen (component of Acetaminophen-Caffeine-Codeine),NA,NO,NA
+T60-168, caffeine (component of Acetaminophen-Caffeine-Codeine),NA,NO,NA

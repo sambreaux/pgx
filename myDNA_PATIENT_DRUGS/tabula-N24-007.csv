@@ -1,9 +1,9 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N24-007,Pantoprazole (Tecta),CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-N24-007,Venlafaxine,CYP2D6,"Minor – result should be considered as may affect medicationresponse"
-N24-007,Quetiapine,CYP3A4,Usual prescribing considerations apply
-N24-007,clonidine,NA,NO
-N24-007, lamotrigine,NA,NO
-N24-007, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO
-N24-007, hydrochlorothiazide,NA,NO
-N24-007, buspirone,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N24-007,Pantoprazole (Tecta),CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+N24-007,Venlafaxine,CYP2D6,"Minor – result should be considered as may affect medicationresponse",INCREASED RISK OF SEROTONIN TOXICITY WITH BUSPIRONE
+N24-007,Quetiapine,CYP3A4,Usual prescribing considerations apply,NA
+N24-007,clonidine,NA,NO,NA
+N24-007, lamotrigine,NA,NO,NA
+N24-007, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO,NA
+N24-007, hydrochlorothiazide,NA,NO,NA
+N24-007, buspirone,NA,NO,INCREASED RISK OF SEROTONIN TOXICITY WITH VENLAFAXINE

@@ -1,13 +1,13 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-X73-141,Rabeprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-X73-141,Amitriptyline (Endep),"CYP2C19CYP2D6",Usual prescribing considerations apply
-X73-141,Metoprolol,CYP2D6,Usual prescribing considerations apply
-X73-141,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply
-X73-141,ramipril,NA,NO
-X73-141, temazepam,NA,NO
-X73-141, nifedipine (Adalat),NA,NO
-X73-141, ipratropium (Atrovent),NA,NO
-X73-141, salbutamol,NA,NO
-X73-141, calcium carbonate (Andrews TUMS Antacid),NA,NO
-X73-141, naproxen,NA,NO
-X73-141, acetaminophen,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+X73-141,Rabeprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+X73-141,Amitriptyline (Endep),"CYP2C19CYP2D6",Usual prescribing considerations apply,NA
+X73-141,Metoprolol,CYP2D6,Usual prescribing considerations apply,NA
+X73-141,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply,NA
+X73-141,ramipril,NA,NO,NA
+X73-141, temazepam,NA,NO,NA
+X73-141, nifedipine (Adalat),NA,NO,NA
+X73-141, ipratropium (Atrovent),NA,NO,NA
+X73-141, salbutamol,NA,NO,NA
+X73-141, calcium carbonate (Andrews TUMS Antacid),NA,NO,NA
+X73-141, naproxen,NA,NO,NA
+X73-141, acetaminophen,NA,NO,NA

@@ -1,4 +1,4 @@
-"","GENE","GENOTYPE","kailos_call","population.level","phenotype","Freq","myDNA_call_freq_percent","kailos_Genotype_Freqency","kailos_Genotype_Freqency_%"
+"","GENE","GENOTYPE","kailos_call","population.level","phenotype","myDNA_call_freq","myDNA_call_freq_percent","kailos_Genotype_Freqency","kailos_Genotype_Freqency_%"
 "1","CYP1A2","*1A/*1A","rs762551:C/C Wild","10.80%","Normal metaboliser"," 12"," 8.00"," 1","  2.7"
 "2","CYP1A2","*1A/*1F","rs762551:C/A Het","44.20%","Normal metaboliser"," 69","46.00","22"," 59.5"
 "3","CYP1A2","*1F/*1F","rs762551:A/A Hom","45%","Rapid metaboliser"," 69","46.00","14"," 37.8"

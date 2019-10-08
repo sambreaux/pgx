@@ -1,8 +1,7 @@
-CURRENT MEDICATIONS OVERVIEW,,
-MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-Amitriptyline (Endep),"CYP2C19CYP2D6",Major – significant result that may require altering this medication
-domperidone,NA,NO
- oestradiol (Vagifem disposable applicator),NA,NO
- calcium carbonate / potassium bicarbonate / sodium alginate (Gaviscon Double Strength),NA,NO
- acetaminophen,NA,NO
- gabapentin,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+T37-068,Amitriptyline (Endep),"CYP2C19CYP2D6",Major – significant result that may require altering this medication,NA
+T37-068,domperidone,NA,NO,NA
+T37-068, oestradiol (Vagifem disposable applicator),NA,NO,NA
+T37-068, calcium carbonate / potassium bicarbonate / sodium alginate (Gaviscon Double Strength),NA,NO,NA
+T37-068, acetaminophen,NA,NO,NA
+T37-068, gabapentin,NA,NO,NA

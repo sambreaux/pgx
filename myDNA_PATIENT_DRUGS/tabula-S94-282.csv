@@ -1,4 +1,4 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-S94-282,Ibuprofen,CYP2C9,"Minor – result should be considered as may affect medicationresponse"
-S94-282,Citalopram,CYP2C19,Usual prescribing considerations apply
-S94-282,cephalexin,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+S94-282,Ibuprofen,CYP2C9,"Minor – result should be considered as may affect medicationresponse",NA
+S94-282,Citalopram,CYP2C19,Usual prescribing considerations apply,NA
+S94-282,cephalexin,NA,NO,NA

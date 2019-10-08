@@ -1,9 +1,9 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,,
-T60-162,Escitalopram (Lexapro),CYP2C19,Major – significant result that may require altering this medication,,
-T60-162,Melatonin,CYP1A2,Usual prescribing considerations apply,,
-T60-162,anastrozole,NA,NO,,
-T60-162, finasteride,NA,NO,,
-T60-162, minoxidil,NA,NO,,
-T60-162, thyroxine,NA,NO,,                                                                                                                                                                                                                                                                              V
-T60-162, testosterone,NA,NO,,
-T60-162, trazadone,NA,NO,,
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION,
+T60-162,Escitalopram (Lexapro),CYP2C19,Major – significant result that may require altering this medication,NA,
+T60-162,Melatonin,CYP1A2,Usual prescribing considerations apply,NA,
+T60-162,anastrozole,NA,NO,NA,
+T60-162, finasteride,NA,NO,NA,
+T60-162, minoxidil,NA,NO,NA,
+T60-162, thyroxine,NA,NO,NA,                                                                                                                                                                                                                                                                              V
+T60-162, testosterone,NA,NO,NA,
+T60-162, trazadone,NA,NO,NA,

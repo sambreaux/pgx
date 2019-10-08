@@ -1,7 +1,7 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N43-039,Quetiapine,CYP3A4,"Minor – result should be considered as may affect medicationresponse"
-N43-039,Oxycodone (component of Nu-Oxycodone/Acet),CYP2D6,Usual prescribing considerations apply
-N43-039,sumatriptan,NA,NO
-N43-039, naproxen,NA,NO
-N43-039, drospirenone / ethinyloestradiol (Yaz),NA,NO
-N43-039, acetaminophen (component of Nu-Oxycodone/Acet),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N43-039,Quetiapine,CYP3A4,"Minor – result should be considered as may affect medicationresponse",NA
+N43-039,Oxycodone (component of Nu-Oxycodone/Acet),CYP2D6,Usual prescribing considerations apply,NA
+N43-039,sumatriptan,NA,NO,NA
+N43-039, naproxen,NA,NO,NA
+N43-039, drospirenone / ethinyloestradiol (Yaz),NA,NO,INHIBITOR MODERATE: CYP1A2
+N43-039, acetaminophen (component of Nu-Oxycodone/Acet),NA,NO,NA

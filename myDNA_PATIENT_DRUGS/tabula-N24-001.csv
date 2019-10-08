@@ -1,9 +1,9 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N24-001,Lansoprazole,CYP2C19,Major – significant result that may require altering this medication
-N24-001,Mirtazapine,"CYP1A2CYP2D6","Minor – result should be considered as may affect medicationresponse"
-N24-001,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply
-N24-001,tamsulosin,NA,NO
-N24-001, carbidopa / entacapone / levodopa (Stalevo),NA,NO
-N24-001, dutasteride / tamsulosin (Duodart),NA,NO
-N24-001, desvenlafaxine (Pristiq),NA,NO
-N24-001, bisoprolol (Bicor),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N24-001,Lansoprazole,CYP2C19,Major – significant result that may require altering this medication,NA
+N24-001,Mirtazapine,"CYP1A2CYP2D6","Minor – result should be considered as may affect medicationresponse",INCREASED RISK OF SEROTONIN TOXICITY WITH DESVENLAFAXINE
+N24-001,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply,NA
+N24-001,tamsulosin,NA,NO,NA
+N24-001, carbidopa / entacapone / levodopa (Stalevo),NA,NO,NA
+N24-001, dutasteride / tamsulosin (Duodart),NA,NO,NA
+N24-001, desvenlafaxine (Pristiq),NA,NO,INCREASED RISK OF SEROTONIN TOXICITY WITH MIRTAZAPINE
+N24-001, bisoprolol (Bicor),NA,NO,NA

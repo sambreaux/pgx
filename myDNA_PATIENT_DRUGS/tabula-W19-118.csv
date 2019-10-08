@@ -1,11 +1,11 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-W19-118,Citalopram,CYP2C19,Major – significant result that may require altering this medication
-W19-118,Meloxicam,CYP2C9,Usual prescribing considerations apply
-W19-118,ketorolac trometamol,NA,NO
-W19-118, meperidine hydrochloride (Demerol),NA,NO
-W19-118, topiramate,NA,NO
-W19-118, dimenhydrinate (Anti-Nauseant),NA,NO
-W19-118, bupropion,NA,NO
-W19-118, folic acid,NA,NO
-W19-118, methotrexate,NA,NO
-W19-118, sulfasalazine (Salazopyrin EN-tabs),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+W19-118,Citalopram,CYP2C19,Major – significant result that may require altering this medication,NA
+W19-118,Meloxicam,CYP2C9,Usual prescribing considerations apply,NA
+W19-118,ketorolac trometamol,NA,NO,NA
+W19-118, meperidine hydrochloride (Demerol),NA,NO,NA
+W19-118, topiramate,NA,NO,NA
+W19-118, dimenhydrinate (Anti-Nauseant),NA,NO,NA
+W19-118, bupropion,NA,NO,INHIBITOR STRONG: CYP2D6
+W19-118, folic acid,NA,NO,NA
+W19-118, methotrexate,NA,NO,NA
+W19-118, sulfasalazine (Salazopyrin EN-tabs),NA,NO,NA

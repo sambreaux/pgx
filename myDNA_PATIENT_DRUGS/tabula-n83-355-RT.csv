@@ -1,9 +1,9 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N83-355-RT,Imipramine,"CYP2C19CYP2D6",Major – significant result that may require altering this medication
-N83-355-RT,Atorvastatin,"CYP3A4SLCO1B1",Usual prescribing considerations apply
-N83-355-RT,Mirtazapine,"CYP1A2CYP2D6",Usual prescribing considerations apply
-N83-355-RT,"trimipramine,",NA,NO
-N83-355-RT,"thyroxine,",NA,NO
-N83-355-RT,"lorazepam,",NA,NO
-N83-355-RT,"bisoprolol,",NA,NO
-N83-355-RT,amlodipine,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N83-355-RT,Imipramine,"CYP2C19CYP2D6",Major – significant result that may require altering this medication,INCREASED RISK OF SEROTONIN TOXICITY WITH MIRTAZAPINE AND TRIMIPRAMINE
+N83-355-RT,Atorvastatin,"CYP3A4SLCO1B1",Usual prescribing considerations apply,NA
+N83-355-RT,Mirtazapine,"CYP1A2CYP2D6",Usual prescribing considerations apply,INCREASED RISK OF SEROTONIN TOXICITY WITH IMIPRAMINE AND TRIMIPRAMINE
+N83-355-RT,"trimipramine,",NA,NO,INCREASED RISK OF SEROTONIN TOXICITY WITH MIRTAZAPINE AND IMIPRAMINE
+N83-355-RT,"thyroxine,",NA,NO,NA
+N83-355-RT,"lorazepam,",NA,NO,NA
+N83-355-RT,"bisoprolol,",NA,NO,NA
+N83-355-RT,amlodipine,NA,NO,NA

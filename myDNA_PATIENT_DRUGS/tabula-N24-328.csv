@@ -1,6 +1,5 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N24-328,Dextroamphetamine (component of Apo-Amphetamine Xr),CYP2D6,Usual prescribing considerations apply
-N24-328,Dextroamphetamine (component of Apo-Amphetamine Xr),CYP2D6,Usual prescribing considerations apply
-N24-328,Fluoxetine,"CYP2C9CYP2D6",Usual prescribing considerations apply
-N24-328,ethinyloestradiol / norethisterone (Brevinor),NA,NO
-N24-328,amphetamine (component of Apo-Amphetamine Xr),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N24-328,Dextroamphetamine (component of Apo-Amphetamine Xr),CYP2D6,Usual prescribing considerations apply,INCREASED RISK OF SEROTONIN TOXICITY WITH AMPHETAMINE AND FLUOXETINE
+N24-328,Fluoxetine,"CYP2C9CYP2D6",Usual prescribing considerations apply,"INCREASED RISK OF SEROTONIN TOXICITY WITH AMPHETAMINE AND DEXTROAMPHETAMINE, INHIBITOR MODERATE: CYP2C19, INHIBITOR STRONG: CYP2D6"
+N24-328,ethinyloestradiol / norethisterone (Brevinor),NA,NO,INHIBITOR MODERATE: CYP1A2
+N24-328,amphetamine (component of Apo-Amphetamine Xr),NA,NO,INCREASED RISK OF SEROTONIN TOXICITY WITH DEXTROAMPHETAMINE AND FLUOXETINE

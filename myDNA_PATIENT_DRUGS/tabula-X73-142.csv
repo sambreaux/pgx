@@ -1,5 +1,5 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-X73-142,Amitriptyline (Endep),"CYP2C19CYP2D6",Major – significant result that may require altering this medication
-X73-142,ranitidine,NA,NO
-X73-142, cyclosporin,NA,NO
-X73-142, calcium carbonate (Andrews TUMS Antacid),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+X73-142,Amitriptyline (Endep),"CYP2C19CYP2D6",Major – significant result that may require altering this medication,NA
+X73-142,ranitidine,NA,NO,NA
+X73-142, cyclosporin,NA,NO,INHIBITOR MODERATE: CYP3A
+X73-142, calcium carbonate (Andrews TUMS Antacid),NA,NO,NA

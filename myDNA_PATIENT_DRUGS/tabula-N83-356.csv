@@ -1,2 +1,2 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N83-356,Citalopram,CYP2C19,Major – significant result that may require altering this medication
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTEACTION 
+N83-356,Citalopram,CYP2C19,Major – significant result that may require altering this medication,NA

@@ -1,7 +1,7 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-T37-063,Diclofenac (Voltaren),CYP2C9,Usual prescribing considerations apply
-T37-063,Escitalopram (Lexapro),CYP2C19,Usual prescribing considerations apply
-T37-063,Ibuprofen,CYP2C9,Usual prescribing considerations apply
-T37-063,gabapentin,NA,NO
-T37-063, oestradiol (Vagifem disposable applicator),NA,NO
-T37-063, zopiclone,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+T37-063,Diclofenac (Voltaren),CYP2C9,Usual prescribing considerations apply,NA
+T37-063,Escitalopram (Lexapro),CYP2C19,Usual prescribing considerations apply,NA
+T37-063,Ibuprofen,CYP2C9,Usual prescribing considerations apply,NA
+T37-063,gabapentin,NA,NO,NA
+T37-063, oestradiol (Vagifem disposable applicator),NA,NO,NA
+T37-063, zopiclone,NA,NO,NA

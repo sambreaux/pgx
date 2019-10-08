@@ -1,6 +1,6 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-L65-349,Aripiprazole (Abilify),CYP2D6,Major – significant result that may require altering this medication
-L65-349,Escitalopram (Lexapro),CYP2C19,Major – significant result that may require altering this medication
-L65-349,Dextroamphetamine (component of Apo-Amphetamine Xr),CYP2D6,"Minor – result should be considered as may affect medicationresponse"
-L65-349,lorazepam,NA,NO
-L65-349,amphetamine (component of Apo-Amphetamine Xr),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+L65-349,Aripiprazole (Abilify),CYP2D6,Major – significant result that may require altering this medication,NA
+L65-349,Escitalopram (Lexapro),CYP2C19,Major – significant result that may require altering this medication,INCREASED RISK OF SEROTONIN TOXICITY WITH AMPHETAMINE AND DEXTROAMPHETAMINE
+L65-349,Dextroamphetamine (component of Apo-Amphetamine Xr),CYP2D6,"Minor – result should be considered as may affect medicationresponse",INCREASED RISK OF SEROTONIN TOXICITY WITH ESCITALOPRAM AND AMPHETAMINE
+L65-349,lorazepam,NA,NO,NA
+L65-349,amphetamine (component of Apo-Amphetamine Xr),NA,NO,INCREASED RISK OF SEROTONIN TOXICITY WITH ESCITALOPRAM AND DEXTROAMPHETAMINE

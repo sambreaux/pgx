@@ -1,11 +1,11 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N83-076,Aripiprazole,CYP2D6,"Minor – result should be considered as may affect medicationresponse"
-N83-076,Venlafaxine,CYP2D6,"Minor – result should be considered as may affect medicationresponse"
-N83-076,salbutamol,NA,NO
-N83-076, salmeterol,NA,NO
-N83-076, budesonide,NA,NO
-N83-076, olopatadine,NA,NO
-N83-076, metronidazole,NA,NO
-N83-076, golimumab (Simponi prefilled syringe prefilled syringe),NA,NO
-N83-076, ramipril,NA,NO
-N83-076, ciprofloxacin (Ciprofloxacin),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N83-076,Aripiprazole,CYP2D6,"Minor – result should be considered as may affect medicationresponse",NA
+N83-076,Venlafaxine,CYP2D6,"Minor – result should be considered as may affect medicationresponse",NA
+N83-076,salbutamol,NA,NO,NA
+N83-076, salmeterol,NA,NO,NA
+N83-076, budesonide,NA,NO,NA
+N83-076, olopatadine,NA,NO,NA
+N83-076, metronidazole,NA,NO,NA
+N83-076, golimumab (Simponi prefilled syringe prefilled syringe),NA,NO,NA
+N83-076, ramipril,NA,NO,NA
+N83-076, ciprofloxacin (Ciprofloxacin),NA,NO,"INHIBITOR MODERATE: CYP3A, INHIBITOR STRONG CYP1A2"

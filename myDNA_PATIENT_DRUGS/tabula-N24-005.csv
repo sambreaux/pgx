@@ -1,3 +1,3 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N24-005,Citalopram,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-N24-005,Diclofenac,CYP2C9,Usual prescribing considerations apply
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N24-005,Citalopram,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+N24-005,Diclofenac,CYP2C9,Usual prescribing considerations apply,NA

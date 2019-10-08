@@ -1,8 +1,8 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-X73-150,Clopidogrel,CYP2C19,Major – significant result that may require altering this medication
-X73-150,Codeine (component of Apo-Acetaco #1),"CYP2D6OPRM1",Usual prescribing considerations apply
-X73-150,Venlafaxine,CYP2D6,Usual prescribing considerations apply
-X73-150,bisoprolol,NA,NO
-X73-150, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO
-X73-150, furosemide (Furosemide Tablets),NA,NO
-X73-150, acetaminophen (component of Apo-Acetaco #1),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+X73-150,Clopidogrel,CYP2C19,Major – significant result that may require altering this medication,NA
+X73-150,Codeine (component of Apo-Acetaco #1),"CYP2D6OPRM1",Usual prescribing considerations apply,NA
+X73-150,Venlafaxine,CYP2D6,Usual prescribing considerations apply,NA
+X73-150,bisoprolol,NA,NO,NA
+X73-150, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO,NA
+X73-150, furosemide (Furosemide Tablets),NA,NO,NA
+X73-150, acetaminophen (component of Apo-Acetaco #1),NA,NO,NA

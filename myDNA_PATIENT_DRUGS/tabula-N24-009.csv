@@ -1,19 +1,18 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N24-009,Melatonin,CYP1A2,"Minor – result should be considered as may affect medicationresponse"
-N24-009,Moclobemide,CYP2C19,"Minor – result should be considered as may affect medicationresponse"
-N24-009,Codeine (component of Acetaminophen-Caffeine-Codeine),"CYP2D6OPRM1",Usual prescribing considerations apply
-N24-009,Diclofenac (Viclofen),CYP2C9,Usual prescribing considerations apply
-N24-009,Quetiapine (component of Seroquel),CYP3A4,Usual prescribing considerations apply
-N24-009,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply
-N24-009,MEDICATIONS THAT DO NOT HAVE PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,,
-N24-009,hydromorphone hydrochloride,NA,NO
-N24-009, tamsulosin,NA,NO
-N24-009, dutasteride,NA,NO
-N24-009, fluticasone (Avamys),NA,NO
-N24-009, budesonide / eformoterolfumarate dihydrate (Symbicort Turbuhaler),NA,NO
-N24-009, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO
-N24-009, zolmitriptan,NA,NO
-N24-009, hydromorphone hydrochloride (Dilaudid),NA,NO
-N24-009, hydrocortisone,NA,NO
-N24-009, acetaminophen (component of Acetaminophen-Caffeine-Codeine),NA,NO
-N24-009, caffeine (component of Acetaminophen-Caffeine-Codeine),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N24-009,Melatonin,CYP1A2,"Minor – result should be considered as may affect medicationresponse",NA
+N24-009,Moclobemide,CYP2C19,"Minor – result should be considered as may affect medicationresponse","INCREASED RISK OF SEROTONIN TOXICITY WITH ZOLMITRIPTAN, INHIBITOR MODERATE: CYP2C19, INHIBITOR MODERATE: CYP2D6"
+N24-009,Codeine (component of Acetaminophen-Caffeine-Codeine),"CYP2D6OPRM1",Usual prescribing considerations apply,NA
+N24-009,Diclofenac (Viclofen),CYP2C9,Usual prescribing considerations apply,NA
+N24-009,Quetiapine (component of Seroquel),CYP3A4,Usual prescribing considerations apply,NA
+N24-009,Rosuvastatin,SLCO1B1,Usual prescribing considerations apply,NA
+N24-009,hydromorphone hydrochloride,NA,NO,NA
+N24-009, tamsulosin,NA,NO,NA
+N24-009, dutasteride,NA,NO,NA
+N24-009, fluticasone (Avamys),NA,NO,NA
+N24-009, budesonide / eformoterolfumarate dihydrate (Symbicort Turbuhaler),NA,NO,NA
+N24-009, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO,NA
+N24-009, zolmitriptan,NA,NO,INCREASED RISK OF SEROTONIN TOXICITY WITH MOCLOBEMIDE
+N24-009, hydromorphone hydrochloride (Dilaudid),NA,NO,NA
+N24-009, hydrocortisone,NA,NO,NA
+N24-009, acetaminophen (component of Acetaminophen-Caffeine-Codeine),NA,NO,NA
+N24-009, caffeine (component of Acetaminophen-Caffeine-Codeine),NA,NO,NA

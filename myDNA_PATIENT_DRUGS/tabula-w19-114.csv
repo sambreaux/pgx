@@ -1,7 +1,7 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-W19-114,ranitidine,NA,NO
-W19-114, bupropion,NA,NO
-W19-114, fluticasone,NA,NO
-W19-114, azelastine,NA,NO
-W19-114, acetaminophen,NA,NO
-W19-114, methocarbamol (Regular Strength Tylenol Back Pain),NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+W19-114,ranitidine,NA,NO,NA
+W19-114, bupropion,NA,NO,INHIBITOR STRONG: CYP2D6
+W19-114, fluticasone,NA,NO,NA
+W19-114, azelastine,NA,NO,NA
+W19-114, acetaminophen,NA,NO,NA
+W19-114, methocarbamol (Regular Strength Tylenol Back Pain),NA,NO,NA

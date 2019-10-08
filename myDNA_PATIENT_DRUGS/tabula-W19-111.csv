@@ -1,2 +1,2 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-W19-111,Escitalopram (Lexapro),CYP2C19,Usual prescribing considerations apply
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+W19-111,Escitalopram (Lexapro),CYP2C19,Usual prescribing considerations apply,NA

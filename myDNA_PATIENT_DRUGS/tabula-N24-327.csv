@@ -1,8 +1,8 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N24-327,Duloxetine,"CYP1A2CYP2D6",Usual prescribing considerations apply
-N24-327,Glibenclamide,CYP2C9,Usual prescribing considerations apply
-N24-327,Ibuprofen,CYP2C9,Usual prescribing considerations apply
-N24-327,perindopril (Coversyl),NA,NO
-N24-327, trazadone,NA,NO
-N24-327, budesonide / eformoterol fumarate dihydrate (Symbicort Turbuhaler),NA,NO
-N24-327, loratadine,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N24-327,Duloxetine,"CYP1A2CYP2D6",Usual prescribing considerations apply,INHIBITOR MODERATE: CYP2D6
+N24-327,Glibenclamide,CYP2C9,Usual prescribing considerations apply,NA
+N24-327,Ibuprofen,CYP2C9,Usual prescribing considerations apply,NA
+N24-327,perindopril (Coversyl),NA,NO,NA
+N24-327, trazadone,NA,NO,NA
+N24-327, budesonide / eformoterol fumarate dihydrate (Symbicort Turbuhaler),NA,NO,NA
+N24-327, loratadine,NA,NO,NA

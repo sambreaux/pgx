@@ -1,6 +1,6 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N43-038,Duloxetine (Cymbalta),"CYP1A2CYP2D6",Usual prescribing considerations apply
-N43-038,Melatonin,CYP1A2,Usual prescribing considerations apply
-N43-038,Venlafaxine,CYP2D6,Usual prescribing considerations apply
-N43-038,lorazepam (Ativan),NA,NO
-N43-038,zopiclone,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N43-038,Duloxetine (Cymbalta),"CYP1A2CYP2D6",Usual prescribing considerations apply,"INCREASED RISK OF SEROTONIN TOXICITY WITH VENLAFAXINE, INHIBITOR MODERATE: CYP2D6"
+N43-038,Melatonin,CYP1A2,Usual prescribing considerations apply,NA
+N43-038,Venlafaxine,CYP2D6,Usual prescribing considerations apply,INCREASED RISK OF SEROTONIN TOXICITY WITH DULOXETINE
+N43-038,lorazepam (Ativan),NA,NO,NA
+N43-038,zopiclone,NA,NO,NA

@@ -1,94 +1,3 @@
-ID,CONSIDERATION,DRUG CATEGORY,MEDICATION,"GENE(S)INVOLVED",POTENTIAL CLINICAL ISSUES,"PUBLISHEDGUIDELINES"
-N83-078,major,Anticoagulants,Acenocoumarol,"VKORC1CYP2C9","Significantly increasedacenocoumarol sensitivity",DPWG
-N83-078,major,,Warfarin,"VKORC1CYP2C9","Significantly increased warfarinsensitivity",FDA2
-N83-078,major,"Antidepressants -SSRIs",Citalopram,CYP2C19,Reduced / inadequate response,CPIC1
-N83-078,major,,Escitalopram,CYP2C19,Reduced / inadequate response,CPIC1
-N83-078,major,"Antidepressants -tricyclicantidepressants",Amitriptyline,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC3
-N83-078,major,,Clomipramine,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC3
-N83-078,major,,Doxepin,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC3
-N83-078,major,,Imipramine,"CYP2D6CYP2C19",Reduced / inadequate response,CPIC3
-N83-078,major,Antiepileptics,Phenytoin,CYP2C9,Adverse effects,CPIC4
-N83-078,major,Antifungals - Azoles,Voriconazole,CYP2C19,Reduced / inadequate response,CPIC5
-N83-078,minor,"Angiotensin receptorblockers",Irbesartan,CYP2C9,"Increased therapeutic and/oradverse effects",-
-N83-078,minor,,Losartan,CYP2C9,Reduced / inadequate response,-
-N83-078,minor,"Antidepressants -other",Mirtazapine,"CYP2D6CYP1A2",Reduced / inadequate response,-
-N83-078,minor,,Moclobemide,CYP2C19,Reduced / inadequate response,-
-N83-078,minor,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Duloxetine,"CYP2D6CYP1A2",Reduced / inadequate response,-
-N83-078,minor,"Antidepressants -SSRIs",Fluoxetine,"CYP2D6CYP2C9",Altered response,-
-N83-078,minor,,Sertraline,CYP2C19,Reduced / inadequate response,CPIC1
-N83-078,minor,Antidiabetics,Gliclazide,"CYP2C9CYP2C19","Increased therapeutic and/oradverse effects",-
-N83-078,minor,,Glimepiride,CYP2C9,"Increased therapeutic and/oradverse effects",-
-N83-078,minor,,Glyburide,CYP2C9,"Increased therapeutic and/oradverse effects",-
-N83-078,minor,Antiplatelet drugs,Clopidogrel,CYP2C19,Adverse effects,CPIC6
-N83-078,minor,Antipsychotics,Clozapine,CYP1A2,Reduced / inadequate response,-
-N83-078,minor,,Olanzapine,CYP1A2,Reduced / inadequate response,-
-N83-078,minor,Benzodiazepines,Clobazam,CYP2C19,Reduced / inadequate response,-
-N83-078,minor,,Diazepam,CYP2C19,Reduced / inadequate response,-
-N83-078,minor,Beta blockers,Propranolol,"CYP2D6CYP1A2",Altered response,-
-N83-078,minor,Hypnotics,Melatonin,CYP1A2,Reduced / inadequate response,-
-N83-078,minor,Miscellaneous,Cyclophosphamide,CYP2C19,"Increased therapeutic and/oradverse effects",-
-N83-078,minor,,Proguanil,CYP2C19,Altered response,-
-N83-078,minor,NSAIDs,Celecoxib,CYP2C9,"Increased therapeutic and/oradverse effects",-
-N83-078,minor,,Diclofenac,CYP2C9,Adverse effects,-
-N83-078,minor,,Flurbiprofen,CYP2C9,Adverse effects,-
-N83-078,minor,,Ibuprofen,CYP2C9,Adverse effects,-
-N83-078,minor,,Indomethacin,CYP2C9,Adverse effects,-
-N83-078,minor,,Mefenamic Acid,CYP2C9,Adverse effects,-
-N83-078,minor,,Meloxicam,CYP2C9,Adverse effects,-
-N83-078,minor,,Piroxicam,CYP2C9,Adverse effects,-
-N83-078,minor,Opioid Analgesics,Morphine,OPRM1,"Associated with reducedresponse to morphine",-
-N83-078,minor,"Proton pumpinhibitors",Dexlansoprazole,CYP2C19,Reduced / inadequate response,-
-N83-078,minor,,Esomeprazole,CYP2C19,Reduced / inadequate response,-
-N83-078,minor,,Lansoprazole,CYP2C19,Reduced / inadequate response,-
-N83-078,minor,,Omeprazole,CYP2C19,Reduced / inadequate response,-
-N83-078,minor,,Pantoprazole,CYP2C19,Reduced / inadequate response,-
-N83-078,minor,,Rabeprazole,CYP2C19,Reduced / inadequate response,-
-N83-078,minor,Statins,Fluvastatin,"SLCO1B1CYP2C9","Increased therapeutic and/oradverse effects",-
-N83-078,usual,"ADHD -miscellaneous agents",Atomoxetine,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,Antiarrhythmics,Flecainide,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Propafenone,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,"Anticholinergics(genitourinary)",Darifenacin,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Fesoterodine,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Tolterodine,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,Anticholinesterases,Donepezil,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Galantamine,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,"Antidepressants -other",Vortioxetine,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,"Antidepressants -serotoninnoradrenalinereuptake inhibitors",Venlafaxine,CYP2D6,"No altered effect predicted bygenotype",DPWG7
-N83-078,usual,"Antidepressants -SSRIs",Fluvoxamine,"CYP2D6CYP1A2","No altered effect predicted bygenotype",CPIC1
-N83-078,usual,,Paroxetine,CYP2D6,"No altered effect predicted bygenotype",CPIC1
-N83-078,usual,"Antidepressants -tricyclicantidepressants",Desipramine,CYP2D6,"No altered effect predicted bygenotype",CPIC3
-N83-078,usual,,Nortriptyline,CYP2D6,"No altered effect predicted bygenotype",CPIC3
-N83-078,usual,Antiemetics,Metoclopramide,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Ondansetron,CYP2D6,"No altered effect predicted bygenotype",CPIC8
-N83-078,usual,Antihistamines,Chlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Dexchlorpheniramine,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Promethazine,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,Antipsychotics,Aripiprazole,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Brexpiprazole,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Chlorpromazine,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Haloperidol,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Pimozide,CYP2D6,"No altered effect predicted bygenotype",
-N83-078,usual,,Quetiapine,CYP3A4,"No altered effect predicted bygenotype",-
-N83-078,usual,,Risperidone,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Zuclopenthixol,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,Antitussives,Dextromethorphan,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,Beta blockers,Carvedilol,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Metoprolol,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Nebivolol,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,Calcineurin inhibitors,Tacrolimus,CYP3A5,"No altered effect predicted bygenotype",CPIC9
-N83-078,usual,"Glaucoma - ocularpreparations",Timolol,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,"Immunomodulatorsand antineoplastics",Tamoxifen,CYP2D6,"No altered effect predicted bygenotype",CPIC10
-N83-078,usual,Miscellaneous,Atazanavir,CYP3A5,"No altered effect predicted bygenotype",-
-N83-078,usual,,Eliglustat,CYP2D6,"No altered effect predicted bygenotype",TGA11
-N83-078,usual,,Naltrexone,OPRM1,"No altered effect predicted bygenotype for naltrexone",
-N83-078,usual,Neurological drugs,Tetrabenazine,CYP2D6,"No altered effect predicted bygenotype",FDA12
-N83-078,usual,Opioid Analgesics,Codeine,"CYP2D6OPRM1","Associated with reducedsensitivity to codeine",CPIC13
-N83-078,usual,,Hydrocodone,CYP2D6,"No altered effect predicted bygenotype",
-N83-078,usual,,Oxycodone,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Tramadol,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,Psychostimulants,Dextroamphetamine,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,,Lisdexamfetamine,CYP2D6,"No altered effect predicted bygenotype",-
-N83-078,usual,Statins,Atorvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",-
-N83-078,usual,,Pravastatin,SLCO1B1,"No altered effect predicted bygenotype",-
-N83-078,usual,,Rosuvastatin,SLCO1B1,"No altered effect predicted bygenotype",-
-N83-078,usual,,Simvastatin,"SLCO1B1CYP3A4","No altered effect predicted bygenotype",CPIC14
+ID,MEDICATION,"GENE(S)INVOLVED",PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N83-078,Citalopram,CYP2C19,Major – significant result that may require altering this medication,NA
+N83-078,allopurinol,NA,NO,NA

@@ -1,7 +1,7 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N83-075,Escitalopram (Lexapro),CYP2C19,Usual prescribing considerations apply
-N83-075,Tacrolimus,CYP3A5,Usual prescribing considerations apply
-N83-075,latanoprost,NA,NO
-N83-075, budesonide / eformoterol fumarate dihydrate (Symbicort Turbuhaler),NA,NO
-N83-075, fluticasone (Avamys),NA,NO
-N83-075, letrozole,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+N83-075,Escitalopram (Lexapro),CYP2C19,Usual prescribing considerations apply,NA
+N83-075,Tacrolimus,CYP3A5,Usual prescribing considerations apply,NA
+N83-075,latanoprost,NA,NO,NA
+N83-075, budesonide / eformoterol fumarate dihydrate (Symbicort Turbuhaler),NA,NO,NA
+N83-075, fluticasone (Avamys),NA,NO,NA
+N83-075, letrozole,NA,NO,NA

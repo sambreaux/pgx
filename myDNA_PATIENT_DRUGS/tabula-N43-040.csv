@@ -1,11 +1,11 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-N43-040,Warfarin,"CYP2C9VKORC1",Major – significant result that may require altering this medication
-N43-040,Atorvastatin,"CYP3A4SLCO1B1",Usual prescribing considerations apply
-N43-040,Flecainide,CYP2D6,Usual prescribing considerations apply
-N43-040,Venlafaxine,CYP2D6,Usual prescribing considerations apply
-N43-040,aspirin (Aspro),NA,NO
-N43-040, acetaminophen,NA,NO
-N43-040, zopiclone,NA,NO
-N43-040, diltiazem,NA,NO
-N43-040, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO
-N43-040, amlodipine,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION 
+N43-040,Warfarin,"CYP2C9VKORC1",Major – significant result that may require altering this medication,NA
+N43-040,Atorvastatin,"CYP3A4SLCO1B1",Usual prescribing considerations apply,NA
+N43-040,Flecainide,CYP2D6,Usual prescribing considerations apply,INHIBITOR MODERATE: CYP2D6
+N43-040,Venlafaxine,CYP2D6,Usual prescribing considerations apply,NA
+N43-040,aspirin (Aspro),NA,NO,NA
+N43-040, acetaminophen,NA,NO,NA
+N43-040, zopiclone,NA,NO,NA
+N43-040, diltiazem,NA,NO,INHIBITOR MODERATE: CYP3A
+N43-040, levothyroxine sodium (Levothyroxine Sodium For Injection),NA,NO,NA
+N43-040, amlodipine,NA,NO,NA

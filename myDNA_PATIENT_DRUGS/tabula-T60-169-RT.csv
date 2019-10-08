@@ -1,4 +1,4 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-T60-169-RT,Diclofenac,CYP2C9,Usual prescribing considerations apply
-T60-169-RT,Fluoxetine,"CYP2C9CYP2D6",Usual prescribing considerations apply
-T60-169-RT,trazadone,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+T60-169-RT,Diclofenac,CYP2C9,Usual prescribing considerations apply,NA
+T60-169-RT,Fluoxetine,"CYP2C9CYP2D6",Usual prescribing considerations apply,"INHIBITOR MODERATE: CYP2C19, INHIBITOR STRONG: CYP2D6"
+T60-169-RT,trazadone,NA,NO,NA

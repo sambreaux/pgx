@@ -1,9 +1,9 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-T37-065,Quetiapine,CYP3A4,Usual prescribing considerations apply
-T37-065,Vortioxetine (Brintellix),CYP2D6,Usual prescribing considerations apply
-T37-065,oestradiol (Vagifem disposable applicator),NA,NO
-T37-065, hydroxychloroquine,NA,NO
-T37-065, nitrofurantoin (Macrodantin),NA,NO
-T37-065, zopiclone,NA,NO
-T37-065, methocarbamol (Regular Strength Tylenol Back Pain),NA,NO
-T37-065, metronidazole,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+T37-065,Quetiapine,CYP3A4,Usual prescribing considerations apply,NA
+T37-065,Vortioxetine (Brintellix),CYP2D6,Usual prescribing considerations apply,NA
+T37-065,oestradiol (Vagifem disposable applicator),NA,NO,NA
+T37-065, hydroxychloroquine,NA,NO,NA
+T37-065, nitrofurantoin (Macrodantin),NA,NO,NA
+T37-065, zopiclone,NA,NO,NA
+T37-065, methocarbamol (Regular Strength Tylenol Back Pain),NA,NO,NA
+T37-065, metronidazole,NA,NO,NA

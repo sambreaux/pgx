@@ -1,8 +1,8 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST
-L65-350,Citalopram,CYP2C19,Usual prescribing considerations apply
-L65-350,trazadone,NA,NO
-L65-350, zopiclone,NA,NO
-L65-350, thyroxine,NA,NO
-L65-350, somatropin (Omnitrope),NA,NO
-L65-350, pregabalin,NA,NO
-L65-350, ramipril,NA,NO
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
+L65-350,Citalopram,CYP2C19,Usual prescribing considerations apply,NA
+L65-350,trazadone,NA,NO,NA
+L65-350, zopiclone,NA,NO,NA
+L65-350, thyroxine,NA,NO,NA
+L65-350, somatropin (Omnitrope),NA,NO,NA
+L65-350, pregabalin,NA,NO,NA
+L65-350, ramipril,NA,NO,NA
