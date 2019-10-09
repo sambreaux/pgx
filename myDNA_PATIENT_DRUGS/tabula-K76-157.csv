@@ -1,4 +1,4 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTIONS
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
 K76-157,Escitalopram (Lexapro),CYP2C19,Major – significant result that may require altering this medication,NA
 K76-157,Pantoprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
 K76-157,prednisone,NA,NO,NA

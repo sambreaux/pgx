@@ -1,4 +1,4 @@
-ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,
+ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
 S81-256,Sertraline,CYP2C19,"Minor – result should be considered as may affect medicationresponse",INCREASED RISK OF SEROTONIN TOXICITY WITH DEXAMPHETAMINE
 S81-256,Codeine (component of Acetaminophen-Caffeine-Codeine),"CYP2D6OPRM1",Usual prescribing considerations apply,NA
 S81-256,Dexamphetamine,CYP2D6,Usual prescribing considerations apply,INCREASED RISK OF SEROTONIN TOXICITY WITH SERTRALINE

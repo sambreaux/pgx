@@ -1,9 +1,9 @@
 ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
-N83-060,Pantoprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
-N83-060,Venlafaxine,CYP2D6,Usual prescribing considerations apply,NA
-N83-060,infliximab (Remicade),NA,NO,NA
-N83-060, indapamide,NA,NO,NA
-N83-060, valsartan,NA,NO,NA
-N83-060, insulin / insulin (Humalog),NA,NO,NA
-N83-060, metformin (Metformin),NA,NO,NA
-N83-060, hydroxyzine hydrochloride (Hydroxyzine Hydrochloride Injection),NA,NO,NA
+N83-360,Pantoprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
+N83-360,Venlafaxine,CYP2D6,Usual prescribing considerations apply,NA
+N83-360,infliximab (Remicade),NA,NO,NA
+N83-360, indapamide,NA,NO,NA
+N83-360, valsartan,NA,NO,NA
+N83-360, insulin (Humalog),NA,NO,NA
+N83-360, metformin (Metformin),NA,NO,NA
+N83-360, hydroxyzine hydrochloride (Hydroxyzine Hydrochloride Injection),NA,NO,NA

@@ -21,18 +21,12 @@ library(plyr)
 library(reshape2)
 library(compare)
 library(rowr)
-library(stringr)
 
 #renames column based on column index not name 
 rename_col_by_position <- function(df, position, new_name) {
   new_name <- enquo(new_name)
   new_name <- quo_name(new_name)
   select(df, !! new_name := !! quo(names(df)[[position]]), everything())
-}
-
-firstup <- function(x) {
-  substr(x, 1, 1) <- toupper(substr(x, 1, 1))
-  x
 }
 ```
 
@@ -353,30 +347,17 @@ dif325<-anti_join(normal,n24325)
 ```
 
 current medication 
-#changed all insulins to just insulin 
 ```{r current meds}
 setwd("C:/Users/Sam/Documents/pgx/myDNA_PATIENT_DRUGS")
 getwd()
 files3 <- list.files("C:/Users/Sam/Documents/pgx/myDNA_PATIENT_DRUGS")
 temp3 <- lapply(files3, fread, sep=",")
 data3 <- as.data.frame(rbindlist(temp3, use.names = TRUE))%>%
-  mutate_if(is.character, str_trim)%>%
-  rename(c('MEDICATION' = 'MEDS'))
-data3$MEDS<-firstup(data3$MEDS)
-data3$CONSIDERATION<-word(data3$`PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST`, 1)
-data3$MEDICATION<-gsub("\\([^()]*\\)", "", data3$MEDS)
-  data3$MEDICATION<-gsub("\\([^()]*\\)", "", data3$MEDICATION)
+  mutate_if(is.character, str_trim)
 
-patient_drugs<-separate(data3,ID, into = c("site", "xxx"), sep = "-", remove = F )%>%
-  select(-xxx)
 
-cons_freq<-as.data.frame(table(patient_drugs$site, patient_drugs$CONSIDERATION, patient_drugs$MEDICATION))%>%
-  rename(c('Var1'= 'site', 'Var2' = 'CONSIDERATION', 'Var3'= 'MEDICATION'))%>%
-  merge(patient_drugs, by = c('site', 'CONSIDERATION', 'MEDICATION'))%>%
-  rename(c('GENE(S)'= 'GENEs'))
 
-cast_sites<-dcast(cons_freq, MEDICATION+GENEs+CONSIDERATION~site, fun.aggregate = mean, value.var = "Freq")
 
-library(splitstackshape)
-df2 <- cSplit(df1, "Item.Code", sep = "/", direction = "long")
+
+
 ```
