@@ -22,6 +22,7 @@ library(reshape2)
 library(compare)
 library(rowr)
 library(stringr)
+library(splitstackshape)
 
 #renames column based on column index not name 
 rename_col_by_position <- function(df, position, new_name) {
@@ -354,29 +355,47 @@ dif325<-anti_join(normal,n24325)
 
 current medication 
 #changed all insulins to just insulin 
+# split combination drugs into indivdual component drugs
+#removed common names(names in ())
+### output files:
+* patient_drugs = all meds and corresponding considerastions/interactions for each patient (pre-processed data) 
+* current_meds.csv = frequency per site of all considerations (including no) found for all meds the patient is on
+* considerations_meds.csv = all meds the patient is on that have a myDNA consideration(excluding no) for all meds the patient is on 
 ```{r current meds}
-setwd("C:/Users/Sam/Documents/pgx/myDNA_PATIENT_DRUGS")
+setwd("C:/Users/SamBr/Documents/pgx/myDNA_PATIENT_DRUGS")
 getwd()
-files3 <- list.files("C:/Users/Sam/Documents/pgx/myDNA_PATIENT_DRUGS")
+files3 <- list.files()
 temp3 <- lapply(files3, fread, sep=",")
 data3 <- as.data.frame(rbindlist(temp3, use.names = TRUE))%>%
   mutate_if(is.character, str_trim)%>%
   rename(c('MEDICATION' = 'MEDS'))
-data3$MEDS<-firstup(data3$MEDS)
 data3$CONSIDERATION<-word(data3$`PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST`, 1)
 data3$MEDICATION<-gsub("\\([^()]*\\)", "", data3$MEDS)
   data3$MEDICATION<-gsub("\\([^()]*\\)", "", data3$MEDICATION)
+  data3<- cSplit(data3, "MEDICATION", sep = "/", direction = "long")
+  data3$MEDICATION<-firstup(data3$MEDICATION)
 
 patient_drugs<-separate(data3,ID, into = c("site", "xxx"), sep = "-", remove = F )%>%
   select(-xxx)
 
 cons_freq<-as.data.frame(table(patient_drugs$site, patient_drugs$CONSIDERATION, patient_drugs$MEDICATION))%>%
   rename(c('Var1'= 'site', 'Var2' = 'CONSIDERATION', 'Var3'= 'MEDICATION'))%>%
-  merge(patient_drugs, by = c('site', 'CONSIDERATION', 'MEDICATION'))%>%
+  merge(patient_drugs, by = c('site', 'CONSIDERATION', 'MEDICATION'), all =T)%>%
   rename(c('GENE(S)'= 'GENEs'))
+patient_freq<-cons_freq[complete.cases(cons_freq$ID),]
 
-cast_sites<-dcast(cons_freq, MEDICATION+GENEs+CONSIDERATION~site, fun.aggregate = mean, value.var = "Freq")
 
-library(splitstackshape)
-df2 <- cSplit(df1, "Item.Code", sep = "/", direction = "long")
+patient_all_drugs<-dcast(patient_freq, MEDICATION+GENEs+CONSIDERATION~site, fun.aggregate = mean, value.var = "Freq")%>%
+  rename(c('BCP'= 'BCP (n=8)', "D59"  ='D59 (n=1)', "F31" = 'F31 (n=2)' ,   "J02" = "J02 (n=8)", "K74" = 'k74 (n=6)', "K76" = "k76 (n=10)" ,"L65" = "L65 (n=20)",
+           "N24"= "N24 (n=20)" , "N43"= "N43 (n=9)", "N83" = "N83 (n=16)", "S73"= "S73 (n=5)", "S81"= "S81 (n=4)", "S94" = "S94 (n=3)", "T37"= "T37 (n=9)", "T60" = "T60 (n=9)", 
+           "W19" = "W19 (n=10)", "X73" = "X73 (n=10)"))
+
+patient_all_drugs[4:20][is.na(patient_all_drugs[4:20])] <- 0
+
+patient_consideration<-patient_all_drugs[!grepl("NO", patient_all_drugs$CONSIDERATION),]
+
+write.csv(patient_drugs, "C:/Users/Sam/documents/pgx/results/patient_drugs.csv")
+write.csv(patient_all_drugs, "C:/Users/Sam/documents/pgx/results/current_meds.csv")
+write.csv(patient_consideration, "C:/Users/Sam/documents/pgx/results/consideration_meds.csv")
+
 ```

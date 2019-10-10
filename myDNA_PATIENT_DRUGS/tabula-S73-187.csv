@@ -1,6 +1,6 @@
 ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
-S73-187,Escitalopram (Lexapro),CYP2C19,Major – significant result that may require altering this medication,INHIBITOR MODERATE: CYP1A2
+S73-187,Escitalopram (Lexapro),CYP2C19,Major – significant result that may require altering this medication,NA
 S73-187,Pantoprazole,CYP2C19,"Minor – result should be considered as may affect medicationresponse",NA
-S73-187,montelukast,NA,NO,NA
-S73-187, budesonide / eformoterol fumarate dihydrate (Symbicort Turbuhaler),NA,NO,INDUCER: CYP1A2
-S73-187, ethinylestradiol / levonorgestrel (Levonorgestrel And Ethinyl Estradiol Tablets 0.1 Mg/0.02 Mg),NA,NO,NA
+S73-187,montelukast,NA,NO,INDUCER: CYP1A2
+S73-187, budesonide / eformoterol fumarate dihydrate (Symbicort Turbuhaler),NA,NO,NA
+S73-187, ethinylestradiol / levonorgestrel (Levonorgestrel And Ethinyl Estradiol Tablets 0.1 Mg/0.02 Mg),NA,NO,INHIBITOR MODERATE: CYP1A2
