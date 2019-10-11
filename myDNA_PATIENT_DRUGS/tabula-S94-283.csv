@@ -1,5 +1,5 @@
 ID,MEDICATION,GENE(S),PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST,INTERACTION
 S94-283,Fluoxetine,"CYP2C9CYP2D6",Usual prescribing considerations apply,"INHIBITOR MODERATE: CYP2C19, INHIBITOR STRONG: CYP2D6"
-S94-283,Quetiapine,CYP3A4,Usual prescribing considerations apply,
+S94-283,Quetiapine,CYP3A4,Usual prescribing considerations apply,NA
 S94-283,desogestrel / ethinyloestradiol (Marvelon 28),NA,NO,INHIBITOR MODERATE: CYP1A2
-S94-283,ketorolac trometamol,NA,NO,
+S94-283,ketorolac trometamol,NA,NO,NA

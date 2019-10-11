@@ -151,6 +151,8 @@ kailosco_freq <-table(k_calls_only$kailos_call)%>%
   unique()%>%
   format(digits = 2) 
 
+op<-split(lol, lol$GENE, drop =F)
+
 ```
 
 # Comparison of my kailos and myDNA genotype calls

@@ -1,6 +1,6 @@
 ---
 title: "PGx_annotated"
-author: "Sam"
+author: "SamBr"
 date: "September 19, 2019"
 output: 
   pdf_document:
@@ -47,11 +47,11 @@ firstup <- function(x) {
 ```{r load data}
 
 #change working directory to that with myDNA CSVs
-setwd("C:/Users/Sam/Documents/pgx/mydna")
+setwd("C:/Users/SamBr/Documents/pgx/mydna")
 
 #load in snp data and genotype data: rename some columns to match those in mydna CSVs
-snpdat<-read.csv("C:/Users/Sam/Documents/pgx/mydna snps - Sheet1.csv")
-mydata<-read.csv("C:/Users/Sam/Documents/pgx/mygenotypes.csv")%>%
+snpdat<-read.csv("C:/Users/SamBr/Documents/pgx/mydna snps - Sheet1.csv")
+mydata<-read.csv("C:/Users/SamBr/Documents/pgx/mygenotypes.csv")%>%
   rename(c('gene' = 'GENE', 'genotype' = 'GENOTYPE'))
   
 
@@ -63,10 +63,10 @@ data <- rbindlist(temp)%>%
   mutate_if(is.character, str_trim)
 
 #make CSV of all myDNA patient genotype information
-write_csv (data, "C:/Users/Sam/Documents/pgx/results/tidy_mydna.csv")
+write_csv (data, "C:/Users/SamBr/Documents/pgx/results2/tidy_mydna.csv")
 
 #load in kailos data and remove any trailing spaces
-kdata<-read.csv("C:/Users/Sam/Documents/pgx/allkailos4.csv")
+kdata<-read.csv("C:/Users/SamBr/Documents/pgx/allkailos4.csv")
 
 kd<-kdata %>% mutate_if(is.factor, as.character)%>%
   mutate_if(is.character, str_trim)
@@ -78,10 +78,10 @@ m<-melt(kd, id.vars = "ID", measure.vars = 2:39)%>%
   rename(c('variable' = 'GENE', 'value'='kailos_call'))
 
 #output tidy data as a cSV
-write.csv(m, "C:/Users/Sam/Documents/pgx/results/tidykailos.csv")
+write.csv(m, "C:/Users/SamBr/Documents/pgx/results2/tidykailos.csv")
 
 #load in my DNA patient drug response data, bind into one data frame and remove any trailing spaces
-setwd("C:/Users/Sam/Documents/pgx/myDNA_drugs_CLEAN2")
+setwd("C:/Users/SamBr/Documents/pgx/myDNA_drugs_CLEAN2")
 files2 <- list.files()
 temp2 <- lapply(files2, fread, sep=",")
 data2 <- as.data.frame(rbindlist(temp2, use.names = TRUE))%>%
@@ -92,7 +92,7 @@ sites<-separate(data2,ID, into = c("site", "xxx"), sep = "-", remove = F )%>%
   select(-xxx)
 
 #output tidy data as csv
-write.csv(sites, "C:/Users/Sam/documents/pgx/results/allmydrugdata.csv")
+write.csv(sites, "C:/Users/SamBr/documents/pgx/results2/allmydrugdata.csv")
 ```
 # Frequency of myDNA calls
 ### calculating the frequency of myDNA calls
@@ -128,12 +128,12 @@ frequencies<-merge(mydata, data_Freq, by = c("GENE","GENOTYPE"))
 frequencies<- format(frequencies, digits = 2)
 
 #create csv of mydna gene freqs
-write_csv (frequencies, "C:/Users/Sam/Documents/pgx/results/myDNA_freq.csv")
+write_csv (frequencies, "C:/Users/SamBr/Documents/pgx/results2/myDNA_freq.csv")
 ```
 # Frequency of kailos calls
 ### output files:
 * kailos_call.csv = number of times all kailos snps were called
-
+* kailos_combinded_freq.csv = frequency of the combinded kailos snp calls for each gene
 ```{r get kailos freq}
 
 #get unique kailos genotype frequencies and round table
@@ -149,7 +149,7 @@ lol<-table(m$kailos_call)%>%
   format(digits = 2)
 
 #output kailos genotype frequncies as a csv
-write.csv(lol, "C:/Users/Sam/Documents/pgx/results/kailos_freq.csv")
+write.csv(lol, "C:/Users/SamBr/Documents/pgx/results2/kailos_freq.csv")
 
 # remove rs codes that dont exist in the myDNA data set
 toMatch<-c('rs9923231', 'rs762551', 'rs4149056','CYP2D6', 'CYP2C19', 'CYP3A4', 'CYP3A5', 'CYP2C9')
@@ -165,6 +165,36 @@ kailosco_freq <-table(k_calls_only$kailos_call)%>%
   select(-ID)%>%
   unique()%>%
   format(digits = 2) 
+
+#combine all gene calls for each spec gene merge in with freq and kailos call data
+kalios_combined <- m %>%
+  dplyr::group_by(GENE, ID) %>%
+  dplyr::summarise(kailos_call = paste(kailos_call, collapse = ", "))%>%
+  rename(c('kailos_call' = 'kailos_calls'))
+
+#frequecy of the combinded calls 
+kailoscombined_freq <-table(kalios_combined$kailos_calls)%>%
+  as.data.frame()%>%
+ rename(c('Var1' = 'kailos_calls'))%>%
+  mutate('kailos_Genotype_Freqency_% n=37' = Freq/37*100)%>%
+  rename(c('Freq' = 'kailos_Genotype_Freqency'))%>%
+  merge(kalios_combined, by = 'kailos_calls')%>%
+  select(-ID)%>%
+  unique()%>%
+  format(digits = 2)
+
+# frequency of the combinded calls for MYDNA comparison 
+#not used
+kailoscombined_forMD <-table(kalios_combined$kailos_calls)%>%
+  as.data.frame()%>%
+ rename(c('Var1' = 'kailos_calls'))%>%
+  mutate('kailos_Genotype_Freqency_% n=37' = Freq/37*100)%>%
+  rename(c('Freq' = 'kailos_Genotype_Freqency'))%>%
+  merge(kalios_combined, by = 'kailos_calls')%>%
+  merge(k_calls_only, by = c("GENE", "ID"))
+
+write.csv(kailoscombined_freq, "C:/Users/SamBr/Documents/pgx/results2/kailos_combinded_freq.csv")
+
 
 ```
 
@@ -208,8 +238,8 @@ mmm$compare <-ifelse(mmm$kailos == mmm$myDNA,  "x",ifelse(mmm$kailos != mmm$myDN
 diffrentsamples<-filter(mmm, compare == "different")
 
 #output myDNA v. Kalios comparison table and table of samples that differ between data sets
-write.csv(diffrentsamples, "C:/Users/Sam/Documents/pgx/results/different_genotypes.csv")
-write.csv(mmm, "C:/Users/Sam/Documents/pgx/results/my_vs_kaliosgenotypes.csv")
+write.csv(diffrentsamples, "C:/Users/SamBr/Documents/pgx/results2/different_genotypes.csv")
+write.csv(mmm, "C:/Users/SamBr/Documents/pgx/results2/my_vs_kaliosgenotypes.csv")
 ```
 # myDNA vs kailos genotype freqencies compared with population level 
 ### genotype frequencies for CYP2D6, CYP2C19, CYP2C9 and VKORC1 
@@ -233,7 +263,7 @@ mykailos<-join(frequencies, lol, by = "kailos_call", match = "all")
 mykailos<-mykailos[c(1:9)]
 
 #output frequency comparison as csv 
-write.csv(mykailos, "C:/Users/Sam/Documents/pgx/results/my_vs_kailos_freq_pop.csv")
+write.csv(mykailos, "C:/Users/SamBr/Documents/pgx/results2/my_vs_kailos_freq_pop.csv")
 ```
 
 # drug vs phenotype frequencies
@@ -252,10 +282,10 @@ drugs<-sites[c("MEDICATION", "GENE(S)\rINVOLVED")]%>%
   rename_col_by_position(2, GENE)
 
 # couldnt get the genes to correctly sepreate into individual rows so outputed data as csv and edited by hand. hashed line so it wouldnt overwrite good drug file
-# write.csv(drugs, "C:/Users/Sam/Documents/pgx/drugs.csv")
+# write.csv(drugs, "C:/Users/SamBr/Documents/pgx/drugs.csv")
 
 #read back in good drug file
-drugs<-read.csv("C:/Users/Sam/Documents/pgx/drugs.csv")
+drugs<-read.csv("C:/Users/SamBr/Documents/pgx/drugs.csv")
 
 
 #get frequency of each perdicted metabolism function
@@ -272,7 +302,7 @@ mydrugs<-table(data$`PREDICTED FUNCTION`)%>%
 function_freq_drug<-merge(mydrugs, drugs, by ="GENE")
 
 #output frequency of perdicted phenotype/drug table as csv 
-write.csv(function_freq_drug, "C:/Users/Sam/Documents/pgx/results/myFUNCTION_drug_freq.csv")
+write.csv(function_freq_drug, "C:/Users/SamBr/Documents/pgx/results2/myFUNCTION_drug_freq.csv")
 
 #get cleaner function/ phenotype data
 pheno_data<-mydata_geno%>%
@@ -287,7 +317,7 @@ fun_pheno<-fun_pheno %>% mutate_if(is.factor, as.character)%>%
 #number of times each drug per gene is impacted by each phenotype
 cast_pheno<-dcast(fun_pheno, MEDICATION+GENE~phenotype, fun.aggregate = sum, value.var = "Phenotype_freq")
 #output file as csv
-write.csv(cast_pheno, "C:/Users/Sam/Documents/pgx/drug_pheno.csv")
+write.csv(cast_pheno, "C:/Users/SamBr/Documents/pgx/drug_pheno.csv")
 ```
 
 # number of drug consideration per study site
@@ -310,7 +340,7 @@ cast_site<-dcast(conc_freq, MEDICATION+GENEs+CONSIDERATION~site, fun.aggregate =
 #change NAN values to 0 
 cast_site[is.na(cast_site)] <- 0
 #output as a csv 
-write.csv(cast_site, "C:/Users/Sam/documents/pgx/results/site_consideration.csv")
+write.csv(cast_site, "C:/Users/SamBr/documents/pgx/results2/site_consideration.csv")
 ```
 
 # missing drug 
@@ -357,10 +387,12 @@ current medication
 #changed all insulins to just insulin 
 # split combination drugs into indivdual component drugs
 #removed common names(names in ())
+#removed original med column and prescribing info columns (took first word) 
 ### output files:
 * patient_drugs = all meds and corresponding considerastions/interactions for each patient (pre-processed data) 
 * current_meds.csv = frequency per site of all considerations (including no) found for all meds the patient is on
 * considerations_meds.csv = all meds the patient is on that have a myDNA consideration(excluding no) for all meds the patient is on 
+* interaction_samples.csv =  table of all interactions listed on the myDNA reports
 ```{r current meds}
 setwd("C:/Users/SamBr/Documents/pgx/myDNA_PATIENT_DRUGS")
 getwd()
@@ -373,10 +405,16 @@ data3$CONSIDERATION<-word(data3$`PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST`
 data3$MEDICATION<-gsub("\\([^()]*\\)", "", data3$MEDS)
   data3$MEDICATION<-gsub("\\([^()]*\\)", "", data3$MEDICATION)
   data3<- cSplit(data3, "MEDICATION", sep = "/", direction = "long")
+  data3$MEDICATION<-as.character(data3$MEDICATION)
   data3$MEDICATION<-firstup(data3$MEDICATION)
 
 patient_drugs<-separate(data3,ID, into = c("site", "xxx"), sep = "-", remove = F )%>%
-  select(-xxx)
+  select(-xxx, -MEDS,- 'PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST')
+
+interaction_samples<-patient_drugs[!is.na(patient_drugs$INTERACTION),]%>%
+  cSplit( "INTERACTION", sep = ",", direction = "long")
+interaction_samples$INTERACTION<-toupper(interaction_samples$INTERACTION)
+
 
 cons_freq<-as.data.frame(table(patient_drugs$site, patient_drugs$CONSIDERATION, patient_drugs$MEDICATION))%>%
   rename(c('Var1'= 'site', 'Var2' = 'CONSIDERATION', 'Var3'= 'MEDICATION'))%>%
@@ -394,8 +432,8 @@ patient_all_drugs[4:20][is.na(patient_all_drugs[4:20])] <- 0
 
 patient_consideration<-patient_all_drugs[!grepl("NO", patient_all_drugs$CONSIDERATION),]
 
-write.csv(patient_drugs, "C:/Users/Sam/documents/pgx/results/patient_drugs.csv")
-write.csv(patient_all_drugs, "C:/Users/Sam/documents/pgx/results/current_meds.csv")
-write.csv(patient_consideration, "C:/Users/Sam/documents/pgx/results/consideration_meds.csv")
-
+write.csv(patient_drugs, "C:/Users/SamBr/documents/pgx/results2/patient_drugs.csv")
+write.csv(patient_all_drugs, "C:/Users/SamBr/documents/pgx/results2/current_meds.csv")
+write.csv(patient_consideration, "C:/Users/SamBr/documents/pgx/results2/consideration_meds.csv")
+write.csv(interaction_samples, "C:/Users/SamBr/documents/pgx/results2/interaction_samples.csv")
 ```

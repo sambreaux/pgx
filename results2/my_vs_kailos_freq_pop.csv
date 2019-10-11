@@ -1,0 +1,59 @@
+"","GENE","GENOTYPE","kailos_call","population.level","phenotype","myDNA_call_freq","myDNA_call_freq_percent","kailos_Genotype_Freqency","kailos_Genotype_Freqency_%"
+"1","CYP1A2","*1A/*1A","rs762551:C/C Wild","10.80%","Normal metaboliser"," 12"," 8.00"," 1","  2.7"
+"2","CYP1A2","*1A/*1F","rs762551:C/A Het","44.20%","Normal metaboliser"," 69","46.00","22"," 59.5"
+"3","CYP1A2","*1F/*1F","rs762551:A/A Hom","45%","Rapid metaboliser"," 69","46.00","14"," 37.8"
+"4","CYP2C19","*1/*1","CYP2C19 *1/*1","39.7","Normal metaboliser"," 53","35.33","10"," 27.0"
+"5","CYP2C19","*1/*17","CYP2C19 *1/*17","25.80%","Rapid metaboliser"," 50","33.33","14"," 37.8"
+"6","CYP2C19","*1/*2","CYP2C19 *1/*2","20.70%","Intermediate metaboliser"," 21","14.00"," 7"," 18.9"
+"7","CYP2C19","*17/*17","CYP2C19 *17/*17","0","Ultrarapid metaboliser","  4"," 2.67"," 1","  2.7"
+"8","CYP2C19","*2/*17","CYP2C19 *2/*17","6.20%"," High intermediate metaboliser"," 12"," 8.00"," 3","  8.1"
+"9","CYP2C19","*2/*2","CYP2C19 *2/*2","2.90%","Poor metaboliser"," 10"," 6.67"," 1","  2.7"
+"10","CYP2C9","*1/*1","CYP2C9 *1/*1","64.84%","Normal metaboliser","104","69.33","23"," 62.2"
+"11","CYP2C9","*1/*2","CYP2C9 *1/*2","20.38%","High intermediate metaboliser"," 23","15.33"," 8"," 21.6"
+"12","CYP2C9","*1/*3","CYP2C9 *1/*3","10.60%","Intermediate metaboliser"," 15","10.00"," 4"," 10.8"
+"13","CYP2C9","*2/*2","CYP2C9 *2/*2","1.65%","Poor metaboliser","  4"," 2.67"," 1","  2.7"
+"14","CYP2C9","*2/*3","CYP2C9 *2/*3","1.87%","Poor metaboliser","  3"," 2.00"," 1","  2.7"
+"15","CYP2C9","*3/*3","CYP2C9 *3/*3","0.67%","Poor metaboliser","  1"," 0.67",NA,NA
+"16","CYP2D6","*1/*1","CYP2D6 *1/*1","14.37%","Normal metaboliser"," 23","15.33"," 4"," 10.8"
+"17","CYP2D6","*1/*10","CYP2D6 *1/*10","2.02%","Normal metaboliser","  3"," 2.00",NA,NA
+"18","CYP2D6","*1/*1X2","CYP2D6 *1/*1X2","0.54%","Ultrarapid metaboliser","  1"," 0.67",NA,NA
+"19","CYP2D6","*1/*2","CYP2D6 *1/*2","14.76%","Normal metaboliser"," 32","21.33"," 9"," 24.3"
+"20","CYP2D6","*1/*2x3","CYP2D6 *1/*2x3","0.89%","Ultrarapid metaboliser","  1"," 0.67",NA,NA
+"21","CYP2D6","*1/*3","CYP2D6 *1/*3","1.24%","Low normal metaboliser","  2"," 1.33"," 1","  2.7"
+"22","CYP2D6","*1/*36","CYP2D6 *1/*36","0","Low normal metaboliser","  1"," 0.67",NA,NA
+"23","CYP2D6","*1/*4","CYP2D6 *1/*4","13.79%","Low normal metaboliser"," 17","11.33"," 3","  8.1"
+"24","CYP2D6","*1/*41","CYP2D6 *1/*41","7.93%","Normal metaboliser"," 12"," 8.00"," 2","  5.4"
+"25","CYP2D6","*1/*5","CYP2D6 *1/*5","2.22%","Low normal metaboliser","  3"," 2.00"," 1","  2.7"
+"26","CYP2D6","*1/*6","CYP2D6 *1/*6","0.46%","Low normal metaboliser","  1"," 0.67",NA,NA
+"27","CYP2D6","*1/*9","CYP2D6 *1/*9","1.70%","Normal metaboliser","  1"," 0.67"," 1","  2.7"
+"28","CYP2D6","*10/*10","CYP2D6 *10/*10","0.92%","Intermediate metaboliser","  1"," 0.67",NA,NA
+"29","CYP2D6","*2/*10","CYP2D6 *2/*10","0.91%","Normal metaboliser","  2"," 1.33"," 1","  2.7"
+"30","CYP2D6","*2/*2","CYP2D6 *2/*2","5.09%","Normal metaboliser","  9"," 6.00"," 3","  8.1"
+"31","CYP2D6","*2/*2X2","CYP2D6 *2/*2X2","0.02%","Ultrarapid metaboliser","  1"," 0.67",NA,NA
+"32","CYP2D6","*2/*3","CYP2D6 *2/*3","0.67%","Low normal metaboliser","  1"," 0.67",NA,NA
+"33","CYP2D6","*2/*4","CYP2D6 *2/*4","7.23%","Low normal metaboliser"," 11"," 7.33"," 1","  2.7"
+"34","CYP2D6","*2/*41","CYP2D6 *2/*41","4.46%","Normal metaboliser","  5"," 3.33"," 1","  2.7"
+"35","CYP2D6","*2/*5","CYP2D6 *2/*5","1.24%","Low normal metaboliser","  4"," 2.67"," 1","  2.7"
+"36","CYP2D6","*2/*6","CYP2D6 *2/*6","0.41%","Low normal metaboliser","  1"," 0.67"," 1","  2.7"
+"37","CYP2D6","*3/*3","CYP2D6 *3/*3","0.02%","Poor metaboliser","  1"," 0.67",NA,NA
+"38","CYP2D6","*3/*41","CYP2D6 *3/*41","0.33%","Intermediate metaboliser","  1"," 0.67",NA,NA
+"39","CYP2D6","*4/*10","CYP2D6 *4/*10","0.70%","Intermediate metaboliser","  2"," 1.33",NA,NA
+"40","CYP2D6","*4/*4","CYP2D6 *4/*4","3.42%","Poor metaboliser","  4"," 2.67"," 3","  8.1"
+"41","CYP2D6","*4/*41","CYP2D6 *4/*41","3.59%","Intermediate metaboliser","  5"," 3.33"," 2","  5.4"
+"42","CYP2D6","*4/*6","CYP2D6 *4/*6","0.28%","Poor metaboliser","  1"," 0.67",NA,NA
+"43","CYP2D6","*4/*9","CYP2D6 *4/*9","0.76%","Intermediate metaboliser","  1"," 0.67",NA,NA
+"44","CYP2D6","*5/*41","CYP2D6 *5/*41","0.48%","Intermediate metaboliser","  1"," 0.67",NA,NA
+"45","CYP2D6","*9/*41","CYP2D6 *9/*41","0.50%","Intermediate metaboliser","  2"," 1.33"," 1","  2.7"
+"46","CYP3A4","*1/*1","CYP3A4 *1/*1","93.70%","Normal metaboliser","141","94.00","34"," 91.9"
+"47","CYP3A4","*1/*22","CYP3A4 *1/*22","6.20%","Normal metaboliser","  8"," 5.33"," 2","  5.4"
+"48","CYP3A5","*1/*3","CYP3A5 *1/*3","38.80%","Low normal metaboliser"," 14"," 9.33"," 2","  5.4"
+"49","CYP3A5","*3/*3","CYP3A5 *3/*3","54.30%","Poor metaboliser","136","90.67","35"," 94.6"
+"50","OPRM1","AA","NA","77.10%","Normal metaboliser","107","71.33",NA,NA
+"51","OPRM1","AG","NA","21.40%","Low normal metaboliser"," 35","23.33",NA,NA
+"52","OPRM1","GG","NA","1.50%","Reduced metaboliser","  8"," 5.33",NA,NA
+"53","SLCO1B1","CC","rs4149056:C/C Hom","1.80%","Reduced metaboliser","  3"," 2.00",NA,NA
+"54","SLCO1B1","TC","rs4149056:T/C Het","23.10%","Low normal metaboliser"," 37","24.67","10"," 27.0"
+"55","SLCO1B1","TT","rs4149056:T/T Wild","75.20%","Normal metaboliser","110","73.33","27"," 73.0"
+"56","VKORC1","AA","rs9923231:T/T Hom","16.30%","Poor metaboliser"," 34","22.67"," 9"," 24.3"
+"57","VKORC1","AG","rs9923231:C/T Het","47.90%","Reduced metaboliser"," 59","39.33","14"," 37.8"
+"58","VKORC1","GG","rs9923231:C/C Wild","35.80%","Normal metaboliser"," 57","38.00","14"," 37.8"
