@@ -280,6 +280,7 @@ write.csv(mykailos, "C:/Users/SamBr/Documents/pgx/results2/my_vs_kailos_freq_pop
 pheno_data<-mydata_geno%>%
   select(phenotype, 'PREDICTED FUNCTION')
 
+
 #merge in phenotype information and remove trailing spaces
 fun_pheno<-merge(data, pheno_data, by = 'PREDICTED FUNCTION' )
 fun_pheno<-fun_pheno %>% mutate_if(is.factor, as.character)%>%
@@ -298,7 +299,7 @@ drugs<-sites[c("MEDICATION", "GENE(S)\rINVOLVED")]%>%
 drugs<-read.csv("C:/Users/SamBr/Documents/pgx/drugs.csv")
 
 
-#get frequency of each perdicted metabolism function
+#get frequency of each perdicted phenotype
 mydrugs<-table(fun_pheno$`phenotype`, fun_pheno$GENE)%>%
   as.data.frame()%>%
   rename(c('Var1' = 'phenotype', 'Var2' = 'GENE'))%>%
@@ -313,11 +314,13 @@ function_freq_drug<-merge(fun_pheno, mydrugs, by =c("GENE", "phenotype"))%>%
 #output frequency of perdicted phenotype/drug table as csv 
 write.csv(mydrugs, "C:/Users/SamBr/Documents/pgx/results2/myFUNCTION_drug_freq.csv")
 
-fun_pheno2<-merge(function_freq_drug, drugs, by = 'GENE')
+fun_pheno2<-merge(function_freq_drug, drugs, by = 'GENE')%>%
+  select(MEDICATION, phenotype, Phenotype_freq)%>%
+  unique()
 
 
 #number of times each drug per gene is impacted by each phenotype
-cast_pheno<-dcast(fun_pheno2, MEDICATION+GENE~phenotype, fun.aggregate = mean, value.var = "Phenotype_freq")
+cast_pheno<-dcast(fun_pheno2, MEDICATION~phenotype, fun.aggregate = sum, value.var = "Phenotype_freq")
 cast_pheno[is.na(cast_pheno)] <- 0
 
 names(fun_pheno2)
@@ -350,7 +353,8 @@ write.csv(cast_site, "C:/Users/SamBr/documents/pgx/results2/site_consideration.c
 # consideration per gene
 ### seprated genes into indivdual rows
 ### output files
-*consideration_per_gene.csv = frequency each pharmcutical consideration occurs per gene
+*consideration_per_gene.csv = frequency each pharmacutical consideration occurs per gene
+consideration_freq.csv = requency each pharmacutical consideration occurs per med
 ```{r congene}
 
 #seperate genes into individual rows, remov unncessary rows and returnded unique vales
@@ -364,13 +368,21 @@ conc_freq2<-as.data.frame(table( site2$CONSIDERATION, site2$'GENE(S)\rINVOLVED')
   rename(c('Var1'= 'CONSIDERATION', 'Var2' = 'GENE'))%>%
    mutate(per_fun_freq = Freq/150*100)
 
+#get freq per med
+consideration_freq<-as.data.frame(table(sites$CONSIDERATION, sites$MEDICATION))%>%
+  rename(c( 'Var1' = 'CONSIDERATION', 'Var2'= 'MEDICATION'))%>%
+   mutate('%_consideration_freq (n=150)' = Freq/150*100)
+
+
+
 #output file
 write.csv(conc_freq2, "C:/Users/SamBr/documents/pgx/results2/consideration_per_gene.csv" )
+write.csv(consideration_freq, "C:/Users/SamBr/documents/pgx/results2/consideration_per_med.csv" )
 
 ```
 
 # missing drug 
-
+#oprm1 inconsitancies
 ```{r missing drug}
 lo<-split(sites, sites$ID)
 
@@ -406,18 +418,31 @@ n24325<-as.data.frame(lo$`N24-325`$MEDICATION)%>%
 dif131<-anti_join(normal,j02131)
 dif291<-anti_join(normal,l65291)
 dif325<-anti_join(normal,n24325)
+
+
+oprm1<-mydata_geno%>%
+  select(ID, 'PREDICTED FUNCTION' )
+
+oprm1<-oprm1[grepl("OPRM1", oprm1$`PREDICTED FUNCTION`),]
+
+oprm1<-as.data.frame(table(oprm1$`PREDICTED FUNCTION`))%>%
+  rename(c('Var1' = 'PREDICTED FUNCTION'))%>%
+  merge(oprm1, by = 'PREDICTED FUNCTION')
+write.csv(oprm1, "C:/Users/SamBr/documents/pgx/oprm1.csv")
 ```
 
 #current medication 
 ###changed all insulins to just insulin 
-### split combination drugs into indivdual component drugs
+### split combination drugs into indivdual component drugs #undid this
 ### removed common names(names in ())
 ### removed original med column and prescribing info columns (took first word) 
 ### output files:
 * patient_drugs = all meds and corresponding considerastions/interactions for each patient (pre-processed data) 
 * current_meds.csv = frequency per site of all considerations (including no) found for all meds the patient is on
 * considerations_meds.csv = all meds the patient is on that have a myDNA consideration(excluding no) for all meds the patient is on 
-* interaction_samples.csv =  table of all interactions listed on the myDNA reports
+*interaction_samples.csv = samples that have a recorded interaction
+*interaction_gene-med_freq.csv = frequency of each interaction type by the gene/med that it impacts n =  total number of drugs recorded
+*interaction_freq.csv = frequency of each interaction type n = total number of drugs recorded
 ```{r current meds}
 
 # load in and tidy data
@@ -430,8 +455,8 @@ data3 <- as.data.frame(rbindlist(temp3, use.names = TRUE))%>%
   rename(c('MEDICATION' = 'MEDS'))
 data3$CONSIDERATION<-word(data3$`PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST`, 1)
 data3$MEDICATION<-gsub("\\([^()]*\\)", "", data3$MEDS)
-  data3$MEDICATION<-gsub("\\([^()]*\\)", "", data3$MEDICATION)
-  data3<- cSplit(data3, "MEDICATION", sep = "/", direction = "long")
+  data3$MEDICATION<-gsub("\\([^()]*\\)", "", data3$MEDICATION) 
+  #data3<- cSplit(data3, "MEDICATION", sep = "/", direction = "long")
   data3$MEDICATION<-as.character(data3$MEDICATION)
   data3$MEDICATION<-firstup(data3$MEDICATION)
 
@@ -439,18 +464,55 @@ data3$MEDICATION<-gsub("\\([^()]*\\)", "", data3$MEDS)
 patient_drugs<-separate(data3,ID, into = c("site", "xxx"), sep = "-", remove = F )%>%
   select(-xxx, -MEDS,- 'PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST')
 
-#remove NAs, split sperate interaction data intoindividual rows, match case
+#remove NAs, split sperate interaction data into individual rows, match case
 interaction_samples<-patient_drugs[!is.na(patient_drugs$INTERACTION),]%>%
   cSplit( "INTERACTION", sep = ",", direction = "long")
 interaction_samples$INTERACTION<-toupper(interaction_samples$INTERACTION)
 
+#73 patients had at least one type of interaction (48.6667%)
+yyyy<- interaction_samples%>%
+  select(ID)%>%
+  unique()
+73/150*100
+# 53 had at least one drug gene interaction (35.333%) 20 had antidepressent-synergy (13.3333%)
+DRUG_GENE<-interaction_samples[!grepl("SEROTONIN TOXICITY", interaction_samples$interaction_TYPE),]%>%
+  select(ID)%>%
+  unique()
+53/150*100
+20/150*100
 
-#get  frequency of each ocnsideration
+
+#take last word
+interaction_samples$'interaction_with'<-str_extract(interaction_samples$INTERACTION, '\\w+$')
+# take interaction type 
+interaction_samples$'interaction_TYPE'<- str_extract(interaction_samples$INTERACTION, "INDUCER|INHIBITOR MODERATE|INHIBITOR STRONG| SEROTONIN TOXICITY")
+
+#frequency of each interaction type n = all drugs recorded
+inter_FREQ<-as.data.frame(table(interaction_samples$interaction_TYPE))%>%
+  mutate('%_freq_of_type (n=880)' = Freq/880*100 )%>%
+  rename( c('Var1' = 'interaction_type'))
+
+#frequency of each interaction type by 'gene/med' it effects
+inter_FREQ_gene<-as.data.frame(table(interaction_samples$interaction_TYPE, interaction_samples$interaction_with))%>%
+  mutate_all(~replace(., . == "0", NA))%>%
+  na.omit()%>%
+  mutate('%_freq_of_gene/med_type (n=880)' = Freq/880*100 )%>%
+  rename( c('Var1' = 'interaction_type', 'Var2' = 'GENE'))
+
+
+
+#get  frequency of each consideration
 cons_freq<-as.data.frame(table(patient_drugs$site, patient_drugs$CONSIDERATION, patient_drugs$MEDICATION))%>%
   rename(c('Var1'= 'site', 'Var2' = 'CONSIDERATION', 'Var3'= 'MEDICATION'))%>%
   merge(patient_drugs, by = c('site', 'CONSIDERATION', 'MEDICATION'), all =T)%>%
   rename(c('GENE(S)'= 'GENEs'))
 patient_freq<-cons_freq[complete.cases(cons_freq$ID),]
+
+consideration_alldrugs<-as.data.frame(table (patient_drugs$CONSIDERATION, patient_drugs$MEDICATION)) %>%
+  rename(c('Var2'= 'MEDICATION', 'Var1' = 'CONSIDERATION'))%>%
+  mutate_all(~replace(., . == "0", NA)) %>%
+  na.omit()
+
 
 #cast and rename
 patient_all_drugs<-dcast(patient_freq, MEDICATION+GENEs+CONSIDERATION~site, fun.aggregate = mean, value.var = "Freq")%>%
@@ -468,4 +530,7 @@ write.csv(patient_drugs, "C:/Users/SamBr/documents/pgx/results2/patient_drugs.cs
 write.csv(patient_all_drugs, "C:/Users/SamBr/documents/pgx/results2/current_meds.csv")
 write.csv(patient_consideration, "C:/Users/SamBr/documents/pgx/results2/consideration_meds.csv")
 write.csv(interaction_samples, "C:/Users/SamBr/documents/pgx/results2/interaction_samples.csv")
+write.csv(consideration_alldrugs, "C:/Users/SamBr/documents/pgx/results2/current_consideration.csv")
+write.csv(inter_FREQ_gene, "C:/Users/SamBr/documents/pgx/results2/interaction_gene-med_freq.csv")
+write.csv(inter_FREQ, "C:/Users/SamBr/documents/pgx/results2/interaction_freq.csv")
 ```
