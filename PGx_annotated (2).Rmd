@@ -62,8 +62,8 @@ temp <- lapply(files, fread, sep=",")
 data <- rbindlist(temp)%>%
   mutate_if(is.character, str_trim)
 
+
 #make CSV of all myDNA patient genotype information
-write_csv (data, "C:/Users/SamBr/Documents/pgx/results2/tidy_mydna.csv")
 
 #load in kailos data and remove any trailing spaces
 kdata<-read.csv("C:/Users/SamBr/Documents/pgx/allkailos4.csv")
@@ -257,7 +257,7 @@ write.csv(mmm, "C:/Users/SamBr/Documents/pgx/results2/my_vs_kaliosgenotypes.csv"
 
 ```{r myDNA vs kailos genotype freq}
 #merge kailos freq into myDNA freq table
-mykailos<-join(frequencies, lol, by = "kailos_call", match = "all")
+mykailos<-join(frequencies, lol, by = "kailos_call")
 
 #remove last colunmn (duplicate)
 mykailos<-mykailos[c(1:9)]
@@ -276,6 +276,16 @@ write.csv(mykailos, "C:/Users/SamBr/Documents/pgx/results2/my_vs_kailos_freq_pop
 * myFUNCTION_drug_freq.csv = frequncy of each predicted phenotype
 * drug_pheno.csv = number of times each phenotype was called for each drug based on gene
 ```{r drug pheno}
+#get cleaner function/ phenotype data
+pheno_data<-mydata_geno%>%
+  select(phenotype, 'PREDICTED FUNCTION')
+
+#merge in phenotype information and remove trailing spaces
+fun_pheno<-merge(data, pheno_data, by = 'PREDICTED FUNCTION' )
+fun_pheno<-fun_pheno %>% mutate_if(is.factor, as.character)%>%
+  mutate_if(is.character, str_trim)%>%
+  unique()
+
 #get unique drug gene information, rename colum to match 
 drugs<-sites[c("MEDICATION", "GENE(S)\rINVOLVED")]%>%
   unique()%>%
@@ -289,35 +299,30 @@ drugs<-read.csv("C:/Users/SamBr/Documents/pgx/drugs.csv")
 
 
 #get frequency of each perdicted metabolism function
-mydrugs<-table(data$`PREDICTED FUNCTION`)%>%
+mydrugs<-table(fun_pheno$`phenotype`, fun_pheno$GENE)%>%
   as.data.frame()%>%
-  rename(c('Var1' = 'PREDICTED FUNCTION'))%>%
+  rename(c('Var1' = 'phenotype', 'Var2' = 'GENE'))%>%
   mutate(per_fun_freq = Freq/150*100)%>%
   rename(c('Freq'= 'Phenotype_freq'))%>%
-  merge(data, by = 'PREDICTED FUNCTION')%>%
-  select(-ID, -GENOTYPE)%>%
   unique()
 
 #merge in drug data  
-function_freq_drug<-merge(mydrugs, drugs, by ="GENE")
+function_freq_drug<-merge(fun_pheno, mydrugs, by =c("GENE", "phenotype"))%>%
+  unique()
 
 #output frequency of perdicted phenotype/drug table as csv 
-write.csv(function_freq_drug, "C:/Users/SamBr/Documents/pgx/results2/myFUNCTION_drug_freq.csv")
+write.csv(mydrugs, "C:/Users/SamBr/Documents/pgx/results2/myFUNCTION_drug_freq.csv")
 
-#get cleaner function/ phenotype data
-pheno_data<-mydata_geno%>%
-  select(phenotype, 'PREDICTED FUNCTION')
+fun_pheno2<-merge(function_freq_drug, drugs, by = 'GENE')
 
-#merge in phenotype information and remove trailing spaces
-fun_pheno<-merge(function_freq_drug, pheno_data, by = 'PREDICTED FUNCTION' )%>%
-  unique()
-fun_pheno<-fun_pheno %>% mutate_if(is.factor, as.character)%>%
-  mutate_if(is.character, str_trim)
 
 #number of times each drug per gene is impacted by each phenotype
-cast_pheno<-dcast(fun_pheno, MEDICATION+GENE~phenotype, fun.aggregate = sum, value.var = "Phenotype_freq")
+cast_pheno<-dcast(fun_pheno2, MEDICATION+GENE~phenotype, fun.aggregate = mean, value.var = "Phenotype_freq")
+cast_pheno[is.na(cast_pheno)] <- 0
+
+names(fun_pheno2)
 #output file as csv
-write.csv(cast_pheno, "C:/Users/SamBr/Documents/pgx/drug_pheno.csv")
+write.csv(cast_pheno, "C:/Users/SamBr/Documents/pgx/results2/drug_pheno.csv")
 ```
 
 # number of drug consideration per study site
@@ -342,9 +347,29 @@ cast_site[is.na(cast_site)] <- 0
 #output as a csv 
 write.csv(cast_site, "C:/Users/SamBr/documents/pgx/results2/site_consideration.csv")
 ```
+# consideration per gene
+### seprated genes into indivdual rows
+### output files
+*consideration_per_gene.csv = frequency each pharmcutical consideration occurs per gene
+```{r congene}
+
+#seperate genes into individual rows, remov unncessary rows and returnded unique vales
+site2<-sites%>%
+  cSplit( "GENE(S)\rINVOLVED", sep = "\r", direction = "long")%>%
+  select(-MEDICATION, -"PUBLISHED\rGUIDELINES" , -"POTENTIAL CLINICAL ISSUES", -`DRUG CATEGORY`)%>%
+  unique()
+
+#get frequency and percent freq
+conc_freq2<-as.data.frame(table( site2$CONSIDERATION, site2$'GENE(S)\rINVOLVED'))%>%
+  rename(c('Var1'= 'CONSIDERATION', 'Var2' = 'GENE'))%>%
+   mutate(per_fun_freq = Freq/150*100)
+
+#output file
+write.csv(conc_freq2, "C:/Users/SamBr/documents/pgx/results2/consideration_per_gene.csv" )
+
+```
 
 # missing drug 
-from here on is me investigating (in a round about way) the missing drug, acenocoumarol, in the three patients J02-131, L65-291, and N24-325
 
 ```{r missing drug}
 lo<-split(sites, sites$ID)
@@ -383,17 +408,19 @@ dif291<-anti_join(normal,l65291)
 dif325<-anti_join(normal,n24325)
 ```
 
-current medication 
-#changed all insulins to just insulin 
-# split combination drugs into indivdual component drugs
-#removed common names(names in ())
-#removed original med column and prescribing info columns (took first word) 
+#current medication 
+###changed all insulins to just insulin 
+### split combination drugs into indivdual component drugs
+### removed common names(names in ())
+### removed original med column and prescribing info columns (took first word) 
 ### output files:
 * patient_drugs = all meds and corresponding considerastions/interactions for each patient (pre-processed data) 
 * current_meds.csv = frequency per site of all considerations (including no) found for all meds the patient is on
 * considerations_meds.csv = all meds the patient is on that have a myDNA consideration(excluding no) for all meds the patient is on 
 * interaction_samples.csv =  table of all interactions listed on the myDNA reports
 ```{r current meds}
+
+# load in and tidy data
 setwd("C:/Users/SamBr/Documents/pgx/myDNA_PATIENT_DRUGS")
 getwd()
 files3 <- list.files()
@@ -408,28 +435,33 @@ data3$MEDICATION<-gsub("\\([^()]*\\)", "", data3$MEDS)
   data3$MEDICATION<-as.character(data3$MEDICATION)
   data3$MEDICATION<-firstup(data3$MEDICATION)
 
+#add in site information
 patient_drugs<-separate(data3,ID, into = c("site", "xxx"), sep = "-", remove = F )%>%
   select(-xxx, -MEDS,- 'PRESCRIBING CONSIDERATIONS BASED ON myDNA TEST')
 
+#remove NAs, split sperate interaction data intoindividual rows, match case
 interaction_samples<-patient_drugs[!is.na(patient_drugs$INTERACTION),]%>%
   cSplit( "INTERACTION", sep = ",", direction = "long")
 interaction_samples$INTERACTION<-toupper(interaction_samples$INTERACTION)
 
 
+#get  frequency of each ocnsideration
 cons_freq<-as.data.frame(table(patient_drugs$site, patient_drugs$CONSIDERATION, patient_drugs$MEDICATION))%>%
   rename(c('Var1'= 'site', 'Var2' = 'CONSIDERATION', 'Var3'= 'MEDICATION'))%>%
   merge(patient_drugs, by = c('site', 'CONSIDERATION', 'MEDICATION'), all =T)%>%
   rename(c('GENE(S)'= 'GENEs'))
 patient_freq<-cons_freq[complete.cases(cons_freq$ID),]
 
-
+#cast and rename
 patient_all_drugs<-dcast(patient_freq, MEDICATION+GENEs+CONSIDERATION~site, fun.aggregate = mean, value.var = "Freq")%>%
   rename(c('BCP'= 'BCP (n=8)', "D59"  ='D59 (n=1)', "F31" = 'F31 (n=2)' ,   "J02" = "J02 (n=8)", "K74" = 'k74 (n=6)', "K76" = "k76 (n=10)" ,"L65" = "L65 (n=20)",
            "N24"= "N24 (n=20)" , "N43"= "N43 (n=9)", "N83" = "N83 (n=16)", "S73"= "S73 (n=5)", "S81"= "S81 (n=4)", "S94" = "S94 (n=3)", "T37"= "T37 (n=9)", "T60" = "T60 (n=9)", 
            "W19" = "W19 (n=10)", "X73" = "X73 (n=10)"))
 
+#NAs to 0 
 patient_all_drugs[4:20][is.na(patient_all_drugs[4:20])] <- 0
 
+#remove no cases
 patient_consideration<-patient_all_drugs[!grepl("NO", patient_all_drugs$CONSIDERATION),]
 
 write.csv(patient_drugs, "C:/Users/SamBr/documents/pgx/results2/patient_drugs.csv")

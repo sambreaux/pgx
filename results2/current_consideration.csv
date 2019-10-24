@@ -1,0 +1,293 @@
+"","CONSIDERATION","MEDICATION","Freq"
+"3","NO","Acetaminophen",15
+"7","NO","Acetaminophen ",10
+"11","NO","Acetazolamide",1
+"15","NO","Acetylsalicylic acid ",1
+"19","NO","Adalimumab ",1
+"23","NO","Adapalene",1
+"27","NO","Allopurinol",2
+"31","NO","Alprazolam",1
+"33","Major","Amitriptyline ",10
+"34","Minor","Amitriptyline ",1
+"36","Usual","Amitriptyline ",1
+"39","NO","Amlodipine",13
+"43","NO","Amoxicillin",1
+"47","NO","Amphetamine ",3
+"51","NO","Amylase / betaine hydrochloride / papain ",1
+"55","NO","Anastrozole",1
+"59","NO","Andesartan",1
+"62","Minor","Aripiprazole",1
+"64","Usual","Aripiprazole",2
+"65","Major","Aripiprazole ",2
+"66","Minor","Aripiprazole ",1
+"68","Usual","Aripiprazole ",3
+"71","NO","Aspirin",4
+"75","NO","Aspirin ",3
+"79","NO","Atenolol",1
+"82","Minor","Atorvastatin",5
+"84","Usual","Atorvastatin",5
+"87","NO","Azathioprine",2
+"91","NO","Azelastine",1
+"95","NO","Azithromycin",1
+"99","NO","Baclofen",1
+"103","NO","Beclomethasone dipropionate",2
+"107","NO","Betamethasone dipropionate",2
+"111","NO","Betamethasone valerate ",2
+"115","NO","Bisoprolol",4
+"119","NO","Bisoprolol ",1
+"123","NO","Bisoprolol,",1
+"127","NO","Brimonidine",1
+"131","NO","Brinzolamide ",1
+"135","NO","Budesonide",2
+"139","NO","Budesonide / eformoterol fumarate dihydrate ",7
+"143","NO","Buprenorphine ",1
+"147","NO","Buprenorphine hydrochloride / naloxone ",1
+"151","NO","Bupropion",15
+"155","NO","Buspirone",4
+"159","NO","Caffeine ",6
+"163","NO","Calcium carbonate ",3
+"167","NO","Calcium carbonate / potassium bicarbonate / sodium alginate ",1
+"171","NO","Candesartan ",2
+"175","NO","Carbamazepine",2
+"179","NO","Carbidopa / entacapone / levodopa ",1
+"184","Usual","Celecoxib ",1
+"187","NO","Cephalexin",1
+"191","NO","Cetirizine",3
+"196","Usual","Chlorpromazine",1
+"199","NO","Ciprofloxacin ",1
+"201","Major","Citalopram",11
+"202","Minor","Citalopram",8
+"204","Usual","Citalopram",7
+"207","NO","Clindamycin",1
+"211","NO","Clobetasol propionate ",2
+"215","NO","Clonazepam",11
+"219","NO","Clonazepam ",1
+"223","NO","Clonidine",2
+"225","Major","Clopidogrel",2
+"226","Minor","Clopidogrel",3
+"232","Usual","Codeine",1
+"236","Usual","Codeine ",8
+"239","NO","Cyclosporin",1
+"243","NO","Cyproterone",1
+"247","NO","Dabigatran ",1
+"251","NO","Denosumab ",2
+"255","NO","Desogestrel / ethinyloestradiol ",2
+"259","NO","Desvenlafaxine",1
+"263","NO","Desvenlafaxine ",1
+"268","Usual","Dexamphetamine",1
+"270","Minor","Dextroamphetamine ",1
+"272","Usual","Dextroamphetamine ",2
+"276","Usual","Diazepam",1
+"280","Usual","Diclofenac",8
+"282","Minor","Diclofenac ",1
+"284","Usual","Diclofenac ",4
+"287","NO","Diltiazem",1
+"291","NO","Dimenhydrinate ",3
+"295","NO","Domperidone",2
+"300","Usual","Doxepin",1
+"303","NO","Drospirenone / ethinyloestradiol ",2
+"306","Minor","Duloxetine",3
+"308","Usual","Duloxetine",3
+"310","Minor","Duloxetine ",3
+"312","Usual","Duloxetine ",1
+"315","NO","Dutasteride",1
+"319","NO","Dutasteride / tamsulosin ",1
+"323","NO","Eletriptan",2
+"325","Major","Escitalopram ",12
+"326","Minor","Escitalopram ",4
+"328","Usual","Escitalopram ",10
+"330","Minor","EscitalopramV ",1
+"334","Minor","Esomeprazole",3
+"338","Minor","Esomeprazole ",1
+"343","NO","Estradiol",3
+"347","NO","Ethinylestradiol / levonorgestrel ",4
+"351","NO","Ethinyloestradiol / levonorgestrel ",1
+"355","NO","Ethinyloestradiol / norethisterone ",1
+"359","NO","Ezetimibe",2
+"363","NO","Fenofibrate ",1
+"367","NO","Finasteride",1
+"372","Usual","Flecainide",1
+"375","NO","Fluorometholone",1
+"377","Major","Fluoxetine",1
+"378","Minor","Fluoxetine",2
+"380","Usual","Fluoxetine",9
+"383","NO","Fluticasone",6
+"387","NO","Fluticasone ",4
+"392","Usual","Fluvoxamine",1
+"395","NO","Folic acid",6
+"399","NO","Furosemide ",5
+"403","NO","Gabapentin",15
+"406","Minor","Glibenclamide",1
+"408","Usual","Glibenclamide",1
+"410","Minor","Gliclazide",2
+"412","Usual","Gliclazide",1
+"416","Usual","Gliclazide ",1
+"419","NO","Glucosamine ",1
+"423","NO","Golimumab ",2
+"427","NO","Hydrochlorothiazide",6
+"431","NO","Hydrochlorothiazide, aspirin ",1
+"435","NO","Hydrocortisone",3
+"439","NO","Hydrocortisone sodium succinate ",1
+"443","NO","Hydromorphone hydrochloride",2
+"447","NO","Hydromorphone hydrochloride ",1
+"451","NO","Hydroxychloroquine",3
+"455","NO","Hydroxyzine hydrochloride",1
+"459","NO","Hydroxyzine hydrochloride ",1
+"463","NO","Ibandronate sodium ",1
+"465","Major","Ibuprofen",1
+"466","Minor","Ibuprofen",4
+"468","Usual","Ibuprofen",9
+"470","Minor","Ibuprofen ",2
+"473","Major","Imipramine",1
+"479","NO","Indapamide",1
+"483","NO","Infliximab ",1
+"487","NO","Insulin ",9
+"491","NO","Ipratropium ",1
+"496","Usual","Irbesartan",2
+"499","NO","Ketorolac trometamol",2
+"503","NO","Lamotrigine",7
+"507","NO","Lamotrigine ",1
+"509","Major","Lansoprazole",1
+"510","Minor","Lansoprazole",1
+"515","NO","Latanoprost",2
+"519","NO","Letrozole",1
+"523","NO","Levetiracetam",1
+"527","NO","Levonorgestrel ",1
+"531","NO","Levothyroxine sodium ",13
+"535","NO","Liothyronine",2
+"538","Minor","Lisdexamfetamine ",1
+"543","NO","Lithium",2
+"547","NO","Loratadine",3
+"551","NO","Lorazepam",14
+"555","NO","Lorazepam ",3
+"560","Usual","Losartan",1
+"563","NO","Lurasidone ",1
+"567","NO","Medroxyprogesterone",1
+"571","NO","Medroxyprogesterone ",1
+"574","Minor","Melatonin",4
+"576","Usual","Melatonin",6
+"580","Usual","Meloxicam",2
+"583","NO","Meperidine hydrochloride ",1
+"587","NO","Mesalazine",2
+"591","NO","Metformin",6
+"595","NO","Metformin ",3
+"599","NO","Metformin / sitagliptin ",1
+"603","NO","Methadone",2
+"607","NO","Methocarbamol ",5
+"611","NO","Methotrexate",4
+"615","NO","Methylphenidate",1
+"617","Major","Metoprolol",1
+"620","Usual","Metoprolol",4
+"623","NO","Metronidazole",2
+"627","NO","Minoxidil",1
+"630","Minor","Mirtazapine",7
+"632","Usual","Mirtazapine",5
+"634","Minor","Moclobemide",2
+"639","NO","Modafinil",1
+"643","NO","Mometasone",2
+"647","NO","Mometasone ",2
+"651","NO","Montelukast",3
+"655","NO","Montelukast ",1
+"659","NO","Mycophenolate",2
+"662","Minor","Naltrexone",1
+"664","Usual","Naltrexone",1
+"667","NO","Naproxen",7
+"671","NO","Nifedipine",2
+"675","NO","Nifedipine ",2
+"679","NO","Nitrofurantoin",1
+"683","NO","Nitrofurantoin ",1
+"685","Major","Nortriptyline",1
+"686","Minor","Nortriptyline",2
+"688","Usual","Nortriptyline",3
+"691","NO","Nystatin",1
+"695","NO","Oestradiol ",3
+"699","NO","Oestriol",1
+"703","NO","Oestrogen ",5
+"706","Minor","Olanzapine",3
+"708","Usual","Olanzapine",2
+"711","NO","Olopatadine",3
+"714","Minor","Omeprazole",1
+"718","Minor","Ondansetron",1
+"720","Usual","Ondansetron",1
+"723","NO","Orlistat",1
+"727","NO","Oxazepam",2
+"731","NO","Oxcarbazepine ",1
+"734","Minor","Oxycodone",1
+"740","Usual","Oxycodone ",1
+"743","NO","Pancreatic extract bp ",1
+"746","Minor","Pantoprazole",15
+"749","Major","Pantoprazole ",1
+"750","Minor","Pantoprazole ",3
+"756","Usual","Paroxetine",2
+"759","NO","Perindopril ",1
+"762","Minor","Pimozide",1
+"767","NO","Potassium chloride ",1
+"771","NO","Prazosin",3
+"775","NO","Prednisone",5
+"779","NO","Pregabalin",3
+"783","NO","Progesterone",3
+"786","Minor","Propranolol",2
+"788","Usual","Propranolol",2
+"791","NO","Pseudoephedrine ",1
+"794","Minor","Quetiapine",2
+"796","Usual","Quetiapine",21
+"800","Usual","Quetiapine ",1
+"802","Minor","Rabeprazole",9
+"807","NO","Ramipril",15
+"811","NO","Ranitidine",7
+"815","NO","Risedronate ",1
+"818","Minor","Risperidone",2
+"820","Usual","Risperidone",1
+"822","Minor","Risperidone ",1
+"827","NO","Rituximab",1
+"831","NO","Rivaroxaban",1
+"835","NO","Rivaroxaban ",1
+"839","NO","Rizatriptan benzoate ",1
+"844","Usual","Rosuvastatin",13
+"847","NO","Salbutamol",7
+"851","NO","Salbutamol ",4
+"855","NO","Salmeterol",1
+"859","NO","Sennosides a and b ",1
+"862","Minor","Sertraline",9
+"864","Usual","Sertraline",6
+"866","Minor","Sertraline ",1
+"868","Usual","Sertraline ",1
+"871","NO","Sildenafil ",1
+"875","NO","Sodium fusidate ",1
+"879","NO","Somatropin ",1
+"883","NO","Spironolactone",4
+"887","NO","Sulfasalazine",1
+"891","NO","Sulfasalazine ",1
+"895","NO","Sumatriptan",3
+"900","Usual","Tacrolimus",3
+"903","NO","Tadalafil ",1
+"907","NO","Tamsulosin",5
+"911","NO","Telmisartan",1
+"915","NO","Temazepam",1
+"919","NO","Testosterone",4
+"923","NO","Thyroxine",5
+"927","NO","Thyroxine,",1
+"932","Usual","Timolol ",1
+"935","NO","Tiotropium ",1
+"939","NO","Topiramate",3
+"941","Major","Tramadol",1
+"948","Usual","Tramadol ",1
+"951","NO","Travoprost",1
+"955","NO","Travoprost ",1
+"959","NO","Trazadone",22
+"963","NO","Trimethoprim",1
+"967","NO","Trimipramine,",1
+"971","NO","Ursodiol ",1
+"975","NO","Valaciclovir",2
+"979","NO","Valproate",5
+"983","NO","Valsartan",3
+"987","NO","Varenicline ",2
+"990","Minor","Venlafaxine",8
+"992","Usual","Venlafaxine",15
+"994","Minor","Vortioxetine ",1
+"996","Usual","Vortioxetine ",1
+"997","Major","Warfarin",1
+"1003","NO","Ziprasidone ",1
+"1007","NO","Zolmitriptan",2
+"1011","NO","Zolpidem",1
+"1015","NO","Zopiclone",19
